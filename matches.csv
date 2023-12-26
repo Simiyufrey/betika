@@ -1,0 +1,402 @@
+Home Team, Away Team, Home odd, Away odd, Draw,Competition Name,Category,start time ,game id,match id, parent match id
+AL Adalh,AL Ain,1.57,5.20,4.00,Division 1,Saudi Arabia,2023-12-26 15:00:00,97213,6782783,42397213
+BOURNEMOUTH,Fulham,2.11,3.30,3.60,Premier League,England,2023-12-26 18:00:00,60817,6767642,41763201
+Sheff Utd,Luton,2.48,2.95,3.25,Premier League,England,2023-12-26 18:00:00,58237,6767645,41763219
+NEWCASTLE,Nottingham Forest,1.42,7.60,5.00,Premier League,England,2023-12-26 15:30:00,63217,6545531,41763217
+MAN UTD,Aston Villa,2.48,2.65,3.80,Premier League,England,2023-12-26 23:00:00,63215,6545511,41763215
+BURNLEY,LIVERPOOL,7.60,1.37,5.40,Premier League,England,2023-12-26 20:30:00,63209,6545507,41763209
+SOUTHAMPTON,SWANSEA,1.48,5.60,4.50,Championship,England,2023-12-26 18:00:00,88175,6771059,41888175
+Rotherham,Middlesbrough,5.60,1.56,4.00,Championship,England,2023-12-26 18:00:00,88173,6771071,41888173
+Preston,Leeds,5.80,1.54,4.10,Championship,England,2023-12-26 15:30:00,98287,6770457,41888171
+Millwall,Queens Park Rangers,2.16,3.45,3.15,Championship,England,2023-12-26 16:00:00,74616,6770528,41888169
+Dundee FC,CELTIC,9.80,1.25,6.00,Premiership,Scotland,2023-12-26 18:00:00,79293,6771035,42021561
+Al Jabalain,Al Safa (Ksa),1.56,5.60,3.85,Division 1,Saudi Arabia,2023-12-26 15:30:00,97217,6782777,42397217
+Knockbreda,Institute,6.40,1.37,4.90,Championship,Northern Ireland,2023-12-26 17:00:00,27883,6786142,42013923
+TNS,Caernarfon,1.06,20.00,12.00,Cymru Premier,Wales,2023-12-26 17:30:00,99083,6775431,41844111
+GENK,Antwerp,2.36,2.80,3.50,Pro League,Belgium,2023-12-26 15:30:00,93981,6538382,41893981
+Mansfield,Grimsby Town,1.49,5.80,4.50,League Two,England,2023-12-26 15:30:00,90553,6659121,41890553
+Airbus UK,Gresford Ath,1.33,6.40,5.20,Cymru Championship North,Wales,2023-12-26 17:30:00,66417,6790289,41966417
+Baglan Dragons,Briton Ferry,4.60,1.51,4.60,Cymru Championship South,Wales,2023-12-26 17:00:00,65899,6790321,41965899
+Carmarthen Town,Pontardawe Town,1.31,6.60,5.40,Cymru Championship South,Wales,2023-12-26 17:00:00,65901,6790330,41965901
+Guilsfield,Chirk AAA,1.35,6.40,5.00,Cymru Championship North,Wales,2023-12-26 17:30:00,66423,6790310,41966423
+Llanelli,Ammanford,1.42,5.20,5.00,Cymru Championship South,Wales,2023-12-26 17:30:00,65907,6790319,41965907
+WATFORD,Bristol City,1.90,4.00,3.40,Championship,England,2023-12-26 18:00:00,88177,6771069,41888177
+Hull,Sunderland,2.55,2.65,3.30,Championship,England,2023-12-26 18:00:00,88165,6771061,41888165
+Cardiff,Plymouth,1.98,3.50,3.60,Championship,England,2023-12-26 18:00:00,88159,6771063,41888159
+Coventry,Sheffield Wednesday,1.77,4.40,3.60,Championship,England,2023-12-26 18:00:00,88161,6771065,41888161
+HUDDERSFIELD,Blackburn,3.05,2.16,3.60,Championship,England,2023-12-26 18:00:00,88163,6771067,41888163
+Ipswich,Leicester,3.00,2.22,3.50,Championship,England,2023-12-26 22:45:00,95557,6771838,41888167
+WEST BROM,Norwich,1.95,3.70,3.50,Championship,England,2023-12-26 18:00:00,88179,6771093,41888179
+Birmingham,Stoke,2.75,2.48,3.25,Championship,England,2023-12-26 20:15:00,92151,6771571,41888157
+H. Beer Sheva,H Haifa,1.66,4.60,3.85,Premier League,Israel,2023-12-26 21:00:00,17533,6706688,45817533
+Peterborough,Reading,1.43,6.20,4.70,League One,England,2023-12-26 18:00:00,89327,6771099,41889327
+Carrick Rangers,Larne,6.80,1.42,4.40,Premiership,Northern Ireland,2023-12-26 18:00:00,29721,6786002,41985929
+Solihull Moors,Chesterfield,5.60,1.49,4.40,National League,England,2023-12-26 18:00:00,25597,6783949,42136181
+Gateshead,York,1.29,8.40,5.40,National League,England,2023-12-26 18:00:00,43819,6783737,42136173
+Wimbledon,Sutton,1.42,6.80,4.50,League Two,England,2023-12-26 18:00:00,10468,6771039,41890541
+Notts County,Doncaster,1.58,5.00,4.20,League Two,England,2023-12-26 18:00:00,93957,6771041,41890557
+KORTRIJK,GENT,7.60,1.34,5.20,Pro League,Belgium,2023-12-26 18:00:00,93995,6538383,41893995
+Stade Malien,Black Star,1.38,8.60,3.90,Ligue 1,Mali,2023-12-26 18:45:00,30127,6787903,46426683
+Husa Hassania,Casablanca,5.20,1.70,3.35,Botola Pro D1,Morocco,2023-12-26 20:00:00,78167,6759521,46207619
+Medeama,Bibiani Gold Stars FC,1.51,5.60,3.55,Premier League,Ghana,2023-12-26 18:00:00,51487,6788591,42722703
+Al-Ittihad Jeddah,Al Nasr,4.30,1.64,4.40,Saudi Pro League,Saudi Arabia,2023-12-26 21:00:00,52012,6460067,44352012
+Trefelin,Afan Lido,3.30,1.86,3.85,Cymru Championship South,Wales,2023-12-26 20:30:00,9607,6787267,41965909
+Arsenal,WEST HAM,1.35,8.40,5.60,Premier League,England,2023-12-28 23:15:00,35036,6545588,44860712
+CHELSEA,Crystal Palace,1.80,4.50,3.85,Premier League,England,2023-12-27 22:30:00,63211,6545525,41763211
+Brentford,Wolves,1.98,3.85,3.50,Premier League,England,2023-12-27 22:30:00,40980,6771773,41763205
+Everton,MAN CITY,5.60,1.61,4.20,Premier League,England,2023-12-27 23:15:00,63213,6545509,41763213
+Luton,CHELSEA,4.80,1.67,3.95,Premier League,England,2023-12-30 15:30:00,63229,6545520,41763229
+MAN CITY,Sheff Utd,1.07,29.00,11.00,Premier League,England,2023-12-30 18:00:00,99369,6784018,41763231
+Wolves,Everton,2.60,2.70,3.30,Premier League,England,2023-12-30 18:00:00,90525,6784010,41763239
+Crystal Palace,Brentford,2.46,2.85,3.30,Premier League,England,2023-12-30 18:00:00,5945,6784016,41763223
+Aston Villa,BURNLEY,1.36,7.60,5.20,Premier League,England,2023-12-30 18:00:00,2137,6784007,41763221
+Nottingham Forest,MAN UTD,3.20,2.13,3.60,Premier League,England,2023-12-30 20:30:00,63233,6545529,41763233
+Fulham,Arsenal,5.20,1.58,4.20,Premier League,England,2023-12-31 17:00:00,63225,6545522,41763225
+TOTTENHAM,BOURNEMOUTH,1.59,4.90,4.40,Premier League,England,2023-12-31 17:00:00,63235,6545519,41763235
+WEST HAM,BRIGHTON,2.33,2.80,3.70,Premier League,England,2024-01-02 22:30:00,63237,6545594,41763237
+LIVERPOOL,NEWCASTLE,1.54,5.20,4.60,Premier League,England,2024-01-01 23:00:00,63227,6545595,41763227
+BRIGHTON,TOTTENHAM,2.60,2.55,3.85,Premier League,England,2023-12-28 22:30:00,94787,6775302,44860714
+Lebanon,Jordan,2.75,2.55,3.10,Int. Friendly Games,International,2023-12-28 17:00:00,27879,6785695,46453285
+UAE,Kyrgyzstan,1.40,7.40,4.40,Int. Friendly Games,International,2023-12-30 18:15:00,88571,6764273,46250663
+China,Oman,2.80,2.60,2.95,Int. Friendly Games,International,2023-12-29 18:00:00,6219,6785990,46453463
+GETAFE,Vallecano,2.35,3.25,3.05,LaLiga,Spain,2024-01-02 19:00:00,94157,6788948,41893261
+Real Sociedad,ALAVES,1.54,6.40,3.85,LaLiga,Spain,2024-01-02 21:15:00,62617,6789380,41893281
+VALENCIA,Villarreal,2.26,3.00,3.50,LaLiga,Spain,2024-01-02 23:30:00,62395,6789557,41893263
+ATALANTA,Lecce,1.45,7.00,4.40,Serie A,Italy,2023-12-30 14:30:00,76959,6294482,42134447
+GENOA,Inter,5.80,1.63,3.90,Serie A,Italy,2023-12-29 22:45:00,23267,6294480,42134453
+LAZIO,Frosinone,1.67,5.00,3.80,Serie A,Italy,2023-12-29 22:45:00,83815,6294481,42134459
+FIORENTINA,TORINO,2.21,3.50,3.30,Serie A,Italy,2023-12-29 20:30:00,68017,6294477,42134451
+CAGLIARI,Empoli,2.09,3.45,3.45,Serie A,Italy,2023-12-30 17:00:00,18713,6294483,42134449
+NAPOLI,Monza,1.63,5.20,3.90,Serie A,Italy,2023-12-29 20:30:00,80091,6294478,42134463
+UDINESE,BOLOGNA,3.30,2.26,3.15,Serie A,Italy,2023-12-30 17:00:00,68811,6294484,42134465
+HELLAS VERONA,Salernitana,1.96,3.90,3.40,Serie A,Italy,2023-12-30 20:00:00,68867,6294485,42134455
+Milan,SASSUOLO,1.47,6.00,4.70,Serie A,Italy,2023-12-30 20:00:00,87193,6294489,42134461
+JUVENTUS,ROMA,2.06,4.00,3.10,Serie A,Italy,2023-12-30 22:45:00,80099,6294490,42134457
+Sheffield Wednesday,Hull,2.90,2.36,3.20,Championship,England,2024-01-01 20:15:00,58969,6789291,41888221
+WEST BROM,Leeds,3.10,2.17,3.40,Championship,England,2023-12-29 23:15:00,88203,6782301,41888203
+Sunderland,Preston,1.60,5.20,3.85,Championship,England,2024-01-01 15:30:00,60571,6788462,41888225
+SOUTHAMPTON,Plymouth,1.37,6.60,4.90,Championship,England,2023-12-29 21:00:00,52966,6782153,41888199
+Plymouth,WATFORD,2.95,2.18,3.50,Championship,England,2024-01-01 18:00:00,88217,6788804,41888217
+Preston,Sheffield Wednesday,2.28,3.10,3.15,Championship,England,2023-12-29 22:45:00,56314,6782233,41888195
+Norwich,SOUTHAMPTON,3.10,2.12,3.50,Championship,England,2024-01-01 18:00:00,88215,6788806,41888215
+Rotherham,Sunderland,5.40,1.55,4.00,Championship,England,2023-12-29 22:45:00,71361,6782235,41888197
+Queens Park Rangers,Cardiff,2.35,2.95,3.20,Championship,England,2024-01-01 18:00:00,88219,6788807,41888219
+Stoke,Ipswich,3.20,2.08,3.50,Championship,England,2024-01-01 18:00:00,55217,6788798,41888223
+Leicester,HUDDERSFIELD,1.20,12.00,6.00,Championship,England,2024-01-01 18:00:00,88211,6788800,41888211
+Middlesbrough,Coventry,1.89,3.65,3.65,Championship,England,2024-01-01 18:00:00,88213,6788802,41888213
+Leeds,Birmingham,1.25,9.80,5.60,Championship,England,2024-01-01 18:00:00,88209,6788814,41888209
+Coventry,SWANSEA,1.75,4.20,3.75,Championship,England,2023-12-29 22:45:00,31153,6782241,41888185
+Bristol City,Millwall,2.09,3.40,3.25,Championship,England,2024-01-01 18:00:00,88207,6788810,41888207
+Cardiff,Leicester,4.60,1.66,3.80,Championship,England,2023-12-29 22:45:00,6615,6782249,41888183
+SWANSEA,WEST BROM,2.90,2.31,3.25,Championship,England,2024-01-01 18:00:00,88227,6788812,41888227
+HUDDERSFIELD,Middlesbrough,4.50,1.71,3.70,Championship,England,2023-12-29 22:45:00,21593,6782243,41888187
+Ipswich,Queens Park Rangers,1.42,6.40,4.60,Championship,England,2023-12-29 22:45:00,45697,6782251,41888191
+Hull,Blackburn,1.90,3.50,3.70,Championship,England,2023-12-29 22:45:00,70795,6782245,41888189
+Millwall,Norwich,2.37,2.85,3.25,Championship,England,2023-12-29 22:45:00,77889,6782255,41888193
+WATFORD,Stoke,1.93,3.70,3.40,Championship,England,2023-12-29 22:45:00,13917,6782237,41888201
+Blackburn,Rotherham,1.45,6.00,4.50,Championship,England,2024-01-01 18:00:00,97219,6788820,41888205
+Birmingham,Bristol City,2.37,2.90,3.20,Championship,England,2023-12-29 22:45:00,68612,6782239,41888181
+Livingston,St Johnstone,2.31,3.15,3.10,Premiership,Scotland,2023-12-27 22:45:00,27959,6775317,42021563
+ABERDEEN,MOTHERWELL,1.72,4.40,3.80,Premiership,Scotland,2023-12-27 22:45:00,25015,6775320,42021559
+St Mirren,KILMARNOCK,2.65,2.75,3.05,Premiership,Scotland,2023-12-27 22:45:00,27587,6775323,42021567
+GLASGOW RANGERS,Ross County,1.16,15.00,7.20,Premiership,Scotland,2023-12-27 22:45:00,25627,6775326,42021565
+HIBERNIAN,HEARTS,2.44,2.70,3.40,Premiership,Scotland,2023-12-27 23:00:00,58881,6775345,42021569
+CELTIC,GLASGOW RANGERS,2.13,3.05,3.55,Premiership,Scotland,2023-12-30 15:30:00,22733,6784408,42021571
+ABERDEEN,St Mirren,2.11,3.30,3.30,Premiership,Scotland,2023-12-30 18:00:00,5797,6784412,42021573
+MOTHERWELL,Livingston,1.82,4.10,3.45,Premiership,Scotland,2023-12-30 18:00:00,56093,6784414,42021579
+HEARTS,Ross County,1.67,4.80,3.65,Premiership,Scotland,2023-12-30 18:00:00,80813,6784416,42021575
+KILMARNOCK,Dundee FC,1.89,3.85,3.45,Premiership,Scotland,2023-12-30 18:00:00,25225,6784410,42021577
+Newcastle Jets,Western United,2.09,3.05,3.55,A-League,Australia,2023-12-30 09:30:00,5579,6783079,43255217
+Sydney W.,Macarthur FC,1.73,3.95,3.90,A-League,Australia,2024-01-01 09:00:00,28063,6787720,43255223
+Central Coast,Perth Glory FC,1.55,4.80,4.20,A-League,Australia,2023-12-31 11:00:00,99183,6785699,43255221
+Sydney FC,Wellington,1.78,3.75,3.85,A-League,Australia,2023-12-29 11:45:00,8543,6779802,43255215
+Melbourne City,Brisbane Roar,1.66,4.40,3.95,A-League,Australia,2023-12-28 11:45:00,52025,6776614,43255213
+Melbourne Victory,Adelaide,1.67,4.00,4.10,A-League,Australia,2023-12-30 11:45:00,48877,6783289,43255219
+Bnei Sakhnin,H. Hadera,2.11,3.35,3.15,Premier League,Israel,2023-12-27 20:00:00,17539,6706695,45817539
+Maccabi Petah Tikva,Petah Tikva,2.21,3.05,3.25,Premier League,Israel,2023-12-27 20:45:00,45046,6706696,45817541
+Maccabi Tel Aviv,Beitar Jerusalem,1.31,8.00,5.00,Premier League,Israel,2023-12-27 21:30:00,17545,6706698,45817545
+M. Netanya,Ironi Ashdod,1.65,4.90,3.70,Premier League,Israel,2023-12-26 20:00:00,17529,6706684,45817529
+Katamon,Hapoel Tel Aviv,2.85,2.55,3.00,Premier League,Israel,2023-12-26 20:45:00,17537,6706689,45817537
+Maccabi Haifa,Maccabi Bney Reine,1.45,6.20,4.20,Premier League,Israel,2023-12-27 21:00:00,95493,6706697,45817543
+Mohun Bagan Super Giant,Kerala Blasters FC,1.90,3.70,3.40,Indian Super League,India,2023-12-27 17:30:00,15949,6604363,43615949
+Odisha FC,Jamshedpur,1.82,3.75,3.50,Indian Super League,India,2023-12-29 15:00:00,15953,6604371,43615953
+Mumbai City FC,Chennaiyin FC,1.48,5.20,4.30,Indian Super League,India,2023-12-28 17:30:00,15951,6604367,43615951
+Northeast United FC,FC Goa,4.60,1.59,3.95,Indian Super League,India,2023-12-29 17:30:00,15955,6302098,43615955
+Punjab FC,Odisha FC,3.25,2.02,3.60,Indian Super League,India,2023-12-26 17:30:00,15947,6604360,43615947
+Wigan,Derby,4.50,1.73,3.75,League One,England,2023-12-26 18:00:00,89333,6771081,41889333
+Stevenage,Northampton,1.68,5.00,3.65,League One,England,2023-12-26 18:00:00,89331,6771083,41889331
+Oxford Utd,Cambridge,1.71,4.60,3.70,League One,England,2023-12-26 18:00:00,89325,6771073,41889325
+Cheltenham,Shrewsbury,2.22,3.20,3.25,League One,England,2023-12-26 18:00:00,89339,6771075,41889339
+Exeter,Wycombe,2.95,2.34,3.30,League One,England,2023-12-26 18:00:00,89341,6771077,41889341
+Port Vale,Barnsley,2.95,2.27,3.45,League One,England,2023-12-26 18:00:00,89329,6771109,41889329
+Lincoln City,Bolton,3.40,2.11,3.30,League One,England,2023-12-26 18:00:00,107,6771111,41889347
+Fleetwood,Carlisle,2.12,3.25,3.45,League One,England,2023-12-26 18:00:00,89343,6771103,41889343
+Bristol Rovers,Portsmouth,3.20,2.14,3.45,League One,England,2023-12-26 18:00:00,89335,6771107,41889335
+Burton,Blackpool,4.20,1.76,3.80,League One,England,2023-12-26 18:00:00,38540,6781181,41889337
+Wigan,Carlisle,1.78,4.40,3.45,League One,England,2023-12-29 22:00:00,13493,6784485,41889373
+Oxford Utd,Derby,2.60,2.65,3.15,League One,England,2023-12-29 22:45:00,22737,6784487,41889365
+Leyton Orient London,Wycombe,2.31,3.00,3.20,League One,England,2023-12-29 22:45:00,89361,6332918,41889361
+Lincoln City,Northampton,2.16,3.25,3.25,League One,England,2023-12-29 22:45:00,22739,6784489,41889363
+Fleetwood,Bolton,3.60,1.92,3.55,League One,England,2023-12-29 22:45:00,89357,6332919,41889357
+Peterborough,Barnsley,1.68,4.40,3.90,League One,England,2023-12-29 22:45:00,89367,6332921,41889367
+Cheltenham,Reading,2.50,2.75,3.15,League One,England,2023-12-29 22:45:00,89353,6332914,41889353
+Port Vale,Blackpool,2.80,2.36,3.30,League One,England,2023-12-29 22:45:00,89369,6332916,41889369
+Exeter,Portsmouth,4.60,1.69,3.70,League One,England,2023-12-29 22:45:00,89355,6332917,41889355
+Stevenage,Cambridge,1.67,4.80,3.65,League One,England,2023-12-29 22:45:00,89371,6332924,41889371
+Burton,Shrewsbury,2.19,3.45,3.00,League One,England,2023-12-29 22:45:00,89351,6332911,41889351
+Bristol Rovers,Charlton,2.26,2.85,3.45,League One,England,2023-12-29 22:45:00,6023,6784554,41889349
+Leyton Orient London,Charlton,2.39,2.75,3.45,League One,England,2023-12-26 16:00:00,89345,6332912,41889345
+Linfield,Glentoran,1.70,4.30,3.85,Premiership,Northern Ireland,2023-12-26 18:00:00,85933,6786004,41985933
+Loughgall,Dungannon,3.20,2.02,3.70,Premiership,Northern Ireland,2023-12-26 18:00:00,57996,6784468,41985935
+Newry City,Glenavon,3.30,2.02,3.55,Premiership,Northern Ireland,2023-12-26 18:00:00,77319,6784472,41985937
+Cliftonville,Crusaders Belfast,1.77,4.10,3.70,Premiership,Northern Ireland,2023-12-26 18:00:00,54457,6784466,41985931
+Ballymena,Coleraine,3.70,1.86,3.65,Premiership,Northern Ireland,2023-12-26 18:00:00,29727,6785832,41985927
+Larne,Linfield,2.39,2.75,3.15,Premiership,Northern Ireland,2023-12-30 18:00:00,85949,6684319,41985949
+Reggiana,Catanzaro,2.70,2.75,2.85,Serie B,Italy,2023-12-26 14:30:00,50422,6402919,42261965
+Feralpi Salo,Venezia,3.75,2.06,3.15,Serie B,Italy,2023-12-26 17:00:00,50426,6402917,42261959
+Spezia,Modena,2.35,3.10,3.10,Serie B,Italy,2023-12-26 17:00:00,78836,6402921,42261969
+Palermo,Cremonese,2.70,2.55,3.25,Serie B,Italy,2023-12-26 20:00:00,15814,6402914,42261963
+Ascoli,Cittadella,2.80,2.75,2.90,Serie B,Italy,2023-12-26 17:00:00,50454,6402918,42261955
+Ternana,Pisa,2.47,2.85,3.20,Serie B,Italy,2023-12-26 17:00:00,61971,6402922,42261971
+Cosenza,Como,2.41,3.05,3.05,Serie B,Italy,2023-12-26 17:00:00,17200,6402916,42261957
+Lecco,Sudtirol,2.31,3.25,3.00,Serie B,Italy,2023-12-26 17:00:00,17202,6402915,42261961
+SAMPDORIA,Bari 1908,2.17,3.55,3.05,Serie B,Italy,2023-12-26 22:30:00,50244,6402920,42261967
+Brescia,Parma Calcio,3.40,2.17,3.15,Serie B,Italy,2023-12-26 17:00:00,67029,6257397,42267029
+Chonburi,Bangkok Utd,3.40,1.90,3.55,Thai League 1,Thailand,2023-12-28 15:00:00,5052,6468347,44419244
+Bangkok,Chiangrai Utd,1.47,5.60,4.10,Thai League 1,Thailand,2023-12-28 15:00:00,36474,6643299,45451626
+Prachuap FC,Buriram,3.40,1.90,3.55,Thai League 1,Thailand,2023-12-28 14:00:00,37432,6643297,45451624
+Smouha,El Gaish,2.60,2.95,2.90,Premier League,Egypt,2023-12-27 20:00:00,70333,6346063,43770333
+Masr,El Daklyeh,1.64,5.80,3.50,Premier League,Egypt,2023-12-27 17:00:00,70325,6346060,43770325
+Al Ittihad,Farco,2.00,3.75,3.30,Premier League,Egypt,2023-12-26 20:00:00,30157,6772950,43770323
+National Bank,Al Mokawloon,2.50,2.90,2.95,Premier League,Egypt,2023-12-30 17:00:00,70337,6346066,43770337
+Slough Town,Hampton & R,1.71,4.10,3.80,National League South,England Amateur,2023-12-26 16:00:00,63079,6735289,42138367
+Havant & W,Farnborough,2.41,2.60,3.45,National League South,England Amateur,2023-12-26 18:00:00,38365,6782765,42138365
+St Albans,Hemel Hempstead,2.13,3.00,3.50,National League South,England Amateur,2023-12-26 18:00:00,70595,6782767,42138369
+Bath,Chippenham,1.55,5.40,3.45,National League South,England Amateur,2024-01-01 18:00:00,62579,6790353,42138385
+Torquay,Truro,2.42,2.70,3.30,National League South,England Amateur,2023-12-26 18:00:00,38373,6782816,42138373
+Marine,Warrington Rylands 1906 FC,2.43,2.60,3.35,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,25459,6786085,42334467
+Atherton,Workington,5.20,1.51,4.30,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,34457,6786087,42334457
+Stafford,Gainsborough,2.70,2.29,3.55,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,34473,6786091,42334473
+Ashton,FC United,2.10,3.00,3.60,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,34455,6786093,42334455
+Ilkeston Town FC,Matlock,2.33,2.60,3.65,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,29571,6786080,42334463
+Guiseley,Marske Utd,1.40,6.20,4.80,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,31043,6786082,42334461
+Morpeth,Whitby,2.46,2.50,3.50,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,34469,6786095,42334469
+Worksop,Basford Utd.,1.26,8.80,5.60,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,23861,6786127,42334475
+Bamber,Lancaster,2.25,2.75,3.50,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,26139,6786130,42334459
+Macclesfield FC,Hyde,1.58,4.60,4.20,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,55563,6786604,42334465
+Radcliffe,Bradford Park Avenue,1.28,7.80,5.60,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,77957,6786133,42334471
+Weston Super Mare,Weymouth,1.61,4.60,3.95,National League South,England Amateur,2023-12-26 18:00:00,38377,6782870,42138377
+Aveley,Dover,1.62,4.60,3.50,National League South,England Amateur,2023-12-30 18:00:00,55195,6790040,42138383
+Dover,Aveley,2.95,2.29,3.15,National League South,England Amateur,2023-12-26 18:00:00,78985,6782873,42138363
+Maidstone,Tonbridge,1.55,5.40,3.45,National League South,England Amateur,2024-01-01 18:00:00,79773,6790486,42138399
+Yeovil,Taunton,1.50,5.40,4.10,National League South,England Amateur,2023-12-26 18:00:00,38381,6782874,42138381
+Dartford,Welling,1.78,3.65,3.50,National League South,England Amateur,2023-12-30 18:00:00,38389,6568727,42138389
+Truro,Torquay,2.44,2.44,3.35,National League South,England Amateur,2023-12-30 18:00:00,38403,6473352,42138403
+Taunton,Yeovil,2.90,2.20,3.15,National League South,England Amateur,2023-12-31 18:00:00,27207,6339092,42138401
+Hampton & R,Slough Town,1.97,3.35,3.20,National League South,England Amateur,2024-01-01 16:00:00,32664,6735288,42138395
+Bishop's Stortford,Peterborough Sports,2.75,2.32,3.35,National League North,England Amateur,2023-12-26 16:00:00,37251,6720903,42137251
+Scunthorpe,Farsley Celtic,1.31,8.80,4.70,National League North,England Amateur,2023-12-26 16:00:00,98293,6720904,42137285
+Banbury,Brackley,3.70,1.91,3.35,National League North,England Amateur,2023-12-26 16:00:00,9481,6694368,42137245
+Scarborough,Darlington,1.61,4.80,3.85,National League North,England Amateur,2023-12-26 16:00:00,26466,6784722,42137281
+Alfreton,Buxton,2.10,3.25,3.30,National League North,England Amateur,2023-12-26 18:00:00,68475,6784720,42137239
+Chester,Warrington,1.90,3.65,3.45,National League North,England Amateur,2023-12-26 18:00:00,96943,6784724,42137257
+Curzon,Southport,1.78,4.00,3.55,National League North,England Amateur,2023-12-26 18:00:00,35589,6784727,42137263
+Gloucester,Hereford,2.75,2.35,3.35,National League North,England Amateur,2023-12-26 18:00:00,23219,6784729,42137269
+Worthing,Eastbourne,1.60,4.50,4.10,National League South,England Amateur,2023-12-26 18:00:00,15381,6784732,42138379
+Kings Lynn,Boston,2.55,2.60,3.15,National League North,England Amateur,2023-12-26 18:00:00,709,6784733,42137275
+South Shields,Blyth,1.55,4.90,4.20,National League North,England Amateur,2023-12-26 18:00:00,44889,6784735,42137289
+Spennymoor,Chorley,4.00,1.71,3.90,National League North,England Amateur,2023-12-26 18:00:00,55153,6784739,42137293
+Farnborough,Havant & W,1.55,4.60,3.80,National League South,England Amateur,2024-01-01 18:00:00,9621,6790170,42138393
+Tamworth,Rushall,1.42,6.40,4.40,National League North,England Amateur,2023-12-26 18:00:00,58131,6784742,42137297
+Tonbridge,Maidstone,2.75,2.40,3.25,National League South,England Amateur,2023-12-26 16:00:00,38371,6544634,42138371
+Welling,Dartford,3.05,2.14,3.40,National League South,England Amateur,2023-12-26 16:00:00,48650,6666955,45560976
+Braintree,Chelmsford,2.14,3.15,3.25,National League South,England Amateur,2023-12-26 18:00:00,48899,6782696,42138359
+Chippenham,Bath,4.60,1.70,3.50,National League South,England Amateur,2023-12-26 18:00:00,88508,6782739,42138361
+Al Ahli KSA,Al Khaleej,1.40,6.40,4.60,Saudi Pro League,Saudi Arabia,2023-12-29 21:00:00,39847,6460082,42417009
+S. Tunisien,Africain,2.39,3.10,2.90,Ligue 1,Tunisia,2023-12-26 16:00:00,26182,6739007,46059891
+Slimane,Gafsa,2.31,3.35,2.80,Ligue 1,Tunisia,2023-12-26 16:00:00,52889,6739005,46060037
+Germany SRL,Argentina SRL,2.55,2.34,3.55,SRL International Friendlies,Simulated Reality League,2023-12-26 16:00:00,62965,6789265,46404287
+Olympique de Beja,Ben Guerdane,2.29,3.30,2.85,Ligue 1,Tunisia,2023-12-26 16:00:00,34880,6739006,46060179
+Pikine,Casa,1.90,4.60,2.80,Premier League,Senegal,2023-12-27 19:30:00,55068,6778803,46380417
+Al Faiha,Al Hilal,10.00,1.20,6.40,Saudi Pro League,Saudi Arabia,2023-12-29 18:00:00,51058,6460086,42416999
+Cong Anh Nhan Dan,B. Binh Duong,1.76,4.00,3.80,V-League 1,Vietnam,2023-12-26 15:15:00,15721,6785976,44587388
+Quang Nam,CLB Thanh Hoa,3.35,2.00,3.40,V-League 1,Vietnam,2023-12-27 13:00:00,46655,6783035,44587394
+Al Raed,Abha,1.63,4.50,3.95,Saudi Pro League,Saudi Arabia,2023-12-29 18:00:00,3701,6460083,42417005
+Uniao Leiria,FEIRENSE,1.72,4.30,3.60,Liga Portugal 2,Portugal,2023-12-30 21:00:00,26090,6672626,42147233
+Casa Pia,BRAGA,5.00,1.60,3.90,Liga Portugal,Portugal,2023-12-30 21:00:00,53583,6784603,45623074
+ANKARA KECIORENGUCU U19,Umraniyespor U19,1.94,2.95,3.30,U19 Elit B,Turkiye Amateur,2023-12-27 12:00:00,85209,6790349,46185209
+Clyde,Stenhousemuir,3.95,1.76,3.60,League 2,Scotland,2023-12-30 18:00:00,75224,6784175,42025735
+Stranraer,Dumbarton,3.05,2.13,3.35,League 2,Scotland,2023-12-30 18:00:00,41819,6784164,42025741
+Forfar,East Fife,2.11,3.15,3.25,League 2,Scotland,2023-12-30 18:00:00,56831,6784167,42025739
+Al Fateh,Al-Akhdoud Club,1.75,4.00,3.70,Saudi Pro League,Saudi Arabia,2023-12-30 18:00:00,9230,6460081,42416997
+B. Rose,Spartans,2.23,2.85,3.35,League 2,Scotland,2023-12-30 18:00:00,21163,6784173,42025733
+Molynes,Montego Bay Utd.,2.65,2.25,3.15,Premier League,Jamaica,2023-12-27 23:00:00,12219,6782818,46412219
+Lime Hall Academy FC,Humble Lions FC,2.85,2.18,3.05,Premier League,Jamaica,2023-12-27 23:00:00,12209,6782811,46412209
+Hai Phong,Binh Dinh,2.10,3.10,3.40,V-League 1,Vietnam,2023-12-27 15:15:00,59075,6789993,44587398
+Jamalco FC,Portmore Utd,2.33,2.55,3.10,Premier League,Jamaica,2023-12-27 23:00:00,12211,6782812,46412211
+El Sekka El Hadid,El Mahallah,2.30,3.25,2.80,2. Division A,Egypt,2023-12-27 15:30:00,30761,6789996,46286071
+Al Tai,Al-Ittihad Jeddah,3.90,1.72,3.95,Saudi Pro League,Saudi Arabia,2023-12-30 18:00:00,17001,6460089,42417001
+Al Riyadh,Dhamk,4.10,1.73,3.70,Saudi Pro League,Saudi Arabia,2023-12-28 18:00:00,56045,6460084,42417013
+Cavaliers FC,Treasure Beach FC,1.60,4.40,3.45,Premier League,Jamaica,2023-12-27 23:00:00,12213,6782813,46412213
+GALATASARAY,Fenerbahce,2.30,2.90,3.35,Super Kupa,Turkiye,2023-12-29 20:45:00,20586,6536899,44820586
+AL Shabab,Al Wehda,1.94,3.40,3.60,Saudi Pro League,Saudi Arabia,2023-12-30 21:00:00,17003,6460087,42417003
+Dunbeholden FC,Waterhouse FC,1.83,3.65,3.15,Premier League,Jamaica,2023-12-27 23:00:00,12215,6782814,46412215
+Nam Dinh,Viettel,1.76,4.20,3.55,V-League 1,Vietnam,2023-12-27 14:00:00,59077,6789997,44587396
+Harbour View,Tivoli Gardens,2.28,2.60,3.15,Premier League,Jamaica,2023-12-28 01:00:00,12217,6782815,46412217
+Arnett Gardens FC,Mount Pleasant FC,3.20,1.94,3.25,Premier League,Jamaica,2023-12-28 03:00:00,12221,6782819,46412221
+TP Ho Chi Minh,Hong Linh Ha Tinh FC,1.90,3.95,3.35,V-League 1,Vietnam,2023-12-26 15:15:00,2223,6783765,44587390
+Al Taawon,Al Nasr,5.60,1.43,4.70,Saudi Pro League,Saudi Arabia,2023-12-30 21:00:00,17011,6460088,42417011
+Ebbsfleet,Bromley,3.25,2.01,3.65,National League,England,2023-12-26 18:00:00,57093,6783727,42136171
+Al Orubah,Al Bukiryah,2.01,3.65,3.15,Division 1,Saudi Arabia,2023-12-27 15:30:00,97221,6782781,42397221
+Altrincham,Halifax,1.95,3.65,3.40,National League,England,2023-12-26 18:00:00,86298,6783730,42136161
+Welders,Dundela,2.60,2.26,3.65,Championship,Northern Ireland,2023-12-27 18:00:00,75915,6670312,42013931
+Ohud Medina,AL Qaisoma,1.80,4.20,3.40,Division 1,Saudi Arabia,2023-12-27 15:40:00,97223,6782787,42397223
+Dag & Red,Eastleigh,2.06,3.20,3.55,National League,England,2023-12-26 18:00:00,48955,6783731,42136167
+Maidenhead,Wealdstone,2.42,2.80,3.25,National League,England,2023-12-26 18:00:00,7014,6783951,42136177
+Boreham,Kidderminster,2.10,3.25,3.40,National League,England,2023-12-26 18:00:00,47645,6783734,42136165
+Rochdale,Fylde,2.07,3.15,3.60,National League,England,2023-12-26 18:00:00,43961,6783952,42136179
+Dorking Wanderers,Oxford,2.21,2.85,3.60,National League,England,2023-12-26 18:00:00,50311,6783723,42136169
+Hartlepool,Oldham,2.29,2.80,3.50,National League,England,2023-12-26 18:00:00,6921,6783947,42136175
+Southend,Barnet,2.35,2.60,3.65,National League,England,2023-12-26 18:00:00,36183,6545535,42136183
+Aldershot,Woking,2.13,3.10,3.50,National League,England,2023-12-26 18:00:00,59051,6783725,42136157
+Pontypridd Town,Aberystwyth,1.78,4.20,3.55,Cymru Premier,Wales,2023-12-26 17:30:00,44071,6785935,41844071
+MELBOURNE CITY FC (W),BRISBANE ROAR (W),1.46,5.40,4.50,A-League Women,Australia,2023-12-28 09:00:00,41179,6783081,43256095
+Salford,Tranmere,2.35,2.80,3.50,League Two,England,2023-12-26 18:00:00,62493,6771043,41890559
+Newport,Forest Green,2.15,3.10,3.50,League Two,England,2023-12-26 18:00:00,95523,6771045,41890555
+Harrogate,Accrington,2.80,2.36,3.45,League Two,England,2023-12-26 18:00:00,58777,6771047,41890549
+Barrow AFC,Stockport,2.90,2.50,3.05,League Two,England,2023-12-26 18:00:00,97697,6771037,41890543
+MK Dons,Colchester,1.58,5.20,4.10,League Two,England,2023-12-26 18:00:00,62325,6771049,41890551
+Bradford City,Morecambe,1.66,4.90,3.80,League Two,England,2023-12-26 18:00:00,98337,6771050,41890545
+TONDELA,Oliveirense,1.63,4.80,3.75,Liga Portugal 2,Portugal,2023-12-30 14:00:00,47235,6672627,42147235
+Dundee United,Partick Thistle,1.57,4.80,4.10,Championship,Scotland,2023-12-29 22:45:00,24969,6516616,42024969
+US Tataouine,Bizertin,2.47,2.85,2.90,Ligue 1,Tunisia,2023-12-27 16:00:00,63106,6739009,46060393
+Swindon Town,Wrexham,3.75,1.81,3.95,League Two,England,2023-12-26 18:00:00,90561,6771053,41890561
+Metlaoui,Monastir,4.10,1.91,3.00,Ligue 1,Tunisia,2023-12-27 16:00:00,66640,6739010,46060391
+Esperance,Sfaxien,1.55,6.00,3.40,Ligue 1,Tunisia,2023-12-27 16:00:00,64904,6739008,46060389
+Leixoes,Academico de Viseu,2.75,2.46,3.15,Liga Portugal 2,Portugal,2023-12-30 14:00:00,51440,6672624,42147227
+Porto B,Nacional,2.22,2.90,3.40,Liga Portugal 2,Portugal,2023-12-30 14:00:00,47237,6672632,42147237
+PORTO,CHAVES,1.14,15.00,7.40,Liga Portugal,Portugal,2023-12-29 23:45:00,70785,6782326,42146437
+PACOS FERREIRA,Benfica B,1.93,3.65,3.35,Liga Portugal 2,Portugal,2023-12-30 17:00:00,47239,6672633,42147239
+Dergview,Ballinamallard Utd.,2.65,2.27,3.70,Championship,Northern Ireland,2023-12-26 18:00:00,77731,6786134,42013929
+CANBERRA UNITED (W),Western United FC,3.25,1.93,3.70,A-League Women,Australia,2023-12-30 09:00:00,68614,6784422,43256099
+Newington,Ballyclare Comrades,2.22,2.65,3.75,Championship,Northern Ireland,2023-12-26 17:00:00,33955,6771763,42013933
+Ards,Bangor,2.36,2.50,3.70,Championship,Northern Ireland,2023-12-26 18:00:00,52215,6786138,42013927
+Annagh United,Portadown,4.10,1.71,3.85,Championship,Northern Ireland,2023-12-26 18:00:00,16189,6786139,42013925
+Mafra,Avs Futebol Sad,2.45,2.75,3.15,Liga Portugal 2,Portugal,2023-12-31 14:00:00,82208,6672625,42147231
+Kairouanaise,Rades,1.66,4.30,3.30,Ligue 2,Tunisia,2023-12-27 16:00:00,62587,6790043,46323771
+As.ariana,Jendouba Sp.,3.05,2.15,2.90,Ligue 2,Tunisia,2023-12-27 16:00:00,62599,6790046,46323763
+Ouakam,Diambars,1.97,4.40,2.75,Premier League,Senegal,2023-12-27 19:30:00,15094,6778802,46380343
+Sol FC,Mimosas,7.00,1.47,3.45,Ligue 1,Ivory Coast,2023-12-26 18:30:00,59079,6790056,45804841
+Potters,Wingate & Finchley,2.01,3.20,3.55,Isthmian League Pr. Div,England Amateur,2023-12-26 16:00:00,33427,6720868,42333427
+Tanta,Makadi FC,1.95,3.80,3.10,2. Division A,Egypt,2023-12-27 15:30:00,55135,6790058,43792279
+Haringey,Hashtag United,3.35,1.93,3.65,Isthmian League Pr. Div,England Amateur,2023-12-26 16:00:00,33443,6774613,42333443
+La Viena FC,Asyut Petroleum,2.06,3.60,3.00,2. Division A,Egypt,2023-12-27 15:30:00,66051,6790061,43792293
+Concord Rangers,Billericay,5.20,1.54,4.00,Isthmian League Pr. Div,England Amateur,2023-12-26 16:00:00,33435,6774615,42333435
+WS WANDERERS FC (W),MELBOURNE VICTORY (W),3.85,1.75,3.75,A-League Women,Australia,2023-12-30 10:00:00,77171,6783203,43256101
+Petrojet,Dekernes,1.50,6.40,3.60,2. Division A,Egypt,2023-12-27 15:30:00,59085,6790064,43792289
+Cheshunt,Enfield,3.00,2.08,3.65,Isthmian League Pr. Div,England Amateur,2023-12-26 16:00:00,33433,6705344,42333433
+Cray,Margate,1.83,3.65,3.65,Isthmian League Pr. Div,England Amateur,2023-12-26 16:00:00,33437,6774611,42333437
+Proxy SC,Gomhoryet,2.19,3.40,2.90,2. Division A,Egypt,2023-12-27 15:30:00,92287,6790067,43792287
+Wadi Degla,Telecom Egypt,1.79,4.40,3.15,2. Division A,Egypt,2023-12-27 15:30:00,92285,6790070,43792285
+Dulwich,Carshalton,2.07,3.05,3.55,Isthmian League Pr. Div,England Amateur,2023-12-26 18:00:00,33439,6774631,42333439
+Estrela Amadora,Arouca,2.55,2.70,3.25,Liga Portugal,Portugal,2023-12-28 23:15:00,49075,6778791,45613300
+Folkestone,Hastings Utd,2.41,2.60,3.45,Isthmian League Pr. Div,England Amateur,2023-12-26 18:00:00,33441,6774633,42333441
+Whitehawk,Lewes The,2.42,2.50,3.55,Isthmian League Pr. Div,England Amateur,2023-12-26 18:00:00,33429,6774635,42333429
+Al Taraji,Al-Arabi SC (SA),3.10,2.21,3.20,Division 1,Saudi Arabia,2023-12-27 15:00:00,62461,6788502,42397225
+Bognor Regis,Horsham,2.55,2.47,3.40,Isthmian League Pr. Div,England Amateur,2023-12-26 18:00:00,33431,6774637,42333431
+Kingstonian,Chatham,4.10,1.65,4.10,Isthmian League Pr. Div,England Amateur,2023-12-26 18:00:00,33447,6774629,42333447
+Haverfordwest,Barry,2.05,3.20,3.60,Cymru Premier,Wales,2023-12-26 17:30:00,14933,6775434,41844067
+Walsall,Crewe,2.13,3.15,3.55,League Two,England,2023-12-26 18:00:00,58933,6781179,41890563
+Newtown,Connahs Quay,3.30,2.01,3.55,Cymru Premier,Wales,2023-12-26 17:30:00,87633,6775425,41844069
+Cardiff Met,Penybont,2.85,2.44,3.15,Cymru Premier,Wales,2023-12-26 17:30:00,95747,6775427,41844063
+Taffs Well,Caerau Ely,2.20,2.46,3.60,Cymru Championship South,Wales,2023-12-27 22:30:00,76699,6790834,41965911
+Prestatyn,Mold Alexandra,2.85,1.92,3.75,Cymru Championship North,Wales,2023-12-27 22:30:00,29945,6790831,41966445
+Colwyn Bay,Bala Town,3.35,2.01,3.55,Cymru Premier,Wales,2023-12-26 17:30:00,25921,6775429,41844065
+Gia Lai,Ha Noi FC,4.40,1.72,3.55,V-League 1,Vietnam,2023-12-27 13:00:00,30839,6790840,44587392
+Gil Vicente,BOAVISTA,2.24,2.95,3.40,Liga Portugal,Portugal,2023-12-30 18:30:00,85503,6784169,45623004
+Ayr,Dunfermline,2.44,2.65,3.35,Championship,Scotland,2023-12-30 18:00:00,93325,6784037,42024967
+Raith Rovers,Arbroath,1.39,6.60,4.60,Championship,Scotland,2023-12-30 18:00:00,37191,6784031,42024975
+Inverness CT,Greenock Morton,2.16,3.05,3.35,Championship,Scotland,2023-12-30 18:00:00,7943,6784039,42024971
+Queens Park,Airdrieonians,2.50,2.49,3.45,Championship,Scotland,2023-12-30 18:00:00,44209,6784041,42024973
+Beaconsfield,Chesham,3.25,1.94,3.75,Southern League Premier South,England Amateur,2023-12-26 15:30:00,3806,6786209,42372561
+Didcot,Hungerford,5.20,1.46,4.70,Southern League Premier South,England Amateur,2023-12-26 15:30:00,15943,6786212,42372569
+Barwell,Coalville,3.00,2.11,3.55,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 16:00:00,70369,6786214,42372555
+Queen of The South,Annan,1.64,4.40,3.80,League 1,Scotland,2023-12-30 18:00:00,83723,6784063,42025391
+Stratford,Leamington,2.80,2.28,3.40,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 18:00:00,82101,6786218,42372595
+Kelty Hearts,Alloa,2.07,2.95,3.60,League 1,Scotland,2023-12-30 18:00:00,99307,6784065,42025387
+Totton,Basingstoke,1.43,5.60,4.80,Southern League Premier South,England Amateur,2023-12-26 18:00:00,59059,6786220,42372557
+Falkirk,Stirling,1.30,7.80,5.00,League 1,Scotland,2023-12-30 18:00:00,6925,6784067,42025385
+Montrose,Cove Rangers,2.95,2.10,3.50,League 1,Scotland,2023-12-30 18:00:00,25703,6784069,42025389
+OH Leuven,EUPEN,1.87,3.65,3.80,Pro League,Belgium,2023-12-26 18:00:00,93989,6538384,41893989
+Westerlo,Daring Molenbeek,1.99,3.60,3.45,Pro League,Belgium,2023-12-26 20:30:00,93985,6538385,41893985
+Elgin City,Peterhead,4.20,1.69,3.65,League 2,Scotland,2023-12-30 18:00:00,6445,6784071,42025737
+Club Brugge,Union Gilloise,2.28,3.10,3.20,Pro League,Belgium,2023-12-26 22:45:00,17056,6538386,41893987
+Wimbledon,Colchester,1.55,5.40,4.00,League Two,England,2023-12-29 22:45:00,90565,6332940,41890565
+Harrogate,Tranmere,2.36,2.75,3.45,League Two,England,2023-12-29 22:45:00,90573,6332938,41890573
+Mansfield,Doncaster,1.52,5.60,4.10,League Two,England,2023-12-29 22:45:00,90577,6332937,41890577
+Gillingham,Sutton,1.66,4.60,3.85,League Two,England,2023-12-29 22:45:00,90571,6332922,41890571
+Bradford City,Stockport,2.80,2.33,3.45,League Two,England,2023-12-29 22:45:00,90569,6332929,41890569
+Barrow AFC,Accrington,1.69,4.50,3.75,League Two,England,2023-12-29 22:45:00,90567,6332930,41890567
+Royston,Hitchin,3.40,1.95,3.55,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 16:00:00,72587,6786259,42372587
+Standard Liege,St. Truiden,2.34,3.00,3.25,Pro League,Belgium,2023-12-27 20:30:00,93993,6538387,41893993
+NEWCASTLE JETS (W),ADELAIDE UNITED (W),2.06,3.00,3.55,A-League Women,Australia,2023-12-31 09:00:00,6193,6785482,43256105
+Bracknell,Walton & Hersham,1.99,3.10,3.75,Southern League Premier South,England Amateur,2023-12-26 18:00:00,72565,6786258,42372565
+ANDERLECHT,Cercle Brugge,1.83,3.90,3.75,Pro League,Belgium,2023-12-27 22:45:00,93983,6538388,41893983
+CHARLEROI,KV MECHELEN,2.13,3.40,3.30,Pro League,Belgium,2023-12-27 22:45:00,93991,6538389,41893991
+Walsall,Wrexham,3.10,2.14,3.45,League Two,England,2023-12-29 22:45:00,90587,6332939,41890587
+Swindon Town,Forest Green,1.79,4.00,3.65,League Two,England,2023-12-29 22:45:00,90585,6332933,41890585
+Salford,Grimsby Town,2.34,2.70,3.55,League Two,England,2023-12-29 22:45:00,90583,6332942,41890583
+Notts County,Morecambe,1.54,5.20,4.20,League Two,England,2023-12-29 22:45:00,90581,6332935,41890581
+MK Dons,Crawley,1.78,4.10,3.65,League Two,England,2023-12-29 22:45:00,90575,6332943,41890575
+Newport,Crewe,2.35,2.60,3.70,League Two,England,2023-12-29 22:45:00,90579,6332927,41890579
+Gosport,Sholing,1.65,4.30,4.00,Southern League Premier South,England Amateur,2023-12-26 15:30:00,72577,6786387,42372577
+St Ives,Kettering,2.30,2.70,3.55,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 16:00:00,72591,6786380,42372591
+Bala Town,Newtown,2.07,3.15,3.35,Cymru Premier,Wales,2023-12-30 17:30:00,58993,6789501,41844115
+Halesowen,Telford,2.36,2.65,3.45,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 18:00:00,72567,6786383,42372567
+Aberystwyth,Haverfordwest,3.10,2.06,3.40,Cymru Premier,Wales,2023-12-30 17:30:00,44113,6789503,41844113
+Bromsgrove,Stourbridge,2.90,2.18,3.50,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 18:00:00,72563,6786385,42372563
+Barry,Cardiff Met,3.15,2.05,3.40,Cymru Premier,Wales,2023-12-30 17:30:00,44117,6789507,41844117
+BENFICA,Famalicao,1.19,12.00,6.20,Liga Portugal,Portugal,2023-12-29 21:45:00,34825,6782160,42146425
+Dorchester,Poole Town,3.85,1.69,4.20,Southern League Premier South,England Amateur,2023-12-26 18:00:00,72573,6786374,42372573
+Caernarfon,Colwyn Bay,1.54,4.80,4.10,Cymru Premier,Wales,2023-12-31 15:30:00,44119,6723173,41844119
+Berkhamsted FC,Sudbury,3.35,1.93,3.70,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 18:00:00,72559,6786376,42372559
+Connahs Quay,TNS,4.90,1.52,4.20,Cymru Premier,Wales,2023-12-31 17:30:00,44121,6789509,41844121
+Redditch,Alvechurch,1.56,4.80,4.20,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 18:00:00,72583,6786379,42372583
+ADANASPOR AS U19,Goztepe U19,2.44,2.44,2.95,U19 Elit B,Turkiye Amateur,2023-12-27 12:00:00,85205,6790216,46185205
+Pendikspor U19,Altay U19,2.75,2.03,3.30,U19 Elit B,Turkiye Amateur,2023-12-27 12:00:00,53115,6790212,46185211
+Eskisehirspor U19,Denizlispor U19,2.11,2.65,3.25,U19 Elit B,Turkiye Amateur,2023-12-27 12:00:00,85207,6790214,46185207
+Shabab AlAhli,Sharjah,2.23,2.60,3.55,Super Cup,United Arab Emirates,2023-12-29 18:45:00,62355,6769901,46319063
+AS Police,Binga FC,2.33,3.15,2.80,Ligue 1,Mali,2023-12-26 18:45:00,62431,6787907,46426681
+Djoliba,AS Korofina,1.91,4.10,3.00,Ligue 1,Mali,2023-12-26 18:45:00,62425,6787905,46426685
+MANISA FUTBOL KULUBU U19,GENCLERBIRLIGI U19,1.89,2.95,3.45,U19 Elit B,Turkiye Amateur,2023-12-27 12:00:00,85215,6790219,46185215
+BANDIRMASPOR U19,Bursaspor U19,4.40,1.49,3.80,U19 Elit B,Turkiye Amateur,2023-12-27 13:00:00,85203,6790222,46185203
+Harrow,Hendon,2.75,2.19,3.70,Southern League Premier South,England Amateur,2023-12-26 18:00:00,72581,6786398,42372581
+Denbigh Town,Ruthin Town,1.96,3.05,3.85,Cymru Championship North,Wales,2023-12-26 16:00:00,66421,6790224,41966421
+Al Ittifaq,Al Hazm,1.56,5.00,4.00,Saudi Pro League,Saudi Arabia,2023-12-28 18:00:00,51529,6460085,42417007
+PORTIMONENSE,Sporting,8.20,1.30,5.40,Liga Portugal,Portugal,2023-12-30 23:30:00,32327,6784776,45622968
+Hayes & Y,Hanwell,1.56,4.60,4.30,Southern League Premier South,England Amateur,2023-12-26 18:00:00,31059,6786401,42372585
+Canada SRL,Vietnam Srl,1.41,5.20,5.00,SRL International Friendlies,Simulated Reality League,2023-12-26 15:00:00,4273,6789219,46404273
+Uganda Srl,Ukraine,4.70,1.70,3.30,SRL International Friendlies,Simulated Reality League,2023-12-26 15:00:00,4275,6789224,46404275
+USA SRL,Italy,3.80,1.74,3.85,SRL International Friendlies,Simulated Reality League,2023-12-26 15:00:00,4277,6789197,46404277
+Algeria Srl,North Macedonia,1.46,4.70,5.00,SRL International Friendlies,Simulated Reality League,2023-12-26 15:00:00,4271,6789215,46404271
+Edinburgh,Hamilton,8.40,1.25,5.60,League 1,Scotland,2023-12-30 18:00:00,21105,6784171,42025383
+Benin Srl,Cyprus Srl,2.35,3.10,2.85,SRL International Friendlies,Simulated Reality League,2023-12-26 16:00:00,4279,6789223,46404279
+ESTORIL,Sporting Farense,1.99,3.30,3.60,Liga Portugal,Portugal,2023-12-30 18:30:00,45245,6784177,45622854
+Panama Srl,Oman Srl,2.70,2.70,2.80,SRL International Friendlies,Simulated Reality League,2023-12-26 16:00:00,4283,6789227,46404283
+Merthyr,Swindon Supermarine,1.72,3.75,4.10,Southern League Premier South,England Amateur,2023-12-26 18:00:00,79853,6786412,42372589
+Chile,Slovenia Srl,1.65,4.50,3.70,SRL International Friendlies,Simulated Reality League,2023-12-26 16:00:00,4281,6789231,46404281
+Gabon Srl,France SRL,22.00,1.12,6.20,SRL International Friendlies,Simulated Reality League,2023-12-26 14:00:00,4267,6788380,46404267
+Luxembourg Srl,Mali Srl,3.60,2.07,2.95,SRL International Friendlies,Simulated Reality League,2023-12-26 14:00:00,4263,6788382,46404263
+Bolivia,Netherlands SRL,10.00,1.20,5.80,SRL International Friendlies,Simulated Reality League,2023-12-26 14:00:00,4265,6788386,46404265
+Porthmadog,Bangor 1876 FC,1.93,3.10,3.80,Cymru Championship North,Wales,2023-12-26 17:30:00,66431,6790257,41966431
+Ecuador SRL,England SRL,3.50,1.78,3.90,SRL International Friendlies,Simulated Reality League,2023-12-26 14:00:00,4269,6788390,46404269
+Parkway,Tiverton,1.84,3.60,3.70,Southern League Premier South,England Amateur,2023-12-26 18:00:00,72593,6786446,42372593
+Lampang FC,Krabi,1.41,6.20,4.40,Thai League 2,Thailand,2023-12-27 14:30:00,93371,6778280,42756475
+Salisbury,Winchester,1.70,4.10,3.90,Southern League Premier South,England Amateur,2023-12-26 18:00:00,72597,6786447,42372597
+Mickleover Sports,Long Eaton,1.05,20.00,11.00,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 18:00:00,72571,6787389,42372571
+Bluebirds,Abergavenny,2.60,2.23,3.70,Cymru Championship South,Wales,2023-12-26 16:00:00,65897,6790325,41965897
+Gillingham,Crawley,1.98,3.50,3.55,League Two,England,2023-12-26 16:00:00,90547,6493487,41890547
+Llantwit Major,Goytre Utd,2.40,2.50,3.50,Cymru Championship South,Wales,2023-12-26 17:00:00,65905,6790327,41965905
+Mamelodi Sundowns,Moroka Swallows,1.27,10.00,5.00,Premiership,South Africa,2023-12-27 20:30:00,7744,6634779,45407744
+SYDNEY FC (W),Wellington Phoenix,1.37,6.40,4.60,A-League Women,Australia,2023-12-29 09:00:00,56097,6783181,43256097
+Khanh Hoa,Nghe An,2.65,2.50,3.25,V-League 1,Vietnam,2023-12-26 14:00:00,38858,6783033,44587386

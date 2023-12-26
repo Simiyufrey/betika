@@ -1,0 +1,46 @@
+Millwall,Queens Park Rangers,3
+FIORENTINA,TORINO,3
+CAGLIARI,Empoli,3
+JUVENTUS,ROMA,1
+Preston,Sheffield Wednesday,1
+Livingston,St Johnstone,1
+CELTIC,GLASGOW RANGERS,1
+ABERDEEN,St Mirren,2
+Newcastle Jets,Western United,1
+Bnei Sakhnin,H. Hadera,3
+Maccabi Petah Tikva,Petah Tikva,1
+Cheltenham,Shrewsbury,2
+Fleetwood,Carlisle,2
+Lincoln City,Northampton,1
+Burton,Shrewsbury,3
+Spezia,Modena,3
+Cosenza,Como,3
+Lecco,Sudtirol,1
+SAMPDORIA,Bari 1908,1
+Alfreton,Buxton,2
+Braintree,Chelmsford,1
+S. Tunisien,Africain,2
+Slimane,Gafsa,3
+Olympique de Beja,Ben Guerdane,1
+Forfar,East Fife,2
+Hai Phong,Binh Dinh,2
+El Sekka El Hadid,El Mahallah,3
+Al Orubah,Al Bukiryah,2
+Dag & Red,Eastleigh,2
+Boreham,Kidderminster,2
+Rochdale,Fylde,2
+Aldershot,Woking,2
+Newport,Forest Green,2
+Keshla,Moik Baku,1
+Potters,Wingate & Finchley,2
+La Viena FC,Asyut Petroleum,2
+Proxy SC,Gomhoryet,1
+Dulwich,Carshalton,3
+Haverfordwest,Barry,3
+Walsall,Crewe,3
+Inverness CT,Greenock Morton,2
+Club Brugge,Union Gilloise,2
+CHARLEROI,KV MECHELEN,3
+Bala Town,Newtown,3
+AS Police,Binga FC,3
+Benin Srl,Cyprus Srl,1
