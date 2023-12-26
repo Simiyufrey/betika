@@ -223,6 +223,7 @@ def bet_history(data):
    print(f"Bet History retrived {os.path.join(os.getcwd(),file.name)}")
 
 def menu():
+   load_dotenv()
    global token,balance,betslip,profile_id
    profile_id=os.getenv("PROFILE")
    token=os.getenv("TOKEN")
@@ -237,6 +238,8 @@ def menu():
    
    elif option =="2":
       fetch_games()
+      profile_id=os.getenv("PROFILE")
+      token=os.getenv("TOKEN")
       if token is not None:
          print(len(betslip))
          betslip=[bet for n,bet in enumerate(betslip) if n %2 ==0 ]
