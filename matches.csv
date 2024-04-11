@@ -1,402 +1,1216 @@
 Home Team, Away Team, Home odd, Away odd, Draw,Competition Name,Category,start time ,game id,match id, parent match id
-AL Adalh,AL Ain,1.57,5.20,4.00,Division 1,Saudi Arabia,2023-12-26 15:00:00,97213,6782783,42397213
-BOURNEMOUTH,Fulham,2.11,3.30,3.60,Premier League,England,2023-12-26 18:00:00,60817,6767642,41763201
-Sheff Utd,Luton,2.48,2.95,3.25,Premier League,England,2023-12-26 18:00:00,58237,6767645,41763219
-NEWCASTLE,Nottingham Forest,1.42,7.60,5.00,Premier League,England,2023-12-26 15:30:00,63217,6545531,41763217
-MAN UTD,Aston Villa,2.48,2.65,3.80,Premier League,England,2023-12-26 23:00:00,63215,6545511,41763215
-BURNLEY,LIVERPOOL,7.60,1.37,5.40,Premier League,England,2023-12-26 20:30:00,63209,6545507,41763209
-SOUTHAMPTON,SWANSEA,1.48,5.60,4.50,Championship,England,2023-12-26 18:00:00,88175,6771059,41888175
-Rotherham,Middlesbrough,5.60,1.56,4.00,Championship,England,2023-12-26 18:00:00,88173,6771071,41888173
-Preston,Leeds,5.80,1.54,4.10,Championship,England,2023-12-26 15:30:00,98287,6770457,41888171
-Millwall,Queens Park Rangers,2.16,3.45,3.15,Championship,England,2023-12-26 16:00:00,74616,6770528,41888169
-Dundee FC,CELTIC,9.80,1.25,6.00,Premiership,Scotland,2023-12-26 18:00:00,79293,6771035,42021561
-Al Jabalain,Al Safa (Ksa),1.56,5.60,3.85,Division 1,Saudi Arabia,2023-12-26 15:30:00,97217,6782777,42397217
-Knockbreda,Institute,6.40,1.37,4.90,Championship,Northern Ireland,2023-12-26 17:00:00,27883,6786142,42013923
-TNS,Caernarfon,1.06,20.00,12.00,Cymru Premier,Wales,2023-12-26 17:30:00,99083,6775431,41844111
-GENK,Antwerp,2.36,2.80,3.50,Pro League,Belgium,2023-12-26 15:30:00,93981,6538382,41893981
-Mansfield,Grimsby Town,1.49,5.80,4.50,League Two,England,2023-12-26 15:30:00,90553,6659121,41890553
-Airbus UK,Gresford Ath,1.33,6.40,5.20,Cymru Championship North,Wales,2023-12-26 17:30:00,66417,6790289,41966417
-Baglan Dragons,Briton Ferry,4.60,1.51,4.60,Cymru Championship South,Wales,2023-12-26 17:00:00,65899,6790321,41965899
-Carmarthen Town,Pontardawe Town,1.31,6.60,5.40,Cymru Championship South,Wales,2023-12-26 17:00:00,65901,6790330,41965901
-Guilsfield,Chirk AAA,1.35,6.40,5.00,Cymru Championship North,Wales,2023-12-26 17:30:00,66423,6790310,41966423
-Llanelli,Ammanford,1.42,5.20,5.00,Cymru Championship South,Wales,2023-12-26 17:30:00,65907,6790319,41965907
-WATFORD,Bristol City,1.90,4.00,3.40,Championship,England,2023-12-26 18:00:00,88177,6771069,41888177
-Hull,Sunderland,2.55,2.65,3.30,Championship,England,2023-12-26 18:00:00,88165,6771061,41888165
-Cardiff,Plymouth,1.98,3.50,3.60,Championship,England,2023-12-26 18:00:00,88159,6771063,41888159
-Coventry,Sheffield Wednesday,1.77,4.40,3.60,Championship,England,2023-12-26 18:00:00,88161,6771065,41888161
-HUDDERSFIELD,Blackburn,3.05,2.16,3.60,Championship,England,2023-12-26 18:00:00,88163,6771067,41888163
-Ipswich,Leicester,3.00,2.22,3.50,Championship,England,2023-12-26 22:45:00,95557,6771838,41888167
-WEST BROM,Norwich,1.95,3.70,3.50,Championship,England,2023-12-26 18:00:00,88179,6771093,41888179
-Birmingham,Stoke,2.75,2.48,3.25,Championship,England,2023-12-26 20:15:00,92151,6771571,41888157
-H. Beer Sheva,H Haifa,1.66,4.60,3.85,Premier League,Israel,2023-12-26 21:00:00,17533,6706688,45817533
-Peterborough,Reading,1.43,6.20,4.70,League One,England,2023-12-26 18:00:00,89327,6771099,41889327
-Carrick Rangers,Larne,6.80,1.42,4.40,Premiership,Northern Ireland,2023-12-26 18:00:00,29721,6786002,41985929
-Solihull Moors,Chesterfield,5.60,1.49,4.40,National League,England,2023-12-26 18:00:00,25597,6783949,42136181
-Gateshead,York,1.29,8.40,5.40,National League,England,2023-12-26 18:00:00,43819,6783737,42136173
-Wimbledon,Sutton,1.42,6.80,4.50,League Two,England,2023-12-26 18:00:00,10468,6771039,41890541
-Notts County,Doncaster,1.58,5.00,4.20,League Two,England,2023-12-26 18:00:00,93957,6771041,41890557
-KORTRIJK,GENT,7.60,1.34,5.20,Pro League,Belgium,2023-12-26 18:00:00,93995,6538383,41893995
-Stade Malien,Black Star,1.38,8.60,3.90,Ligue 1,Mali,2023-12-26 18:45:00,30127,6787903,46426683
-Husa Hassania,Casablanca,5.20,1.70,3.35,Botola Pro D1,Morocco,2023-12-26 20:00:00,78167,6759521,46207619
-Medeama,Bibiani Gold Stars FC,1.51,5.60,3.55,Premier League,Ghana,2023-12-26 18:00:00,51487,6788591,42722703
-Al-Ittihad Jeddah,Al Nasr,4.30,1.64,4.40,Saudi Pro League,Saudi Arabia,2023-12-26 21:00:00,52012,6460067,44352012
-Trefelin,Afan Lido,3.30,1.86,3.85,Cymru Championship South,Wales,2023-12-26 20:30:00,9607,6787267,41965909
-Arsenal,WEST HAM,1.35,8.40,5.60,Premier League,England,2023-12-28 23:15:00,35036,6545588,44860712
-CHELSEA,Crystal Palace,1.80,4.50,3.85,Premier League,England,2023-12-27 22:30:00,63211,6545525,41763211
-Brentford,Wolves,1.98,3.85,3.50,Premier League,England,2023-12-27 22:30:00,40980,6771773,41763205
-Everton,MAN CITY,5.60,1.61,4.20,Premier League,England,2023-12-27 23:15:00,63213,6545509,41763213
-Luton,CHELSEA,4.80,1.67,3.95,Premier League,England,2023-12-30 15:30:00,63229,6545520,41763229
-MAN CITY,Sheff Utd,1.07,29.00,11.00,Premier League,England,2023-12-30 18:00:00,99369,6784018,41763231
-Wolves,Everton,2.60,2.70,3.30,Premier League,England,2023-12-30 18:00:00,90525,6784010,41763239
-Crystal Palace,Brentford,2.46,2.85,3.30,Premier League,England,2023-12-30 18:00:00,5945,6784016,41763223
-Aston Villa,BURNLEY,1.36,7.60,5.20,Premier League,England,2023-12-30 18:00:00,2137,6784007,41763221
-Nottingham Forest,MAN UTD,3.20,2.13,3.60,Premier League,England,2023-12-30 20:30:00,63233,6545529,41763233
-Fulham,Arsenal,5.20,1.58,4.20,Premier League,England,2023-12-31 17:00:00,63225,6545522,41763225
-TOTTENHAM,BOURNEMOUTH,1.59,4.90,4.40,Premier League,England,2023-12-31 17:00:00,63235,6545519,41763235
-WEST HAM,BRIGHTON,2.33,2.80,3.70,Premier League,England,2024-01-02 22:30:00,63237,6545594,41763237
-LIVERPOOL,NEWCASTLE,1.54,5.20,4.60,Premier League,England,2024-01-01 23:00:00,63227,6545595,41763227
-BRIGHTON,TOTTENHAM,2.60,2.55,3.85,Premier League,England,2023-12-28 22:30:00,94787,6775302,44860714
-Lebanon,Jordan,2.75,2.55,3.10,Int. Friendly Games,International,2023-12-28 17:00:00,27879,6785695,46453285
-UAE,Kyrgyzstan,1.40,7.40,4.40,Int. Friendly Games,International,2023-12-30 18:15:00,88571,6764273,46250663
-China,Oman,2.80,2.60,2.95,Int. Friendly Games,International,2023-12-29 18:00:00,6219,6785990,46453463
-GETAFE,Vallecano,2.35,3.25,3.05,LaLiga,Spain,2024-01-02 19:00:00,94157,6788948,41893261
-Real Sociedad,ALAVES,1.54,6.40,3.85,LaLiga,Spain,2024-01-02 21:15:00,62617,6789380,41893281
-VALENCIA,Villarreal,2.26,3.00,3.50,LaLiga,Spain,2024-01-02 23:30:00,62395,6789557,41893263
-ATALANTA,Lecce,1.45,7.00,4.40,Serie A,Italy,2023-12-30 14:30:00,76959,6294482,42134447
-GENOA,Inter,5.80,1.63,3.90,Serie A,Italy,2023-12-29 22:45:00,23267,6294480,42134453
-LAZIO,Frosinone,1.67,5.00,3.80,Serie A,Italy,2023-12-29 22:45:00,83815,6294481,42134459
-FIORENTINA,TORINO,2.21,3.50,3.30,Serie A,Italy,2023-12-29 20:30:00,68017,6294477,42134451
-CAGLIARI,Empoli,2.09,3.45,3.45,Serie A,Italy,2023-12-30 17:00:00,18713,6294483,42134449
-NAPOLI,Monza,1.63,5.20,3.90,Serie A,Italy,2023-12-29 20:30:00,80091,6294478,42134463
-UDINESE,BOLOGNA,3.30,2.26,3.15,Serie A,Italy,2023-12-30 17:00:00,68811,6294484,42134465
-HELLAS VERONA,Salernitana,1.96,3.90,3.40,Serie A,Italy,2023-12-30 20:00:00,68867,6294485,42134455
-Milan,SASSUOLO,1.47,6.00,4.70,Serie A,Italy,2023-12-30 20:00:00,87193,6294489,42134461
-JUVENTUS,ROMA,2.06,4.00,3.10,Serie A,Italy,2023-12-30 22:45:00,80099,6294490,42134457
-Sheffield Wednesday,Hull,2.90,2.36,3.20,Championship,England,2024-01-01 20:15:00,58969,6789291,41888221
-WEST BROM,Leeds,3.10,2.17,3.40,Championship,England,2023-12-29 23:15:00,88203,6782301,41888203
-Sunderland,Preston,1.60,5.20,3.85,Championship,England,2024-01-01 15:30:00,60571,6788462,41888225
-SOUTHAMPTON,Plymouth,1.37,6.60,4.90,Championship,England,2023-12-29 21:00:00,52966,6782153,41888199
-Plymouth,WATFORD,2.95,2.18,3.50,Championship,England,2024-01-01 18:00:00,88217,6788804,41888217
-Preston,Sheffield Wednesday,2.28,3.10,3.15,Championship,England,2023-12-29 22:45:00,56314,6782233,41888195
-Norwich,SOUTHAMPTON,3.10,2.12,3.50,Championship,England,2024-01-01 18:00:00,88215,6788806,41888215
-Rotherham,Sunderland,5.40,1.55,4.00,Championship,England,2023-12-29 22:45:00,71361,6782235,41888197
-Queens Park Rangers,Cardiff,2.35,2.95,3.20,Championship,England,2024-01-01 18:00:00,88219,6788807,41888219
-Stoke,Ipswich,3.20,2.08,3.50,Championship,England,2024-01-01 18:00:00,55217,6788798,41888223
-Leicester,HUDDERSFIELD,1.20,12.00,6.00,Championship,England,2024-01-01 18:00:00,88211,6788800,41888211
-Middlesbrough,Coventry,1.89,3.65,3.65,Championship,England,2024-01-01 18:00:00,88213,6788802,41888213
-Leeds,Birmingham,1.25,9.80,5.60,Championship,England,2024-01-01 18:00:00,88209,6788814,41888209
-Coventry,SWANSEA,1.75,4.20,3.75,Championship,England,2023-12-29 22:45:00,31153,6782241,41888185
-Bristol City,Millwall,2.09,3.40,3.25,Championship,England,2024-01-01 18:00:00,88207,6788810,41888207
-Cardiff,Leicester,4.60,1.66,3.80,Championship,England,2023-12-29 22:45:00,6615,6782249,41888183
-SWANSEA,WEST BROM,2.90,2.31,3.25,Championship,England,2024-01-01 18:00:00,88227,6788812,41888227
-HUDDERSFIELD,Middlesbrough,4.50,1.71,3.70,Championship,England,2023-12-29 22:45:00,21593,6782243,41888187
-Ipswich,Queens Park Rangers,1.42,6.40,4.60,Championship,England,2023-12-29 22:45:00,45697,6782251,41888191
-Hull,Blackburn,1.90,3.50,3.70,Championship,England,2023-12-29 22:45:00,70795,6782245,41888189
-Millwall,Norwich,2.37,2.85,3.25,Championship,England,2023-12-29 22:45:00,77889,6782255,41888193
-WATFORD,Stoke,1.93,3.70,3.40,Championship,England,2023-12-29 22:45:00,13917,6782237,41888201
-Blackburn,Rotherham,1.45,6.00,4.50,Championship,England,2024-01-01 18:00:00,97219,6788820,41888205
-Birmingham,Bristol City,2.37,2.90,3.20,Championship,England,2023-12-29 22:45:00,68612,6782239,41888181
-Livingston,St Johnstone,2.31,3.15,3.10,Premiership,Scotland,2023-12-27 22:45:00,27959,6775317,42021563
-ABERDEEN,MOTHERWELL,1.72,4.40,3.80,Premiership,Scotland,2023-12-27 22:45:00,25015,6775320,42021559
-St Mirren,KILMARNOCK,2.65,2.75,3.05,Premiership,Scotland,2023-12-27 22:45:00,27587,6775323,42021567
-GLASGOW RANGERS,Ross County,1.16,15.00,7.20,Premiership,Scotland,2023-12-27 22:45:00,25627,6775326,42021565
-HIBERNIAN,HEARTS,2.44,2.70,3.40,Premiership,Scotland,2023-12-27 23:00:00,58881,6775345,42021569
-CELTIC,GLASGOW RANGERS,2.13,3.05,3.55,Premiership,Scotland,2023-12-30 15:30:00,22733,6784408,42021571
-ABERDEEN,St Mirren,2.11,3.30,3.30,Premiership,Scotland,2023-12-30 18:00:00,5797,6784412,42021573
-MOTHERWELL,Livingston,1.82,4.10,3.45,Premiership,Scotland,2023-12-30 18:00:00,56093,6784414,42021579
-HEARTS,Ross County,1.67,4.80,3.65,Premiership,Scotland,2023-12-30 18:00:00,80813,6784416,42021575
-KILMARNOCK,Dundee FC,1.89,3.85,3.45,Premiership,Scotland,2023-12-30 18:00:00,25225,6784410,42021577
-Newcastle Jets,Western United,2.09,3.05,3.55,A-League,Australia,2023-12-30 09:30:00,5579,6783079,43255217
-Sydney W.,Macarthur FC,1.73,3.95,3.90,A-League,Australia,2024-01-01 09:00:00,28063,6787720,43255223
-Central Coast,Perth Glory FC,1.55,4.80,4.20,A-League,Australia,2023-12-31 11:00:00,99183,6785699,43255221
-Sydney FC,Wellington,1.78,3.75,3.85,A-League,Australia,2023-12-29 11:45:00,8543,6779802,43255215
-Melbourne City,Brisbane Roar,1.66,4.40,3.95,A-League,Australia,2023-12-28 11:45:00,52025,6776614,43255213
-Melbourne Victory,Adelaide,1.67,4.00,4.10,A-League,Australia,2023-12-30 11:45:00,48877,6783289,43255219
-Bnei Sakhnin,H. Hadera,2.11,3.35,3.15,Premier League,Israel,2023-12-27 20:00:00,17539,6706695,45817539
-Maccabi Petah Tikva,Petah Tikva,2.21,3.05,3.25,Premier League,Israel,2023-12-27 20:45:00,45046,6706696,45817541
-Maccabi Tel Aviv,Beitar Jerusalem,1.31,8.00,5.00,Premier League,Israel,2023-12-27 21:30:00,17545,6706698,45817545
-M. Netanya,Ironi Ashdod,1.65,4.90,3.70,Premier League,Israel,2023-12-26 20:00:00,17529,6706684,45817529
-Katamon,Hapoel Tel Aviv,2.85,2.55,3.00,Premier League,Israel,2023-12-26 20:45:00,17537,6706689,45817537
-Maccabi Haifa,Maccabi Bney Reine,1.45,6.20,4.20,Premier League,Israel,2023-12-27 21:00:00,95493,6706697,45817543
-Mohun Bagan Super Giant,Kerala Blasters FC,1.90,3.70,3.40,Indian Super League,India,2023-12-27 17:30:00,15949,6604363,43615949
-Odisha FC,Jamshedpur,1.82,3.75,3.50,Indian Super League,India,2023-12-29 15:00:00,15953,6604371,43615953
-Mumbai City FC,Chennaiyin FC,1.48,5.20,4.30,Indian Super League,India,2023-12-28 17:30:00,15951,6604367,43615951
-Northeast United FC,FC Goa,4.60,1.59,3.95,Indian Super League,India,2023-12-29 17:30:00,15955,6302098,43615955
-Punjab FC,Odisha FC,3.25,2.02,3.60,Indian Super League,India,2023-12-26 17:30:00,15947,6604360,43615947
-Wigan,Derby,4.50,1.73,3.75,League One,England,2023-12-26 18:00:00,89333,6771081,41889333
-Stevenage,Northampton,1.68,5.00,3.65,League One,England,2023-12-26 18:00:00,89331,6771083,41889331
-Oxford Utd,Cambridge,1.71,4.60,3.70,League One,England,2023-12-26 18:00:00,89325,6771073,41889325
-Cheltenham,Shrewsbury,2.22,3.20,3.25,League One,England,2023-12-26 18:00:00,89339,6771075,41889339
-Exeter,Wycombe,2.95,2.34,3.30,League One,England,2023-12-26 18:00:00,89341,6771077,41889341
-Port Vale,Barnsley,2.95,2.27,3.45,League One,England,2023-12-26 18:00:00,89329,6771109,41889329
-Lincoln City,Bolton,3.40,2.11,3.30,League One,England,2023-12-26 18:00:00,107,6771111,41889347
-Fleetwood,Carlisle,2.12,3.25,3.45,League One,England,2023-12-26 18:00:00,89343,6771103,41889343
-Bristol Rovers,Portsmouth,3.20,2.14,3.45,League One,England,2023-12-26 18:00:00,89335,6771107,41889335
-Burton,Blackpool,4.20,1.76,3.80,League One,England,2023-12-26 18:00:00,38540,6781181,41889337
-Wigan,Carlisle,1.78,4.40,3.45,League One,England,2023-12-29 22:00:00,13493,6784485,41889373
-Oxford Utd,Derby,2.60,2.65,3.15,League One,England,2023-12-29 22:45:00,22737,6784487,41889365
-Leyton Orient London,Wycombe,2.31,3.00,3.20,League One,England,2023-12-29 22:45:00,89361,6332918,41889361
-Lincoln City,Northampton,2.16,3.25,3.25,League One,England,2023-12-29 22:45:00,22739,6784489,41889363
-Fleetwood,Bolton,3.60,1.92,3.55,League One,England,2023-12-29 22:45:00,89357,6332919,41889357
-Peterborough,Barnsley,1.68,4.40,3.90,League One,England,2023-12-29 22:45:00,89367,6332921,41889367
-Cheltenham,Reading,2.50,2.75,3.15,League One,England,2023-12-29 22:45:00,89353,6332914,41889353
-Port Vale,Blackpool,2.80,2.36,3.30,League One,England,2023-12-29 22:45:00,89369,6332916,41889369
-Exeter,Portsmouth,4.60,1.69,3.70,League One,England,2023-12-29 22:45:00,89355,6332917,41889355
-Stevenage,Cambridge,1.67,4.80,3.65,League One,England,2023-12-29 22:45:00,89371,6332924,41889371
-Burton,Shrewsbury,2.19,3.45,3.00,League One,England,2023-12-29 22:45:00,89351,6332911,41889351
-Bristol Rovers,Charlton,2.26,2.85,3.45,League One,England,2023-12-29 22:45:00,6023,6784554,41889349
-Leyton Orient London,Charlton,2.39,2.75,3.45,League One,England,2023-12-26 16:00:00,89345,6332912,41889345
-Linfield,Glentoran,1.70,4.30,3.85,Premiership,Northern Ireland,2023-12-26 18:00:00,85933,6786004,41985933
-Loughgall,Dungannon,3.20,2.02,3.70,Premiership,Northern Ireland,2023-12-26 18:00:00,57996,6784468,41985935
-Newry City,Glenavon,3.30,2.02,3.55,Premiership,Northern Ireland,2023-12-26 18:00:00,77319,6784472,41985937
-Cliftonville,Crusaders Belfast,1.77,4.10,3.70,Premiership,Northern Ireland,2023-12-26 18:00:00,54457,6784466,41985931
-Ballymena,Coleraine,3.70,1.86,3.65,Premiership,Northern Ireland,2023-12-26 18:00:00,29727,6785832,41985927
-Larne,Linfield,2.39,2.75,3.15,Premiership,Northern Ireland,2023-12-30 18:00:00,85949,6684319,41985949
-Reggiana,Catanzaro,2.70,2.75,2.85,Serie B,Italy,2023-12-26 14:30:00,50422,6402919,42261965
-Feralpi Salo,Venezia,3.75,2.06,3.15,Serie B,Italy,2023-12-26 17:00:00,50426,6402917,42261959
-Spezia,Modena,2.35,3.10,3.10,Serie B,Italy,2023-12-26 17:00:00,78836,6402921,42261969
-Palermo,Cremonese,2.70,2.55,3.25,Serie B,Italy,2023-12-26 20:00:00,15814,6402914,42261963
-Ascoli,Cittadella,2.80,2.75,2.90,Serie B,Italy,2023-12-26 17:00:00,50454,6402918,42261955
-Ternana,Pisa,2.47,2.85,3.20,Serie B,Italy,2023-12-26 17:00:00,61971,6402922,42261971
-Cosenza,Como,2.41,3.05,3.05,Serie B,Italy,2023-12-26 17:00:00,17200,6402916,42261957
-Lecco,Sudtirol,2.31,3.25,3.00,Serie B,Italy,2023-12-26 17:00:00,17202,6402915,42261961
-SAMPDORIA,Bari 1908,2.17,3.55,3.05,Serie B,Italy,2023-12-26 22:30:00,50244,6402920,42261967
-Brescia,Parma Calcio,3.40,2.17,3.15,Serie B,Italy,2023-12-26 17:00:00,67029,6257397,42267029
-Chonburi,Bangkok Utd,3.40,1.90,3.55,Thai League 1,Thailand,2023-12-28 15:00:00,5052,6468347,44419244
-Bangkok,Chiangrai Utd,1.47,5.60,4.10,Thai League 1,Thailand,2023-12-28 15:00:00,36474,6643299,45451626
-Prachuap FC,Buriram,3.40,1.90,3.55,Thai League 1,Thailand,2023-12-28 14:00:00,37432,6643297,45451624
-Smouha,El Gaish,2.60,2.95,2.90,Premier League,Egypt,2023-12-27 20:00:00,70333,6346063,43770333
-Masr,El Daklyeh,1.64,5.80,3.50,Premier League,Egypt,2023-12-27 17:00:00,70325,6346060,43770325
-Al Ittihad,Farco,2.00,3.75,3.30,Premier League,Egypt,2023-12-26 20:00:00,30157,6772950,43770323
-National Bank,Al Mokawloon,2.50,2.90,2.95,Premier League,Egypt,2023-12-30 17:00:00,70337,6346066,43770337
-Slough Town,Hampton & R,1.71,4.10,3.80,National League South,England Amateur,2023-12-26 16:00:00,63079,6735289,42138367
-Havant & W,Farnborough,2.41,2.60,3.45,National League South,England Amateur,2023-12-26 18:00:00,38365,6782765,42138365
-St Albans,Hemel Hempstead,2.13,3.00,3.50,National League South,England Amateur,2023-12-26 18:00:00,70595,6782767,42138369
-Bath,Chippenham,1.55,5.40,3.45,National League South,England Amateur,2024-01-01 18:00:00,62579,6790353,42138385
-Torquay,Truro,2.42,2.70,3.30,National League South,England Amateur,2023-12-26 18:00:00,38373,6782816,42138373
-Marine,Warrington Rylands 1906 FC,2.43,2.60,3.35,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,25459,6786085,42334467
-Atherton,Workington,5.20,1.51,4.30,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,34457,6786087,42334457
-Stafford,Gainsborough,2.70,2.29,3.55,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,34473,6786091,42334473
-Ashton,FC United,2.10,3.00,3.60,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,34455,6786093,42334455
-Ilkeston Town FC,Matlock,2.33,2.60,3.65,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,29571,6786080,42334463
-Guiseley,Marske Utd,1.40,6.20,4.80,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,31043,6786082,42334461
-Morpeth,Whitby,2.46,2.50,3.50,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,34469,6786095,42334469
-Worksop,Basford Utd.,1.26,8.80,5.60,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,23861,6786127,42334475
-Bamber,Lancaster,2.25,2.75,3.50,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,26139,6786130,42334459
-Macclesfield FC,Hyde,1.58,4.60,4.20,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,55563,6786604,42334465
-Radcliffe,Bradford Park Avenue,1.28,7.80,5.60,Northern Premier League Premier Division,England Amateur,2023-12-26 18:00:00,77957,6786133,42334471
-Weston Super Mare,Weymouth,1.61,4.60,3.95,National League South,England Amateur,2023-12-26 18:00:00,38377,6782870,42138377
-Aveley,Dover,1.62,4.60,3.50,National League South,England Amateur,2023-12-30 18:00:00,55195,6790040,42138383
-Dover,Aveley,2.95,2.29,3.15,National League South,England Amateur,2023-12-26 18:00:00,78985,6782873,42138363
-Maidstone,Tonbridge,1.55,5.40,3.45,National League South,England Amateur,2024-01-01 18:00:00,79773,6790486,42138399
-Yeovil,Taunton,1.50,5.40,4.10,National League South,England Amateur,2023-12-26 18:00:00,38381,6782874,42138381
-Dartford,Welling,1.78,3.65,3.50,National League South,England Amateur,2023-12-30 18:00:00,38389,6568727,42138389
-Truro,Torquay,2.44,2.44,3.35,National League South,England Amateur,2023-12-30 18:00:00,38403,6473352,42138403
-Taunton,Yeovil,2.90,2.20,3.15,National League South,England Amateur,2023-12-31 18:00:00,27207,6339092,42138401
-Hampton & R,Slough Town,1.97,3.35,3.20,National League South,England Amateur,2024-01-01 16:00:00,32664,6735288,42138395
-Bishop's Stortford,Peterborough Sports,2.75,2.32,3.35,National League North,England Amateur,2023-12-26 16:00:00,37251,6720903,42137251
-Scunthorpe,Farsley Celtic,1.31,8.80,4.70,National League North,England Amateur,2023-12-26 16:00:00,98293,6720904,42137285
-Banbury,Brackley,3.70,1.91,3.35,National League North,England Amateur,2023-12-26 16:00:00,9481,6694368,42137245
-Scarborough,Darlington,1.61,4.80,3.85,National League North,England Amateur,2023-12-26 16:00:00,26466,6784722,42137281
-Alfreton,Buxton,2.10,3.25,3.30,National League North,England Amateur,2023-12-26 18:00:00,68475,6784720,42137239
-Chester,Warrington,1.90,3.65,3.45,National League North,England Amateur,2023-12-26 18:00:00,96943,6784724,42137257
-Curzon,Southport,1.78,4.00,3.55,National League North,England Amateur,2023-12-26 18:00:00,35589,6784727,42137263
-Gloucester,Hereford,2.75,2.35,3.35,National League North,England Amateur,2023-12-26 18:00:00,23219,6784729,42137269
-Worthing,Eastbourne,1.60,4.50,4.10,National League South,England Amateur,2023-12-26 18:00:00,15381,6784732,42138379
-Kings Lynn,Boston,2.55,2.60,3.15,National League North,England Amateur,2023-12-26 18:00:00,709,6784733,42137275
-South Shields,Blyth,1.55,4.90,4.20,National League North,England Amateur,2023-12-26 18:00:00,44889,6784735,42137289
-Spennymoor,Chorley,4.00,1.71,3.90,National League North,England Amateur,2023-12-26 18:00:00,55153,6784739,42137293
-Farnborough,Havant & W,1.55,4.60,3.80,National League South,England Amateur,2024-01-01 18:00:00,9621,6790170,42138393
-Tamworth,Rushall,1.42,6.40,4.40,National League North,England Amateur,2023-12-26 18:00:00,58131,6784742,42137297
-Tonbridge,Maidstone,2.75,2.40,3.25,National League South,England Amateur,2023-12-26 16:00:00,38371,6544634,42138371
-Welling,Dartford,3.05,2.14,3.40,National League South,England Amateur,2023-12-26 16:00:00,48650,6666955,45560976
-Braintree,Chelmsford,2.14,3.15,3.25,National League South,England Amateur,2023-12-26 18:00:00,48899,6782696,42138359
-Chippenham,Bath,4.60,1.70,3.50,National League South,England Amateur,2023-12-26 18:00:00,88508,6782739,42138361
-Al Ahli KSA,Al Khaleej,1.40,6.40,4.60,Saudi Pro League,Saudi Arabia,2023-12-29 21:00:00,39847,6460082,42417009
-S. Tunisien,Africain,2.39,3.10,2.90,Ligue 1,Tunisia,2023-12-26 16:00:00,26182,6739007,46059891
-Slimane,Gafsa,2.31,3.35,2.80,Ligue 1,Tunisia,2023-12-26 16:00:00,52889,6739005,46060037
-Germany SRL,Argentina SRL,2.55,2.34,3.55,SRL International Friendlies,Simulated Reality League,2023-12-26 16:00:00,62965,6789265,46404287
-Olympique de Beja,Ben Guerdane,2.29,3.30,2.85,Ligue 1,Tunisia,2023-12-26 16:00:00,34880,6739006,46060179
-Pikine,Casa,1.90,4.60,2.80,Premier League,Senegal,2023-12-27 19:30:00,55068,6778803,46380417
-Al Faiha,Al Hilal,10.00,1.20,6.40,Saudi Pro League,Saudi Arabia,2023-12-29 18:00:00,51058,6460086,42416999
-Cong Anh Nhan Dan,B. Binh Duong,1.76,4.00,3.80,V-League 1,Vietnam,2023-12-26 15:15:00,15721,6785976,44587388
-Quang Nam,CLB Thanh Hoa,3.35,2.00,3.40,V-League 1,Vietnam,2023-12-27 13:00:00,46655,6783035,44587394
-Al Raed,Abha,1.63,4.50,3.95,Saudi Pro League,Saudi Arabia,2023-12-29 18:00:00,3701,6460083,42417005
-Uniao Leiria,FEIRENSE,1.72,4.30,3.60,Liga Portugal 2,Portugal,2023-12-30 21:00:00,26090,6672626,42147233
-Casa Pia,BRAGA,5.00,1.60,3.90,Liga Portugal,Portugal,2023-12-30 21:00:00,53583,6784603,45623074
-ANKARA KECIORENGUCU U19,Umraniyespor U19,1.94,2.95,3.30,U19 Elit B,Turkiye Amateur,2023-12-27 12:00:00,85209,6790349,46185209
-Clyde,Stenhousemuir,3.95,1.76,3.60,League 2,Scotland,2023-12-30 18:00:00,75224,6784175,42025735
-Stranraer,Dumbarton,3.05,2.13,3.35,League 2,Scotland,2023-12-30 18:00:00,41819,6784164,42025741
-Forfar,East Fife,2.11,3.15,3.25,League 2,Scotland,2023-12-30 18:00:00,56831,6784167,42025739
-Al Fateh,Al-Akhdoud Club,1.75,4.00,3.70,Saudi Pro League,Saudi Arabia,2023-12-30 18:00:00,9230,6460081,42416997
-B. Rose,Spartans,2.23,2.85,3.35,League 2,Scotland,2023-12-30 18:00:00,21163,6784173,42025733
-Molynes,Montego Bay Utd.,2.65,2.25,3.15,Premier League,Jamaica,2023-12-27 23:00:00,12219,6782818,46412219
-Lime Hall Academy FC,Humble Lions FC,2.85,2.18,3.05,Premier League,Jamaica,2023-12-27 23:00:00,12209,6782811,46412209
-Hai Phong,Binh Dinh,2.10,3.10,3.40,V-League 1,Vietnam,2023-12-27 15:15:00,59075,6789993,44587398
-Jamalco FC,Portmore Utd,2.33,2.55,3.10,Premier League,Jamaica,2023-12-27 23:00:00,12211,6782812,46412211
-El Sekka El Hadid,El Mahallah,2.30,3.25,2.80,2. Division A,Egypt,2023-12-27 15:30:00,30761,6789996,46286071
-Al Tai,Al-Ittihad Jeddah,3.90,1.72,3.95,Saudi Pro League,Saudi Arabia,2023-12-30 18:00:00,17001,6460089,42417001
-Al Riyadh,Dhamk,4.10,1.73,3.70,Saudi Pro League,Saudi Arabia,2023-12-28 18:00:00,56045,6460084,42417013
-Cavaliers FC,Treasure Beach FC,1.60,4.40,3.45,Premier League,Jamaica,2023-12-27 23:00:00,12213,6782813,46412213
-GALATASARAY,Fenerbahce,2.30,2.90,3.35,Super Kupa,Turkiye,2023-12-29 20:45:00,20586,6536899,44820586
-AL Shabab,Al Wehda,1.94,3.40,3.60,Saudi Pro League,Saudi Arabia,2023-12-30 21:00:00,17003,6460087,42417003
-Dunbeholden FC,Waterhouse FC,1.83,3.65,3.15,Premier League,Jamaica,2023-12-27 23:00:00,12215,6782814,46412215
-Nam Dinh,Viettel,1.76,4.20,3.55,V-League 1,Vietnam,2023-12-27 14:00:00,59077,6789997,44587396
-Harbour View,Tivoli Gardens,2.28,2.60,3.15,Premier League,Jamaica,2023-12-28 01:00:00,12217,6782815,46412217
-Arnett Gardens FC,Mount Pleasant FC,3.20,1.94,3.25,Premier League,Jamaica,2023-12-28 03:00:00,12221,6782819,46412221
-TP Ho Chi Minh,Hong Linh Ha Tinh FC,1.90,3.95,3.35,V-League 1,Vietnam,2023-12-26 15:15:00,2223,6783765,44587390
-Al Taawon,Al Nasr,5.60,1.43,4.70,Saudi Pro League,Saudi Arabia,2023-12-30 21:00:00,17011,6460088,42417011
-Ebbsfleet,Bromley,3.25,2.01,3.65,National League,England,2023-12-26 18:00:00,57093,6783727,42136171
-Al Orubah,Al Bukiryah,2.01,3.65,3.15,Division 1,Saudi Arabia,2023-12-27 15:30:00,97221,6782781,42397221
-Altrincham,Halifax,1.95,3.65,3.40,National League,England,2023-12-26 18:00:00,86298,6783730,42136161
-Welders,Dundela,2.60,2.26,3.65,Championship,Northern Ireland,2023-12-27 18:00:00,75915,6670312,42013931
-Ohud Medina,AL Qaisoma,1.80,4.20,3.40,Division 1,Saudi Arabia,2023-12-27 15:40:00,97223,6782787,42397223
-Dag & Red,Eastleigh,2.06,3.20,3.55,National League,England,2023-12-26 18:00:00,48955,6783731,42136167
-Maidenhead,Wealdstone,2.42,2.80,3.25,National League,England,2023-12-26 18:00:00,7014,6783951,42136177
-Boreham,Kidderminster,2.10,3.25,3.40,National League,England,2023-12-26 18:00:00,47645,6783734,42136165
-Rochdale,Fylde,2.07,3.15,3.60,National League,England,2023-12-26 18:00:00,43961,6783952,42136179
-Dorking Wanderers,Oxford,2.21,2.85,3.60,National League,England,2023-12-26 18:00:00,50311,6783723,42136169
-Hartlepool,Oldham,2.29,2.80,3.50,National League,England,2023-12-26 18:00:00,6921,6783947,42136175
-Southend,Barnet,2.35,2.60,3.65,National League,England,2023-12-26 18:00:00,36183,6545535,42136183
-Aldershot,Woking,2.13,3.10,3.50,National League,England,2023-12-26 18:00:00,59051,6783725,42136157
-Pontypridd Town,Aberystwyth,1.78,4.20,3.55,Cymru Premier,Wales,2023-12-26 17:30:00,44071,6785935,41844071
-MELBOURNE CITY FC (W),BRISBANE ROAR (W),1.46,5.40,4.50,A-League Women,Australia,2023-12-28 09:00:00,41179,6783081,43256095
-Salford,Tranmere,2.35,2.80,3.50,League Two,England,2023-12-26 18:00:00,62493,6771043,41890559
-Newport,Forest Green,2.15,3.10,3.50,League Two,England,2023-12-26 18:00:00,95523,6771045,41890555
-Harrogate,Accrington,2.80,2.36,3.45,League Two,England,2023-12-26 18:00:00,58777,6771047,41890549
-Barrow AFC,Stockport,2.90,2.50,3.05,League Two,England,2023-12-26 18:00:00,97697,6771037,41890543
-MK Dons,Colchester,1.58,5.20,4.10,League Two,England,2023-12-26 18:00:00,62325,6771049,41890551
-Bradford City,Morecambe,1.66,4.90,3.80,League Two,England,2023-12-26 18:00:00,98337,6771050,41890545
-TONDELA,Oliveirense,1.63,4.80,3.75,Liga Portugal 2,Portugal,2023-12-30 14:00:00,47235,6672627,42147235
-Dundee United,Partick Thistle,1.57,4.80,4.10,Championship,Scotland,2023-12-29 22:45:00,24969,6516616,42024969
-US Tataouine,Bizertin,2.47,2.85,2.90,Ligue 1,Tunisia,2023-12-27 16:00:00,63106,6739009,46060393
-Swindon Town,Wrexham,3.75,1.81,3.95,League Two,England,2023-12-26 18:00:00,90561,6771053,41890561
-Metlaoui,Monastir,4.10,1.91,3.00,Ligue 1,Tunisia,2023-12-27 16:00:00,66640,6739010,46060391
-Esperance,Sfaxien,1.55,6.00,3.40,Ligue 1,Tunisia,2023-12-27 16:00:00,64904,6739008,46060389
-Leixoes,Academico de Viseu,2.75,2.46,3.15,Liga Portugal 2,Portugal,2023-12-30 14:00:00,51440,6672624,42147227
-Porto B,Nacional,2.22,2.90,3.40,Liga Portugal 2,Portugal,2023-12-30 14:00:00,47237,6672632,42147237
-PORTO,CHAVES,1.14,15.00,7.40,Liga Portugal,Portugal,2023-12-29 23:45:00,70785,6782326,42146437
-PACOS FERREIRA,Benfica B,1.93,3.65,3.35,Liga Portugal 2,Portugal,2023-12-30 17:00:00,47239,6672633,42147239
-Dergview,Ballinamallard Utd.,2.65,2.27,3.70,Championship,Northern Ireland,2023-12-26 18:00:00,77731,6786134,42013929
-CANBERRA UNITED (W),Western United FC,3.25,1.93,3.70,A-League Women,Australia,2023-12-30 09:00:00,68614,6784422,43256099
-Newington,Ballyclare Comrades,2.22,2.65,3.75,Championship,Northern Ireland,2023-12-26 17:00:00,33955,6771763,42013933
-Ards,Bangor,2.36,2.50,3.70,Championship,Northern Ireland,2023-12-26 18:00:00,52215,6786138,42013927
-Annagh United,Portadown,4.10,1.71,3.85,Championship,Northern Ireland,2023-12-26 18:00:00,16189,6786139,42013925
-Mafra,Avs Futebol Sad,2.45,2.75,3.15,Liga Portugal 2,Portugal,2023-12-31 14:00:00,82208,6672625,42147231
-Kairouanaise,Rades,1.66,4.30,3.30,Ligue 2,Tunisia,2023-12-27 16:00:00,62587,6790043,46323771
-As.ariana,Jendouba Sp.,3.05,2.15,2.90,Ligue 2,Tunisia,2023-12-27 16:00:00,62599,6790046,46323763
-Ouakam,Diambars,1.97,4.40,2.75,Premier League,Senegal,2023-12-27 19:30:00,15094,6778802,46380343
-Sol FC,Mimosas,7.00,1.47,3.45,Ligue 1,Ivory Coast,2023-12-26 18:30:00,59079,6790056,45804841
-Potters,Wingate & Finchley,2.01,3.20,3.55,Isthmian League Pr. Div,England Amateur,2023-12-26 16:00:00,33427,6720868,42333427
-Tanta,Makadi FC,1.95,3.80,3.10,2. Division A,Egypt,2023-12-27 15:30:00,55135,6790058,43792279
-Haringey,Hashtag United,3.35,1.93,3.65,Isthmian League Pr. Div,England Amateur,2023-12-26 16:00:00,33443,6774613,42333443
-La Viena FC,Asyut Petroleum,2.06,3.60,3.00,2. Division A,Egypt,2023-12-27 15:30:00,66051,6790061,43792293
-Concord Rangers,Billericay,5.20,1.54,4.00,Isthmian League Pr. Div,England Amateur,2023-12-26 16:00:00,33435,6774615,42333435
-WS WANDERERS FC (W),MELBOURNE VICTORY (W),3.85,1.75,3.75,A-League Women,Australia,2023-12-30 10:00:00,77171,6783203,43256101
-Petrojet,Dekernes,1.50,6.40,3.60,2. Division A,Egypt,2023-12-27 15:30:00,59085,6790064,43792289
-Cheshunt,Enfield,3.00,2.08,3.65,Isthmian League Pr. Div,England Amateur,2023-12-26 16:00:00,33433,6705344,42333433
-Cray,Margate,1.83,3.65,3.65,Isthmian League Pr. Div,England Amateur,2023-12-26 16:00:00,33437,6774611,42333437
-Proxy SC,Gomhoryet,2.19,3.40,2.90,2. Division A,Egypt,2023-12-27 15:30:00,92287,6790067,43792287
-Wadi Degla,Telecom Egypt,1.79,4.40,3.15,2. Division A,Egypt,2023-12-27 15:30:00,92285,6790070,43792285
-Dulwich,Carshalton,2.07,3.05,3.55,Isthmian League Pr. Div,England Amateur,2023-12-26 18:00:00,33439,6774631,42333439
-Estrela Amadora,Arouca,2.55,2.70,3.25,Liga Portugal,Portugal,2023-12-28 23:15:00,49075,6778791,45613300
-Folkestone,Hastings Utd,2.41,2.60,3.45,Isthmian League Pr. Div,England Amateur,2023-12-26 18:00:00,33441,6774633,42333441
-Whitehawk,Lewes The,2.42,2.50,3.55,Isthmian League Pr. Div,England Amateur,2023-12-26 18:00:00,33429,6774635,42333429
-Al Taraji,Al-Arabi SC (SA),3.10,2.21,3.20,Division 1,Saudi Arabia,2023-12-27 15:00:00,62461,6788502,42397225
-Bognor Regis,Horsham,2.55,2.47,3.40,Isthmian League Pr. Div,England Amateur,2023-12-26 18:00:00,33431,6774637,42333431
-Kingstonian,Chatham,4.10,1.65,4.10,Isthmian League Pr. Div,England Amateur,2023-12-26 18:00:00,33447,6774629,42333447
-Haverfordwest,Barry,2.05,3.20,3.60,Cymru Premier,Wales,2023-12-26 17:30:00,14933,6775434,41844067
-Walsall,Crewe,2.13,3.15,3.55,League Two,England,2023-12-26 18:00:00,58933,6781179,41890563
-Newtown,Connahs Quay,3.30,2.01,3.55,Cymru Premier,Wales,2023-12-26 17:30:00,87633,6775425,41844069
-Cardiff Met,Penybont,2.85,2.44,3.15,Cymru Premier,Wales,2023-12-26 17:30:00,95747,6775427,41844063
-Taffs Well,Caerau Ely,2.20,2.46,3.60,Cymru Championship South,Wales,2023-12-27 22:30:00,76699,6790834,41965911
-Prestatyn,Mold Alexandra,2.85,1.92,3.75,Cymru Championship North,Wales,2023-12-27 22:30:00,29945,6790831,41966445
-Colwyn Bay,Bala Town,3.35,2.01,3.55,Cymru Premier,Wales,2023-12-26 17:30:00,25921,6775429,41844065
-Gia Lai,Ha Noi FC,4.40,1.72,3.55,V-League 1,Vietnam,2023-12-27 13:00:00,30839,6790840,44587392
-Gil Vicente,BOAVISTA,2.24,2.95,3.40,Liga Portugal,Portugal,2023-12-30 18:30:00,85503,6784169,45623004
-Ayr,Dunfermline,2.44,2.65,3.35,Championship,Scotland,2023-12-30 18:00:00,93325,6784037,42024967
-Raith Rovers,Arbroath,1.39,6.60,4.60,Championship,Scotland,2023-12-30 18:00:00,37191,6784031,42024975
-Inverness CT,Greenock Morton,2.16,3.05,3.35,Championship,Scotland,2023-12-30 18:00:00,7943,6784039,42024971
-Queens Park,Airdrieonians,2.50,2.49,3.45,Championship,Scotland,2023-12-30 18:00:00,44209,6784041,42024973
-Beaconsfield,Chesham,3.25,1.94,3.75,Southern League Premier South,England Amateur,2023-12-26 15:30:00,3806,6786209,42372561
-Didcot,Hungerford,5.20,1.46,4.70,Southern League Premier South,England Amateur,2023-12-26 15:30:00,15943,6786212,42372569
-Barwell,Coalville,3.00,2.11,3.55,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 16:00:00,70369,6786214,42372555
-Queen of The South,Annan,1.64,4.40,3.80,League 1,Scotland,2023-12-30 18:00:00,83723,6784063,42025391
-Stratford,Leamington,2.80,2.28,3.40,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 18:00:00,82101,6786218,42372595
-Kelty Hearts,Alloa,2.07,2.95,3.60,League 1,Scotland,2023-12-30 18:00:00,99307,6784065,42025387
-Totton,Basingstoke,1.43,5.60,4.80,Southern League Premier South,England Amateur,2023-12-26 18:00:00,59059,6786220,42372557
-Falkirk,Stirling,1.30,7.80,5.00,League 1,Scotland,2023-12-30 18:00:00,6925,6784067,42025385
-Montrose,Cove Rangers,2.95,2.10,3.50,League 1,Scotland,2023-12-30 18:00:00,25703,6784069,42025389
-OH Leuven,EUPEN,1.87,3.65,3.80,Pro League,Belgium,2023-12-26 18:00:00,93989,6538384,41893989
-Westerlo,Daring Molenbeek,1.99,3.60,3.45,Pro League,Belgium,2023-12-26 20:30:00,93985,6538385,41893985
-Elgin City,Peterhead,4.20,1.69,3.65,League 2,Scotland,2023-12-30 18:00:00,6445,6784071,42025737
-Club Brugge,Union Gilloise,2.28,3.10,3.20,Pro League,Belgium,2023-12-26 22:45:00,17056,6538386,41893987
-Wimbledon,Colchester,1.55,5.40,4.00,League Two,England,2023-12-29 22:45:00,90565,6332940,41890565
-Harrogate,Tranmere,2.36,2.75,3.45,League Two,England,2023-12-29 22:45:00,90573,6332938,41890573
-Mansfield,Doncaster,1.52,5.60,4.10,League Two,England,2023-12-29 22:45:00,90577,6332937,41890577
-Gillingham,Sutton,1.66,4.60,3.85,League Two,England,2023-12-29 22:45:00,90571,6332922,41890571
-Bradford City,Stockport,2.80,2.33,3.45,League Two,England,2023-12-29 22:45:00,90569,6332929,41890569
-Barrow AFC,Accrington,1.69,4.50,3.75,League Two,England,2023-12-29 22:45:00,90567,6332930,41890567
-Royston,Hitchin,3.40,1.95,3.55,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 16:00:00,72587,6786259,42372587
-Standard Liege,St. Truiden,2.34,3.00,3.25,Pro League,Belgium,2023-12-27 20:30:00,93993,6538387,41893993
-NEWCASTLE JETS (W),ADELAIDE UNITED (W),2.06,3.00,3.55,A-League Women,Australia,2023-12-31 09:00:00,6193,6785482,43256105
-Bracknell,Walton & Hersham,1.99,3.10,3.75,Southern League Premier South,England Amateur,2023-12-26 18:00:00,72565,6786258,42372565
-ANDERLECHT,Cercle Brugge,1.83,3.90,3.75,Pro League,Belgium,2023-12-27 22:45:00,93983,6538388,41893983
-CHARLEROI,KV MECHELEN,2.13,3.40,3.30,Pro League,Belgium,2023-12-27 22:45:00,93991,6538389,41893991
-Walsall,Wrexham,3.10,2.14,3.45,League Two,England,2023-12-29 22:45:00,90587,6332939,41890587
-Swindon Town,Forest Green,1.79,4.00,3.65,League Two,England,2023-12-29 22:45:00,90585,6332933,41890585
-Salford,Grimsby Town,2.34,2.70,3.55,League Two,England,2023-12-29 22:45:00,90583,6332942,41890583
-Notts County,Morecambe,1.54,5.20,4.20,League Two,England,2023-12-29 22:45:00,90581,6332935,41890581
-MK Dons,Crawley,1.78,4.10,3.65,League Two,England,2023-12-29 22:45:00,90575,6332943,41890575
-Newport,Crewe,2.35,2.60,3.70,League Two,England,2023-12-29 22:45:00,90579,6332927,41890579
-Gosport,Sholing,1.65,4.30,4.00,Southern League Premier South,England Amateur,2023-12-26 15:30:00,72577,6786387,42372577
-St Ives,Kettering,2.30,2.70,3.55,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 16:00:00,72591,6786380,42372591
-Bala Town,Newtown,2.07,3.15,3.35,Cymru Premier,Wales,2023-12-30 17:30:00,58993,6789501,41844115
-Halesowen,Telford,2.36,2.65,3.45,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 18:00:00,72567,6786383,42372567
-Aberystwyth,Haverfordwest,3.10,2.06,3.40,Cymru Premier,Wales,2023-12-30 17:30:00,44113,6789503,41844113
-Bromsgrove,Stourbridge,2.90,2.18,3.50,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 18:00:00,72563,6786385,42372563
-Barry,Cardiff Met,3.15,2.05,3.40,Cymru Premier,Wales,2023-12-30 17:30:00,44117,6789507,41844117
-BENFICA,Famalicao,1.19,12.00,6.20,Liga Portugal,Portugal,2023-12-29 21:45:00,34825,6782160,42146425
-Dorchester,Poole Town,3.85,1.69,4.20,Southern League Premier South,England Amateur,2023-12-26 18:00:00,72573,6786374,42372573
-Caernarfon,Colwyn Bay,1.54,4.80,4.10,Cymru Premier,Wales,2023-12-31 15:30:00,44119,6723173,41844119
-Berkhamsted FC,Sudbury,3.35,1.93,3.70,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 18:00:00,72559,6786376,42372559
-Connahs Quay,TNS,4.90,1.52,4.20,Cymru Premier,Wales,2023-12-31 17:30:00,44121,6789509,41844121
-Redditch,Alvechurch,1.56,4.80,4.20,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 18:00:00,72583,6786379,42372583
-ADANASPOR AS U19,Goztepe U19,2.44,2.44,2.95,U19 Elit B,Turkiye Amateur,2023-12-27 12:00:00,85205,6790216,46185205
-Pendikspor U19,Altay U19,2.75,2.03,3.30,U19 Elit B,Turkiye Amateur,2023-12-27 12:00:00,53115,6790212,46185211
-Eskisehirspor U19,Denizlispor U19,2.11,2.65,3.25,U19 Elit B,Turkiye Amateur,2023-12-27 12:00:00,85207,6790214,46185207
-Shabab AlAhli,Sharjah,2.23,2.60,3.55,Super Cup,United Arab Emirates,2023-12-29 18:45:00,62355,6769901,46319063
-AS Police,Binga FC,2.33,3.15,2.80,Ligue 1,Mali,2023-12-26 18:45:00,62431,6787907,46426681
-Djoliba,AS Korofina,1.91,4.10,3.00,Ligue 1,Mali,2023-12-26 18:45:00,62425,6787905,46426685
-MANISA FUTBOL KULUBU U19,GENCLERBIRLIGI U19,1.89,2.95,3.45,U19 Elit B,Turkiye Amateur,2023-12-27 12:00:00,85215,6790219,46185215
-BANDIRMASPOR U19,Bursaspor U19,4.40,1.49,3.80,U19 Elit B,Turkiye Amateur,2023-12-27 13:00:00,85203,6790222,46185203
-Harrow,Hendon,2.75,2.19,3.70,Southern League Premier South,England Amateur,2023-12-26 18:00:00,72581,6786398,42372581
-Denbigh Town,Ruthin Town,1.96,3.05,3.85,Cymru Championship North,Wales,2023-12-26 16:00:00,66421,6790224,41966421
-Al Ittifaq,Al Hazm,1.56,5.00,4.00,Saudi Pro League,Saudi Arabia,2023-12-28 18:00:00,51529,6460085,42417007
-PORTIMONENSE,Sporting,8.20,1.30,5.40,Liga Portugal,Portugal,2023-12-30 23:30:00,32327,6784776,45622968
-Hayes & Y,Hanwell,1.56,4.60,4.30,Southern League Premier South,England Amateur,2023-12-26 18:00:00,31059,6786401,42372585
-Canada SRL,Vietnam Srl,1.41,5.20,5.00,SRL International Friendlies,Simulated Reality League,2023-12-26 15:00:00,4273,6789219,46404273
-Uganda Srl,Ukraine,4.70,1.70,3.30,SRL International Friendlies,Simulated Reality League,2023-12-26 15:00:00,4275,6789224,46404275
-USA SRL,Italy,3.80,1.74,3.85,SRL International Friendlies,Simulated Reality League,2023-12-26 15:00:00,4277,6789197,46404277
-Algeria Srl,North Macedonia,1.46,4.70,5.00,SRL International Friendlies,Simulated Reality League,2023-12-26 15:00:00,4271,6789215,46404271
-Edinburgh,Hamilton,8.40,1.25,5.60,League 1,Scotland,2023-12-30 18:00:00,21105,6784171,42025383
-Benin Srl,Cyprus Srl,2.35,3.10,2.85,SRL International Friendlies,Simulated Reality League,2023-12-26 16:00:00,4279,6789223,46404279
-ESTORIL,Sporting Farense,1.99,3.30,3.60,Liga Portugal,Portugal,2023-12-30 18:30:00,45245,6784177,45622854
-Panama Srl,Oman Srl,2.70,2.70,2.80,SRL International Friendlies,Simulated Reality League,2023-12-26 16:00:00,4283,6789227,46404283
-Merthyr,Swindon Supermarine,1.72,3.75,4.10,Southern League Premier South,England Amateur,2023-12-26 18:00:00,79853,6786412,42372589
-Chile,Slovenia Srl,1.65,4.50,3.70,SRL International Friendlies,Simulated Reality League,2023-12-26 16:00:00,4281,6789231,46404281
-Gabon Srl,France SRL,22.00,1.12,6.20,SRL International Friendlies,Simulated Reality League,2023-12-26 14:00:00,4267,6788380,46404267
-Luxembourg Srl,Mali Srl,3.60,2.07,2.95,SRL International Friendlies,Simulated Reality League,2023-12-26 14:00:00,4263,6788382,46404263
-Bolivia,Netherlands SRL,10.00,1.20,5.80,SRL International Friendlies,Simulated Reality League,2023-12-26 14:00:00,4265,6788386,46404265
-Porthmadog,Bangor 1876 FC,1.93,3.10,3.80,Cymru Championship North,Wales,2023-12-26 17:30:00,66431,6790257,41966431
-Ecuador SRL,England SRL,3.50,1.78,3.90,SRL International Friendlies,Simulated Reality League,2023-12-26 14:00:00,4269,6788390,46404269
-Parkway,Tiverton,1.84,3.60,3.70,Southern League Premier South,England Amateur,2023-12-26 18:00:00,72593,6786446,42372593
-Lampang FC,Krabi,1.41,6.20,4.40,Thai League 2,Thailand,2023-12-27 14:30:00,93371,6778280,42756475
-Salisbury,Winchester,1.70,4.10,3.90,Southern League Premier South,England Amateur,2023-12-26 18:00:00,72597,6786447,42372597
-Mickleover Sports,Long Eaton,1.05,20.00,11.00,Southern Football LeaguePremier Division Central,England Amateur,2023-12-26 18:00:00,72571,6787389,42372571
-Bluebirds,Abergavenny,2.60,2.23,3.70,Cymru Championship South,Wales,2023-12-26 16:00:00,65897,6790325,41965897
-Gillingham,Crawley,1.98,3.50,3.55,League Two,England,2023-12-26 16:00:00,90547,6493487,41890547
-Llantwit Major,Goytre Utd,2.40,2.50,3.50,Cymru Championship South,Wales,2023-12-26 17:00:00,65905,6790327,41965905
-Mamelodi Sundowns,Moroka Swallows,1.27,10.00,5.00,Premiership,South Africa,2023-12-27 20:30:00,7744,6634779,45407744
-SYDNEY FC (W),Wellington Phoenix,1.37,6.40,4.60,A-League Women,Australia,2023-12-29 09:00:00,56097,6783181,43256097
-Khanh Hoa,Nghe An,2.65,2.50,3.25,V-League 1,Vietnam,2023-12-26 14:00:00,38858,6783033,44587386
+Sheff Utd,CHELSEA,6.60,1.41,5.20,Premier League,England,2024-04-07 19:30:00,63539,7072510,41763539
+MAN UTD,LIVERPOOL,4.50,1.64,4.60,Premier League,England,2024-04-07 17:30:00,63537,7072511,41763537
+TOTTENHAM,Nottingham Forest,1.40,6.80,5.20,Premier League,England,2024-04-07 20:00:00,55953,7075127,41763541
+JUVENTUS,FIORENTINA,1.85,4.60,3.45,Serie A,Italy,2024-04-07 21:45:00,8035,6827089,42134721
+Monza,NAPOLI,4.10,1.86,3.75,Serie A,Italy,2024-04-07 16:00:00,25955,6827102,42134725
+CAGLIARI,ATALANTA,4.70,1.73,3.90,Serie A,Italy,2024-04-07 19:00:00,18769,6827103,42134713
+MONACO,RENNES,1.83,3.90,4.00,Ligue 1,France,2024-04-07 18:05:00,98711,7235149,42005013
+Brest,METZ,1.51,7.00,4.10,Ligue 1,France,2024-04-07 14:00:00,72163,7234158,42005025
+NANTES,LYON,3.15,2.34,3.25,Ligue 1,France,2024-04-07 21:45:00,25959,7235886,42005021
+Nacional,Cerro Largo,1.60,5.20,3.90,Primera Division,Uruguay,2024-04-07 00:00:00,91783,7211388,48991783
+Barcelona (ECU),Cuenca,1.48,6.20,4.20,LigaPro Primera A,Ecuador,2024-04-07 02:00:00,43649,6930632,47343649
+Carabobo,Rayo Zuliano,1.41,7.20,4.10,Primera Division,Venezuela,2024-04-07 00:45:00,95417,7173184,48695417
+Estudiantes LP,Central Cordoba,1.49,7.00,3.90,Copa de la Liga,Argentina,2024-04-07 01:15:00,60339,7236447,46656717
+Ciervos FC,CF Petroleros De Poza Rica,10.00,1.21,6.20,Liga Premier Serie B,Mexico,2024-04-07 01:00:00,91417,7267114,47923537
+Aguacateros CD Uruapan,Club Deportivo de Futbol Zitacuaro,1.19,14.00,5.60,Liga Premier Serie B,Mexico,2024-04-07 01:00:00,95317,7267117,47923541
+America Cali,CA Junior,1.52,6.20,4.00,Primera A Apertura,Colombia,2024-04-07 04:20:00,69769,6813386,46669769
+Talleres,Independiente Riv.,1.47,6.60,4.20,Copa de la Liga,Argentina,2024-04-07 03:30:00,32601,7236800,46656757
+Torque,Colon FC,1.45,6.00,4.00,Segunda Division,Uruguay,2024-04-07 02:30:00,53375,7268617,49178087
+FAS,Santa Tecla,1.47,5.80,4.00,Primera Division Clausura,El Salvador,2024-04-07 04:30:00,10035,7258239,46849259
+Cienciano,Cajamarca,1.40,7.60,4.50,Liga 1,Peru,2024-04-07 03:30:00,56381,7209186,48979331
+San Carlos,Zeledon,1.37,7.00,4.80,Primera Division Clausura,Costa Rica,2024-04-07 04:15:00,61352,6784271,46428531
+G. Chivas,Puebla,1.41,6.60,4.70,Liga MX Clausura,Mexico,2024-04-07 04:05:00,45563,6774188,46345563
+Vancouver,Toronto,1.51,6.00,4.20,MLS,USA,2024-04-07 02:30:00,64579,6776503,46364579
+Herediano,Municipal Grecia,1.34,7.80,4.90,Primera Division Clausura,Costa Rica,2024-04-07 05:00:00,70621,6784270,46428541
+Wellington Olympic,Western Suburbs FC,1.27,7.00,5.80,National League,New Zealand,2024-04-07 06:00:00,86309,7267060,48386309
+Seattle,Montreal,1.58,5.40,4.00,MLS,USA,2024-04-07 05:30:00,64603,6776513,46364603
+Broadmeadow,Hamilton,1.44,5.40,4.80,Northern NSW NPL,Australia,2024-04-07 07:30:00,97687,7244663,47097687
+North District FC,Sham Shui,1.57,4.50,4.60,Premier League,Hong Kong China,2024-04-07 10:00:00,46717,7269080,43040199
+Urawa,Sagan Tosu,1.58,5.40,4.00,J.League,Japan,2024-04-07 09:00:00,73107,6905217,47273107
+Hiroshima,Shonan,1.46,6.80,4.20,J.League,Japan,2024-04-07 08:00:00,73105,7255598,47273105
+Hwaseong FC,Paju Citizen FC,1.59,5.40,3.60,K3 League,Republic of Korea,2024-04-07 08:00:00,95971,7264263,47933887
+Central Coast,Sydney Olympic,5.60,1.46,4.40,NSW NPL 1,Australia,2024-04-07 08:00:00,28267,6849249,46928267
+Blacktown,Sydney,1.42,6.00,4.50,NSW NPL 1,Australia,2024-04-07 08:00:00,28269,6849250,46928269
+Bidco United,KCB,2.43,3.05,2.95,Premier League,Kenya,2024-04-07 13:00:00,64611,7148169,48564611
+GRONINGEN,Breda,1.52,5.40,4.30,Eerste Divisie,Netherlands,2024-04-07 13:15:00,25691,6973387,41981687
+Unex,Frydek Mistek,1.34,7.40,4.80,MSFL,Czech Republic,2024-04-07 11:15:00,99013,7253471,45182716
+MFk Karvina B,FK Hodonin,1.22,10.00,5.80,MSFL,Czech Republic,2024-04-07 11:15:00,82718,7253440,45182718
+Muranga Seal,Nzoia United,1.86,4.50,3.10,Premier League,Kenya,2024-04-07 15:00:00,47421,7148161,48564587
+Leopards,Sofapaka,1.97,3.85,3.20,Premier League,Kenya,2024-04-07 15:00:00,10027,7246046,48564605
+FC Talanta,Kenya Police,2.95,2.55,2.85,Premier League,Kenya,2024-04-07 16:00:00,64607,7148167,48564607
+Frosinone,BOLOGNA,4.20,1.86,3.60,Serie A,Italy,2024-04-07 13:30:00,55182,6827099,42134717
+FEYENOORD,AJAX,1.40,6.80,4.80,Eredivisie,Netherlands,2024-04-07 15:30:00,32879,7244818,41980617
+CSKA Moscow,Fakel Worenesch,1.61,5.40,3.80,Premier League,Russia,2024-04-07 14:00:00,34435,7239495,41928341
+GLASGOW RANGERS,CELTIC,2.20,3.05,3.50,Premiership,Scotland,2024-04-07 14:00:00,93613,7238629,42021711
+Malmo,Hammarby,1.37,7.40,4.90,Allsvenskan,Sweden,2024-04-07 15:00:00,16757,7239324,46300777
+Sh. Karagandy,FC Astana,4.90,1.68,3.45,Premier League,Kazakhstan,2024-04-07 14:30:00,6889,7047676,48006889
+Lamphun Warrior,Police Tero FC,1.41,6.00,4.40,Thai League 1,Thailand,2024-04-07 13:30:00,57001,7095188,42257001
+Amedspor,Inegolspor,1.24,8.00,4.70,2. Lig,Turkiye Amateur,2024-04-07 15:00:00,32211,7267617,42551773
+WISLA KRAKOW,Motor Lublin,1.56,5.00,4.00,I liga,Poland,2024-04-07 13:40:00,77601,7089745,41877601
+Bursaspor,Duzyurtspor,8.20,1.25,4.60,2. Lig,Turkiye Amateur,2024-04-07 15:00:00,50587,7095793,42550587
+Serik Belediyespor,Kirsehir FSK,1.30,7.20,4.30,2. Lig,Turkiye Amateur,2024-04-07 15:00:00,50597,7095815,42550597
+Erzin Belediyespor,Somaspor,1.38,5.80,4.20,2. Lig,Turkiye Amateur,2024-04-07 15:00:00,97523,7266083,42551775
+Halide Edip Ad.,Afjet Afyonspor,1.36,7.00,3.80,2. Lig,Turkiye Amateur,2024-04-07 15:00:00,50593,7266088,42550593
+Bucaspor,Zonguldakspor,1.21,9.80,4.80,2. Lig,Turkiye Amateur,2024-04-07 15:00:00,50589,7095802,42550589
+HELLAS VERONA,GENOA,2.75,2.85,3.00,Serie A,Italy,2024-04-07 19:00:00,3177,6827080,42134719
+HOFFENHEIM,AUGSBURG,2.26,2.85,3.90,Bundesliga,Germany,2024-04-07 16:30:00,32319,7081260,42023577
+WOLFSBURG,BORUSSIA (MG),1.90,3.80,3.85,Bundesliga,Germany,2024-04-07 18:30:00,33501,7081266,42023571
+TOULOUSE,STRASBOURG,2.13,3.35,3.55,Ligue 1,France,2024-04-07 16:00:00,36397,7234719,42005011
+MONTPELLIER,Lorient,1.83,4.10,3.80,Ligue 1,France,2024-04-07 16:00:00,9009,7234728,42005023
+Reims,NICE,2.50,2.90,3.25,Ligue 1,France,2024-04-07 16:00:00,15269,7234730,42005017
+ZENIT,Baltika Kaliningrad,1.29,9.20,5.40,Premier League,Russia,2024-04-07 16:30:00,57481,7239437,41928337
+ST. GALLEN,Young Boys,2.37,2.65,3.70,Super League,Switzerland,2024-04-07 17:30:00,75605,6777607,46375605
+Shakhtar,Rukh Vinnyky,1.27,9.60,5.40,Premier League,Ukraine,2024-04-07 18:00:00,50045,7088993,42150045
+RB Salzburg,RAPID WIEN,1.60,5.40,3.90,Bundesliga,Austria,2024-04-07 18:00:00,13133,7139175,48513133
+Ham-Kam,Molde,5.40,1.52,4.40,Eliteserien,Norway,2024-04-07 18:00:00,74205,6776871,46374205
+Ferencvaros,Paksi,1.49,5.40,4.30,NB I,Hungary,2024-04-07 15:45:00,4258,7238960,41906731
+Apoel Nicosia,Anorthosis,1.42,6.60,4.30,1st Division,Cyprus,2024-04-07 17:00:00,56023,7162544,48623361
+Roda,VENLO,1.65,4.60,4.00,Eerste Divisie,Netherlands,2024-04-07 17:45:00,79045,6974728,41981697
+Township Rollers,Matebele,1.31,7.20,4.20,Premier League,Botswana,2024-04-07 16:30:00,73461,7270005,49233879
+Neroca FC,Gokulam Kerala FC,10.00,1.20,5.80,I-League,India,2024-04-07 16:30:00,90849,7152869,48590849
+Sibenik,Orijent,1.20,9.00,6.40,Prva NL,Croatia,2024-04-07 15:50:00,89647,7252069,48698985
+Lamia,Olympiacos,10.00,1.25,5.40,Super League,Greece,2024-04-07 17:00:00,98881,7247020,48369289
+Ka Akureyri,Kopavogs,1.56,4.80,4.30,Besta deild,Iceland,2024-04-07 16:00:00,73217,6787857,46473217
+NORDSJAELLAND,COPENHAGEN,2.85,2.34,3.45,Superliga,Denmark,2024-04-07 17:00:00,51091,7179170,48751091
+OFK Belgrade,OFK Vrsac,1.38,6.20,3.90,Prva Liga,Serbia,2024-04-07 17:00:00,75669,7268927,42551083
+DINAMO MOSCOW,SPARTAK MOSCOW,2.40,2.65,3.60,Premier League,Russia,2024-04-07 19:30:00,3221,7239435,41928343
+Sparta Prague,MLADA BOLESLAV,1.32,7.60,5.20,1. Liga,Czech Republic,2024-04-07 19:00:00,76497,7088609,41876497
+Dreams,Stade Malien,2.14,3.05,3.40,CAF Confederations Cup,International Clubs,2024-04-07 19:00:00,46773,7144288,48546773
+Sarpsborg,Odd,1.54,5.00,4.50,Eliteserien,Norway,2024-04-07 18:00:00,74211,6776875,46374211
+Brann,Fredrikstad,1.32,7.80,5.40,Eliteserien,Norway,2024-04-07 20:15:00,74215,6776883,46374215
+Dinamo Minsk,Naftan Novopolotsk,1.10,21.00,7.80,Vysshaya Liga,Belarus,2024-04-07 18:00:00,16988,7267116,48171685
+PORTO,V. Guimaraes,1.37,7.60,4.80,Liga Portugal,Portugal,2024-04-07 22:30:00,19443,7239893,42146667
+Club Brugge,ANDERLECHT,1.90,3.85,3.55,Pro League,Belgium,2024-04-07 19:30:00,19639,7174954,48719639
+Aduana,Real Tamale,1.29,7.40,4.10,Premier League,Ghana,2024-04-07 18:00:00,38077,7269410,42722833
+AARHUS,MIDTJYLLAND,3.20,2.19,3.35,Superliga,Denmark,2024-04-07 19:00:00,51095,7179168,48751095
+Dinamo Zagreb,Istra 1961,1.22,12.00,5.80,HNL,Croatia,2024-04-07 18:00:00,14171,7222224,41736971
+Aris Thessaloniki,Panathinaikos,3.85,1.89,3.40,Super League,Greece,2024-04-07 19:30:00,69285,7241010,48369285
+AEK Athens,PAOK,1.71,4.80,3.45,Super League,Greece,2024-04-07 20:30:00,69279,7241027,48369279
+Teungueth,Diambars,1.52,6.20,3.10,Premier League,Senegal,2024-04-07 19:30:00,94373,7250887,49194373
+Pirin,Ludogorets,17.00,1.14,6.80,Parva Liga,Bulgaria,2024-04-07 20:15:00,68357,7146199,42568357
+B68 Toftir,HB Torshavn,15.00,1.07,7.20,Premier League,Faroe Islands,2024-04-07 19:00:00,19277,7266868,47319277
+HEERENVEEN,UTRECHT,2.60,2.50,3.45,Eredivisie,Netherlands,2024-04-07 21:00:00,31873,7242369,41980625
+Zamalek,Future FC,1.83,4.00,3.40,CAF Confederations Cup,International Clubs,2024-04-07 22:00:00,46765,7144290,48546765
+Maccabi Bney Reine,H. Beer Sheva,4.40,1.75,3.40,Premier League,Israel,2024-04-07 20:15:00,36347,7216702,48800435
+Ind. Del Valle,Libertad Loja,1.33,7.80,4.80,LigaPro Primera A,Ecuador,2024-04-07 21:00:00,43651,6930570,47343651
+Westerlo,GENT,3.75,1.87,3.70,Pro League,Belgium,2024-04-07 20:15:00,87837,7239567,48719419
+CROTONE,Brindisi,1.28,8.60,4.90,Serie C Group C,Italy,2024-04-07 21:45:00,79311,7007379,42821399
+Toluca,Atlas,1.48,6.00,4.40,Liga MX Clausura,Mexico,2024-04-07 21:00:00,45571,6774185,46345571
+Al Raed,Al Hazm,1.62,4.80,3.95,Saudi Pro League,Saudi Arabia,2024-04-07 22:00:00,17151,7067278,42417151
+Al-Khaldiya SC,Busaiteen,1.40,6.80,4.40,Premier League,Bahrain,2024-04-07 21:45:00,19855,7267620,49194479
+Triestina,Virtus Verona,1.51,6.00,3.70,Serie C Group A,Italy,2024-04-07 21:45:00,42785,7006033,42820199
+Al Ain,Al Nasr,1.52,5.00,4.30,Arabian Gulf League,United Arab Emirates,2024-04-07 21:00:00,66983,7098847,41966983
+Partizan,Novi Pazar,1.36,7.40,4.50,Superliga,Serbia,2024-04-07 21:00:00,34757,7096449,42548751
+Bahia BA,Vitoria,1.52,5.20,4.10,Baiano,Brazil,2024-04-07 22:00:00,69475,7240132,48669475
+Hearts of Oak,Bibiani Gold Stars FC,1.61,4.30,3.25,Premier League,Ghana,2024-04-07 21:00:00,22841,7269447,42722841
+Berkane,Abu Salim SC,1.30,9.40,4.70,CAF Confederations Cup,International Clubs,2024-04-08 00:00:00,46769,7144289,48546769
+USM Alger,Rivers United,1.52,5.80,3.90,CAF Confederations Cup,International Clubs,2024-04-08 00:00:00,31381,7144287,48546771
+Flamengo,Nova Iguacu,1.19,12.00,5.80,Carioca,Brazil,2024-04-07 23:00:00,4717,7171976,48666267
+Alianza,Suntracs FC,1.59,4.70,3.40,Liga Panamena de Futbol Apertura,Panama,2024-04-08 00:00:00,8069,7258789,46908069
+Palmeiras,Santos SP,1.46,6.60,4.10,Paulista Serie A1,Brazil,2024-04-08 00:00:00,51497,7227529,49051497
+Valur R,IA Akranes,1.25,9.40,5.80,Besta deild,Iceland,2024-04-07 22:15:00,73219,6787859,46473219
+Sporting Cristal,Sport Huancayo,1.38,7.00,4.70,Liga 1,Peru,2024-04-07 23:30:00,65733,7209188,48979335
+CA River Plate,Rosario Central,1.34,8.20,4.70,Copa de la Liga,Argentina,2024-04-08 03:00:00,10697,7240469,46656745
+Xinabajul,Zacapa,1.47,6.00,3.95,Liga Nacional. Clausura,Guatemala,2024-04-08 02:00:00,28021,7258685,47628021
+SCC Mohammedia,Raja Casablanca,5.00,1.63,3.45,Coupe du Trone,Morocco,2024-04-08 01:00:00,29189,7241667,49129189
+Victoria,Vida,1.59,4.70,3.90,Liga Nacional. Clausura,Honduras,2024-04-08 02:15:00,22831,7223314,49022831
+CD Real Tomayapo,Real Santa Cruz,1.53,5.60,3.75,Division Profesional,Bolivia,2024-04-08 02:30:00,57283,7257733,49128837
+Saprissa,Sporting San Jose,1.28,8.80,5.20,Primera Division Clausura,Costa Rica,2024-04-08 02:00:00,75291,6784273,46428543
+Arsenal,BAYERN,1.82,4.10,3.85,UEFA Champions League,International Clubs,2024-04-09 22:00:00,13051,7158678,48613051
+Real Madrid,MAN CITY,2.75,2.49,3.50,UEFA Champions League,International Clubs,2024-04-09 22:00:00,13065,7158679,48613065
+LIVERPOOL,Crystal Palace,1.24,10.00,6.40,Premier League,England,2024-04-14 16:00:00,77611,7268715,41763555
+Arsenal,Aston Villa,1.28,9.20,5.80,Premier League,England,2024-04-14 18:30:00,63547,7072515,41763547
+BOURNEMOUTH,MAN UTD,2.50,2.49,3.85,Premier League,England,2024-04-13 19:30:00,63545,7072526,41763545
+WEST HAM,Fulham,2.26,2.90,3.65,Premier League,England,2024-04-14 16:00:00,63563,7174610,41763563
+Brentford,Sheff Utd,1.37,7.40,5.20,Premier League,England,2024-04-13 17:00:00,63549,7251040,41763549
+Nottingham Forest,Wolves,2.31,3.00,3.45,Premier League,England,2024-04-13 17:00:00,69229,7251041,41763561
+BURNLEY,BRIGHTON,3.70,1.88,3.85,Premier League,England,2024-04-13 17:00:00,63551,7251042,41763551
+MAN CITY,Luton,1.09,23.00,10.00,Premier League,England,2024-04-13 17:00:00,63557,7251043,41763557
+NEWCASTLE,TOTTENHAM,2.60,2.40,3.90,Premier League,England,2024-04-13 14:30:00,63559,7072523,41763559
+PSG,BARCELONA,1.95,3.55,3.75,UEFA Champions League,International Clubs,2024-04-10 22:00:00,13075,7158680,48613075
+Atletico Madrid,DORTMUND,1.80,4.40,3.60,UEFA Champions League,International Clubs,2024-04-10 22:00:00,13059,7158677,48613059
+Cadiz,BARCELONA,4.10,1.87,3.55,LaLiga,Spain,2024-04-13 22:00:00,91401,7264473,41893521
+Granada,ALAVES,3.35,2.24,3.15,LaLiga,Spain,2024-04-14 17:15:00,78119,7268999,41893525
+BETIS,CELTA DE VIGO,2.23,3.15,3.40,LaLiga,Spain,2024-04-12 22:00:00,11255,7257063,41893511
+Atletico Madrid,GIRONA,2.12,3.25,3.60,LaLiga,Spain,2024-04-13 15:00:00,16857,7261978,41893509
+Real Sociedad,Almeria,1.35,8.40,5.00,LaLiga,Spain,2024-04-14 22:00:00,53035,7270117,41893519
+Mallorca,Real Madrid,4.60,1.77,3.60,LaLiga,Spain,2024-04-13 19:30:00,24331,7263949,41893513
+LAS PALMAS,SEVILLA,2.65,2.65,3.20,LaLiga,Spain,2024-04-14 15:00:00,87845,7268477,41893517
+BILBAO,Villarreal,1.71,4.50,3.95,LaLiga,Spain,2024-04-14 19:30:00,23563,7269682,41893507
+Vallecano,GETAFE,2.21,3.50,3.10,LaLiga,Spain,2024-04-13 17:15:00,93523,7263076,41893523
+Inter,CAGLIARI,1.19,13.00,7.20,Serie A,Italy,2024-04-14 21:45:00,6761,6854356,42134739
+TORINO,JUVENTUS,3.75,2.14,3.05,Serie A,Italy,2024-04-13 19:00:00,42141,7263894,42134749
+SASSUOLO,Milan,5.00,1.61,4.20,Serie A,Italy,2024-04-14 16:00:00,26623,6854358,42134747
+NAPOLI,Frosinone,1.34,7.60,5.40,Serie A,Italy,2024-04-14 13:30:00,50203,7267995,42134745
+UDINESE,ROMA,3.45,2.11,3.35,Serie A,Italy,2024-04-14 19:00:00,47153,6854362,42134751
+UDINESE,Inter,7.00,1.44,4.60,Serie A,Italy,2024-04-08 21:45:00,97973,6827096,42134731
+BOLOGNA,Monza,1.60,5.60,3.90,Serie A,Italy,2024-04-13 21:45:00,58211,6854361,42134735
+Lecce,Empoli,2.08,3.75,3.20,Serie A,Italy,2024-04-13 16:00:00,34743,7183571,42134743
+LAZIO,Salernitana,1.29,10.00,5.40,Serie A,Italy,2024-04-12 21:45:00,34741,7183568,42134741
+BORUSSIA (MG),DORTMUND,3.45,1.91,4.00,Bundesliga,Germany,2024-04-13 16:30:00,23589,7081352,42023589
+MAINZ,HOFFENHEIM,1.94,3.55,3.80,Bundesliga,Germany,2024-04-13 16:30:00,23587,7081353,42023587
+BAYERN,KOLN,1.14,16.00,8.60,Bundesliga,Germany,2024-04-13 16:30:00,23581,7081354,42023581
+Bochum,Heidenheim,2.01,3.40,3.75,Bundesliga,Germany,2024-04-13 16:30:00,23591,7081355,42023591
+LEIPZIG,WOLFSBURG,1.41,6.60,5.00,Bundesliga,Germany,2024-04-13 16:30:00,23583,7081356,42023583
+LEVERKUSEN,BREMEN,1.19,13.00,7.00,Bundesliga,Germany,2024-04-14 18:30:00,23585,7081315,42023585
+STUTTGART,EINTRACHT F.,1.54,5.40,4.40,Bundesliga,Germany,2024-04-13 19:30:00,23595,7081341,42023595
+Darmstadt,FREIBURG,3.95,1.84,3.80,Bundesliga,Germany,2024-04-14 16:30:00,23597,7081340,42023597
+AUGSBURG,UNION BERLIN,2.03,3.55,3.55,Bundesliga,Germany,2024-04-12 21:30:00,23593,7081348,42023593
+RENNES,TOULOUSE,1.86,3.95,3.70,Ligue 1,France,2024-04-13 22:00:00,78025,7264464,42005029
+METZ,Lens,4.20,1.85,3.60,Ligue 1,France,2024-04-12 22:00:00,4863,7257061,42005043
+LYON,Brest,2.29,3.15,3.30,Ligue 1,France,2024-04-14 21:45:00,27787,7270058,42005037
+Clermont,MONTPELLIER,3.25,2.14,3.50,Ligue 1,France,2024-04-14 16:00:00,80575,7268732,42005039
+Le Havre,NANTES,2.50,3.00,3.05,Ligue 1,France,2024-04-14 14:00:00,45695,7268449,42005041
+STRASBOURG,Reims,2.75,2.48,3.40,Ligue 1,France,2024-04-13 18:00:00,54701,7263478,42005027
+VIKTORIA PLZEN,FIORENTINA,3.55,2.06,3.30,UEFA Europa Conference League,International Clubs,2024-04-11 19:45:00,19025,7159942,48619025
+Preston,Norwich,3.10,2.39,3.05,Championship,England,2024-04-13 17:00:00,88647,7269757,41888647
+Olympiacos,Fenerbahce,2.43,2.75,3.35,UEFA Europa Conference League,International Clubs,2024-04-11 19:45:00,19015,7159940,48619015
+SWANSEA,Rotherham,1.45,6.80,4.30,Championship,England,2024-04-13 17:00:00,88653,7269773,41888653
+Club Brugge,PAOK,1.90,3.75,3.60,UEFA Europa Conference League,International Clubs,2024-04-11 22:00:00,18937,7159939,48618937
+Sheffield Wednesday,Stoke,2.50,2.95,3.00,Championship,England,2024-04-13 17:00:00,88649,7269765,41888649
+Aston Villa,LILLE,1.68,4.70,3.80,UEFA Europa Conference League,International Clubs,2024-04-11 22:00:00,19021,7159941,48619021
+Millwall,Cardiff,2.00,4.10,3.05,Championship,England,2024-04-13 17:00:00,88641,7269751,41888641
+Milan,ROMA,1.97,3.60,3.50,UEFA Europa League,International Clubs,2024-04-11 22:00:00,15701,7159177,48615701
+SOUTHAMPTON,WATFORD,1.40,6.60,5.00,Championship,England,2024-04-13 17:00:00,88651,7269767,41888651
+LIVERPOOL,ATALANTA,1.36,7.20,5.20,UEFA Europa League,International Clubs,2024-04-11 22:00:00,15767,7159178,48615767
+Ipswich,Middlesbrough,1.83,3.90,3.75,Championship,England,2024-04-13 17:00:00,88637,7269755,41888637
+LEVERKUSEN,WEST HAM,1.49,5.80,4.40,UEFA Europa League,International Clubs,2024-04-11 22:00:00,15783,7159183,48615783
+BENFICA,MARSEILLE,1.97,3.55,3.55,UEFA Europa League,International Clubs,2024-04-11 22:00:00,15793,7159193,48615793
+WEST BROM,Sunderland,1.80,4.10,3.70,Championship,England,2024-04-13 17:00:00,49701,7269857,41888655
+Bristol City,Blackburn,2.33,3.05,3.20,Championship,England,2024-04-10 21:45:00,88615,7252111,41888615
+Hull,Middlesbrough,2.20,3.15,3.35,Championship,England,2024-04-10 21:45:00,89651,7252102,41888619
+Ipswich,WATFORD,1.44,6.40,4.60,Championship,England,2024-04-10 21:45:00,88623,7252104,41888623
+Birmingham,Cardiff,1.91,3.90,3.45,Championship,England,2024-04-10 21:45:00,88613,7252109,41888613
+SWANSEA,Stoke,2.32,3.05,3.25,Championship,England,2024-04-10 22:00:00,88627,7252107,41888627
+WEST BROM,Rotherham,1.32,9.00,5.00,Championship,England,2024-04-10 22:00:00,88629,7252113,41888629
+Plymouth,Leicester,5.40,1.49,4.60,Championship,England,2024-04-12 22:00:00,88645,7264703,41888645
+Plymouth,Queens Park Rangers,3.15,2.24,3.25,Championship,England,2024-04-09 21:45:00,503,7247836,41888605
+Millwall,Leicester,4.70,1.69,3.75,Championship,England,2024-04-09 21:45:00,88603,7247838,41888603
+Preston,HUDDERSFIELD,2.23,3.20,3.20,Championship,England,2024-04-09 21:45:00,88607,7247845,41888607
+Sheffield Wednesday,Norwich,3.10,2.28,3.25,Championship,England,2024-04-09 21:45:00,33075,7247843,41888609
+SOUTHAMPTON,Coventry,1.72,4.20,3.95,Championship,England,2024-04-09 21:45:00,88611,7247869,41888611
+Leeds,Sunderland,1.33,8.00,5.20,Championship,England,2024-04-09 22:00:00,88601,7247871,41888601
+Leeds,Blackburn,1.31,7.80,5.60,Championship,England,2024-04-13 14:30:00,1275,7269693,41888639
+Bristol City,HUDDERSFIELD,2.01,3.85,3.20,Championship,England,2024-04-13 17:00:00,96529,7269684,41888633
+Birmingham,Coventry,3.00,2.25,3.40,Championship,England,2024-04-13 17:00:00,37137,7269687,41888631
+Hull,Queens Park Rangers,2.08,3.50,3.30,Championship,England,2024-04-13 17:00:00,98233,7269696,41888635
+AZ Alkmaar,RKC Waalwijk,1.34,7.40,5.00,Eredivisie,Netherlands,2024-04-13 19:45:00,80645,7002873,41980645
+EXCELSIOR,Volendam,1.66,4.40,4.00,Eredivisie,Netherlands,2024-04-12 21:00:00,80647,7002871,41980647
+PSV,Vitesse,1.07,22.00,10.00,Eredivisie,Netherlands,2024-04-13 17:30:00,80657,7002872,41980657
+Almere City,Sparta Rotterdam,2.75,2.32,3.50,Eredivisie,Netherlands,2024-04-13 22:00:00,80643,7002884,41980643
+Vitesse,NEC Nijmegen,2.90,2.26,3.55,Eredivisie,Netherlands,2024-04-07 13:15:00,69097,7252421,41980629
+GA Eagles,Almere City,1.64,5.00,3.90,Eredivisie,Netherlands,2024-04-07 15:30:00,80619,7002858,41980619
+Volendam,RKC Waalwijk,3.55,1.93,3.70,Eredivisie,Netherlands,2024-04-07 17:45:00,28297,7242349,41980615
+Orenburg,Rubin Kazan,2.35,3.05,3.15,Premier League,Russia,2024-04-08 17:00:00,89643,7252029,41928351
+AKHMAT GROZNY,LOKOMOTIV MOSCOW,2.50,2.70,3.30,Premier League,Russia,2024-04-07 16:30:00,28257,7239416,41928345
+AKHMAT GROZNY,Baltika Kaliningrad,1.98,3.75,3.25,Premier League,Russia,2024-04-13 16:30:00,28077,7268836,41928361
+FK Sochi,SPARTAK MOSCOW,3.05,2.16,3.45,Premier League,Russia,2024-04-13 14:00:00,25977,7268204,43552653
+LOKOMOTIV MOSCOW,CSKA Moscow,2.55,2.50,3.45,Premier League,Russia,2024-04-13 19:30:00,73883,7269672,41928359
+KRASNODAR,ZENIT,2.90,2.31,3.35,Premier League,Russia,2024-04-13 17:00:00,72609,7268952,41928355
+CELTIC,St Mirren,1.25,9.40,5.80,Premiership,Scotland,2024-04-13 17:00:00,54227,7268979,42021717
+Dundee FC,GLASGOW RANGERS,6.40,1.39,4.90,Premiership,Scotland,2024-04-10 22:00:00,18847,7261295,48818847
+MOTHERWELL,HIBERNIAN,2.75,2.46,3.25,Premiership,Scotland,2024-04-13 17:00:00,82605,7268949,42021721
+HEARTS,Livingston,1.34,8.00,4.90,Premiership,Scotland,2024-04-13 17:00:00,6883,7268951,42021719
+St Johnstone,KILMARNOCK,3.25,2.12,3.30,Premiership,Scotland,2024-04-13 17:00:00,37859,7268955,42021725
+ABERDEEN,Dundee FC,2.28,2.80,3.55,Premiership,Scotland,2024-04-13 17:00:00,38247,7268945,42021715
+TEPLICE,Hradec Kralove,2.13,3.25,3.30,1. Liga,Czech Republic,2024-04-07 16:00:00,76485,7088606,41876485
+Pardubice,C. Budejovice,2.07,3.30,3.40,1. Liga,Czech Republic,2024-04-07 16:00:00,76489,7088603,41876489
+JABLONEC,BANIK OSTRAVA,2.70,2.49,3.25,1. Liga,Czech Republic,2024-04-07 16:00:00,76491,7088604,41876491
+LUZERN,LAUSANNE-SPORT,2.05,3.25,3.65,Super League,Switzerland,2024-04-07 15:15:00,75601,6777606,46375601
+Yverdon-Sport,GRASSHOPPERS,2.65,2.50,3.40,Super League,Switzerland,2024-04-07 17:30:00,75603,6777602,46375603
+Warta Poznan,KORONA KIELCE,2.60,2.75,3.00,Ekstraklasa,Poland,2024-04-12 19:00:00,42119,6854617,41755663
+Widzew Lodz,PIAST GLIWICE,2.60,2.75,3.10,Ekstraklasa,Poland,2024-04-07 13:30:00,59744,6827088,41755645
+LECH POZNAN,POGON SZCZECIN,2.28,2.90,3.50,Ekstraklasa,Poland,2024-04-07 16:00:00,88163,6827098,41755637
+ZAGLEBIE LUBIN,GORNIK ZABRZE,2.18,3.20,3.35,Ekstraklasa,Poland,2024-04-08 20:00:00,56483,6827091,41755633
+LEGIA,JAGIELLONIA,1.90,3.75,3.60,Ekstraklasa,Poland,2024-04-07 18:30:00,44935,6827084,41755639
+Kryvyi Rih,Vorskla,1.70,4.60,3.60,Premier League,Ukraine,2024-04-08 18:00:00,50039,7088987,42150039
+Dynamo Kiev,Lnz Lebedyn,1.25,9.60,5.60,Premier League,Ukraine,2024-04-08 15:30:00,50043,7088991,42150043
+Chernomorets,Oleksandria,2.65,2.70,3.00,Premier League,Ukraine,2024-04-07 13:00:00,50037,7088992,42150037
+FC Minaj,Polissya,4.10,1.83,3.45,Premier League,Ukraine,2024-04-08 13:00:00,50035,7088990,42150035
+Oleksandria,Dynamo Kiev,7.00,1.38,4.60,Premier League,Ukraine,2024-04-12 16:00:00,50057,7118702,42150057
+Obolon,FC Minaj,2.20,3.40,2.95,Premier League,Ukraine,2024-04-13 13:00:00,50051,7125422,42150051
+Zorya Lugansk,Chernomorets,2.18,3.20,3.15,Premier League,Ukraine,2024-04-13 16:00:00,50055,7125424,42150055
+Rukh Vinnyky,Kryvyi Rih,2.70,2.65,2.90,Premier League,Ukraine,2024-04-13 18:00:00,50059,7125425,42150059
+SC Dnipro-1,Zorya Lugansk,1.70,4.50,3.60,Premier League,Ukraine,2024-04-09 13:00:00,50041,7088989,42150041
+Kolos Kovalivka,Metalist 1925,1.86,4.30,3.20,Premier League,Ukraine,2024-04-07 15:30:00,50033,7088988,42150033
+LASK LINZ,RB Salzburg,3.95,1.84,3.55,Bundesliga,Austria,2024-04-12 20:30:00,13135,7139173,48513135
+Austria Klagenfurt,Hartberg,2.55,2.70,3.25,Bundesliga,Austria,2024-04-07 15:30:00,13131,7139169,48513131
+Sturm Graz,LASK LINZ,2.04,3.60,3.35,Bundesliga,Austria,2024-04-07 15:30:00,13129,7139170,48513129
+Austria Lustenau,ALTACH,4.00,1.85,3.35,Bundesliga,Austria,2024-04-13 18:00:00,14895,7139301,48514895
+Tirol Wattens,BW Linz,2.55,2.55,3.20,Bundesliga,Austria,2024-04-13 18:00:00,14985,7139304,48514985
+WOLFSBERGER,Austria Wien,2.70,2.45,3.25,Bundesliga,Austria,2024-04-13 18:00:00,14983,7139312,48514983
+Newcastle Jets,Sydney FC,3.90,1.74,4.20,A-League,Australia,2024-04-07 08:00:00,5137,7237590,43255379
+Adelaide,Macarthur FC,1.80,3.65,3.85,A-League,Australia,2024-04-12 12:45:00,19397,7260720,43255383
+Wellington,Melbourne Victory,3.25,2.04,3.40,A-League,Australia,2024-04-12 10:00:00,55381,7259894,43255381
+Brisbane Roar,Newcastle Jets,1.78,3.90,3.70,A-League,Australia,2024-04-13 10:30:00,77609,7267209,43255387
+Western United,Central Coast,3.30,1.92,3.75,A-League,Australia,2024-04-13 08:30:00,39223,7266709,43255389
+Perth Glory FC,Adelaide,2.65,2.33,3.85,A-League,Australia,2024-04-07 10:00:00,27725,7237768,43255377
+Sydney FC,Sydney W.,1.68,3.95,4.10,A-League,Australia,2024-04-13 12:45:00,55385,7267751,43255385
+Kalmar,Sirius,2.31,2.85,3.50,Allsvenskan,Sweden,2024-04-08 20:00:00,13207,7243090,46300781
+Djurgarden,Hacken,1.76,4.10,3.85,Allsvenskan,Sweden,2024-04-08 20:10:00,3001,7243108,46300775
+Mjallby,AIK,2.85,2.45,3.10,Allsvenskan,Sweden,2024-04-13 16:00:00,46983,7269881,46300801
+Varnamo,GAIS,2.13,3.15,3.50,Allsvenskan,Sweden,2024-04-08 20:00:00,14163,7242618,46300785
+Halmstad,IFK Goteborg,2.90,2.40,3.20,Allsvenskan,Sweden,2024-04-07 15:00:00,38163,7242623,46300779
+Vasteras,Elfsborg,3.30,2.03,3.65,Allsvenskan,Sweden,2024-04-07 17:30:00,19965,7242613,46300789
+Stromsgodset,Rosenborg,2.34,2.75,3.60,Eliteserien,Norway,2024-04-07 18:00:00,74189,7242847,46374213
+Haugesund,Lillestrom,2.75,2.39,3.50,Eliteserien,Norway,2024-04-07 18:00:00,74207,6776869,46374207
+Kristiansund BK,KFUM Oslo,2.27,2.90,3.50,Eliteserien,Norway,2024-04-07 15:30:00,74203,6776873,46374203
+Hapoel Tel Aviv,Petah Tikva,2.00,3.60,3.10,Premier League,Israel,2024-04-13 20:00:00,98039,7213417,48998039
+Maccabi Tel Aviv,Maccabi Haifa,1.93,3.50,3.50,Premier League,Israel,2024-04-08 20:30:00,437,7181560,48800437
+Al Gharafa,Umm-Salal,1.57,4.50,4.20,Stars League,Qatar,2024-04-07 21:30:00,80001,6998168,42676045
+Al Rayyan,Al-Mu Aidar,1.60,4.30,4.20,Stars League,Qatar,2024-04-07 21:30:00,49057,6998184,42676047
+Jamshedpur,FC Goa,3.90,1.75,3.65,Indian Super League,India,2024-04-09 14:30:00,94271,6910936,47294271
+Hyderabad FC,Kerala Blasters FC,4.80,1.60,3.80,Indian Super League,India,2024-04-12 17:00:00,94279,6910924,47294279
+East Bengal,Bengaluru,2.40,2.75,3.25,Indian Super League,India,2024-04-07 17:00:00,94267,6910927,47294267
+Mumbai City FC,Odisha FC,1.91,3.50,3.60,Indian Super League,India,2024-04-08 17:00:00,94269,6910935,47294269
+Chennaiyin FC,Northeast United FC,2.19,2.90,3.35,Indian Super League,India,2024-04-09 17:00:00,94273,6910925,47294273
+Kisvarda,Ujpest,2.39,2.70,3.20,NB I,Hungary,2024-04-13 15:30:00,6747,7126137,41906747
+Kecskemeti,Puskas,3.60,1.91,3.50,NB I,Hungary,2024-04-07 18:30:00,6741,7091997,41906741
+Oddevold,Orgryte,2.17,3.05,3.45,Superettan,Sweden,2024-04-08 20:00:00,28315,6797424,46528315
+Skovde,Landskrona,2.85,2.20,3.60,Superettan,Sweden,2024-04-07 16:00:00,82532,7242165,46528307
+Utsiktens,Gefle,1.55,5.20,4.10,Superettan,Sweden,2024-04-07 14:00:00,93389,7242603,46528309
+Helsingborg,Brage,2.32,2.80,3.30,Superettan,Sweden,2024-04-09 20:00:00,72757,7248946,46528305
+Lyn,Kongsvinger,2.80,2.28,3.50,1st Division,Norway,2024-04-07 18:00:00,75661,6777681,46375661
+Peterborough,Wycombe,1.76,4.10,3.85,EFL Trophy,England,2024-04-07 18:30:00,34281,7051102,48034281
+Cheltenham,Carlisle,1.65,4.90,3.70,League One,England,2024-04-09 21:45:00,4267,6915162,47304267
+Stevenage,Barnsley,2.22,3.05,3.35,League One,England,2024-04-09 21:45:00,68059,7011895,47798529
+Bolton,Portsmouth,2.17,3.10,3.35,League One,England,2024-04-13 17:00:00,89831,7269812,41889831
+Shrewsbury,Wycombe,2.55,2.65,3.20,League One,England,2024-04-13 17:00:00,91971,7269849,41889849
+Carlisle,Blackpool,4.90,1.60,4.00,League One,England,2024-04-13 17:00:00,8745,7269841,41889835
+Cambridge,Charlton,2.55,2.55,3.35,League One,England,2024-04-13 17:00:00,5557,7269851,41889833
+Port Vale,Exeter,1.89,3.75,3.55,League One,England,2024-04-13 17:00:00,23513,7269843,41889847
+Derby,Leyton Orient London,1.52,5.80,4.00,League One,England,2024-04-13 17:00:00,42913,7269833,41889839
+Cheltenham,Bristol Rovers,2.07,3.35,3.35,League One,England,2024-04-13 17:00:00,12521,7269853,41889837
+Stevenage,Burton,1.55,5.40,4.00,League One,England,2024-04-13 17:00:00,5813,7269847,41889851
+Barnsley,Reading,1.81,3.90,3.65,League One,England,2024-04-13 17:00:00,83346,7269835,41889829
+Oxford Utd,Peterborough,2.55,2.45,3.50,League One,England,2024-04-13 17:00:00,54725,7269855,41889845
+Lincoln City,Wigan,1.60,5.40,3.70,League One,England,2024-04-13 17:00:00,433,7269837,41889843
+Fleetwood,Northampton,2.07,3.35,3.35,League One,England,2024-04-13 17:00:00,74417,7269839,41889841
+Wycombe,Derby,3.80,1.88,3.50,League One,England,2024-04-10 21:45:00,54746,7113115,48395245
+Blackpool,Fleetwood,1.66,4.50,3.95,League One,England,2024-04-09 21:45:00,4163,7115845,48404163
+Leyton Orient London,Exeter,1.74,4.20,3.70,League One,England,2024-04-09 21:45:00,52633,7146861,48553629
+Charlton,Wigan,1.89,3.85,3.45,League One,England,2024-04-09 21:45:00,8005,7157689,48608005
+Bristol Rovers,Reading,2.49,2.65,3.30,League One,England,2024-04-09 21:45:00,4165,7115850,48404165
+Peterborough,Port Vale,1.39,6.80,4.70,League One,England,2024-04-10 21:45:00,80235,7082869,48198571
+Carrick Rangers,Ballymena,1.68,4.20,3.75,Premiership,Northern Ireland,2024-04-13 17:00:00,92839,7269763,49192839
+Crusaders Belfast,Linfield,2.65,2.36,3.35,Premiership,Northern Ireland,2024-04-12 21:45:00,92811,7269791,49192811
+Coleraine,Glentoran,3.35,1.93,3.55,Premiership,Northern Ireland,2024-04-13 17:00:00,92813,7269789,49192813
+Larne,Cliftonville,1.73,4.10,3.60,Premiership,Northern Ireland,2024-04-13 19:30:00,92815,7269807,49192815
+Newry City,Dungannon,4.50,1.58,4.10,Premiership,Northern Ireland,2024-04-13 17:00:00,32007,7269884,49192843
+Loughgall,Glenavon,2.36,2.55,3.50,Premiership,Northern Ireland,2024-04-13 17:00:00,1659,7269889,49192841
+HK U23,Tai Chung,4.20,1.66,4.20,Premier League,Hong Kong China,2024-04-07 10:00:00,80557,7269081,43040201
+Cerro Porteno,Alianza Lima,1.80,4.20,3.50,Copa Libertadores,International Clubs,2024-04-11 01:00:00,54571,7268987,48722729
+Tenerife,EIBAR,2.65,2.85,2.90,LaLiga 2,Spain,2024-04-07 19:30:00,32943,7245983,41984575
+Palmeiras,Liverpool M,1.24,12.00,5.40,Copa Libertadores,International Clubs,2024-04-12 03:00:00,20163,7259778,48722575
+LDU Quito,Botafogo RJ,1.71,4.60,3.65,Copa Libertadores,International Clubs,2024-04-12 01:00:00,20165,7259799,48722701
+CA River Plate,Nacional,1.40,7.20,4.40,Copa Libertadores,International Clubs,2024-04-12 03:00:00,22511,7176073,48722511
+Libertad,Tachira,1.39,7.20,4.50,Copa Libertadores,International Clubs,2024-04-10 03:00:00,95707,7262654,48722509
+Barcelona (ECU),Talleres,2.36,2.85,3.30,Copa Libertadores,International Clubs,2024-04-11 05:00:00,22933,7176092,48722933
+Fluminense,Colo Colo,1.41,7.40,4.30,Copa Libertadores,International Clubs,2024-04-10 03:00:00,36399,7258757,48722737
+Sao Paulo,Cobresal,1.22,12.00,5.60,Copa Libertadores,International Clubs,2024-04-11 03:30:00,22939,7176091,48722939
+Estudiantes LP,The Strongest,1.21,11.00,6.20,Copa Libertadores,International Clubs,2024-04-10 01:00:00,22759,7181203,48722759
+Ind. Del Valle,San Lorenzo,1.84,3.90,3.55,Copa Libertadores,International Clubs,2024-04-11 01:00:00,22573,7258796,48722573
+Gremio,Huachipato,1.27,9.60,5.40,Copa Libertadores,International Clubs,2024-04-10 01:00:00,22763,7258824,48722763
+Flamengo,Palestino,1.11,22.00,7.40,Copa Libertadores,International Clubs,2024-04-11 03:30:00,79395,7181222,48722647
+Bolivar,Millonarios,1.57,5.00,4.10,Copa Libertadores,International Clubs,2024-04-12 01:00:00,18481,7181355,48722645
+Penarol,Caracas,1.31,9.40,4.80,Copa Libertadores,International Clubs,2024-04-11 03:00:00,24671,7261389,48722541
+LEVANTE,Amorebieta,1.66,5.00,3.60,LaLiga 2,Spain,2024-04-13 22:00:00,76217,7270210,41984591
+Huesca,LEGANES,2.45,3.40,2.70,LaLiga 2,Spain,2024-04-07 15:00:00,90287,7239485,41984561
+Cartagena,Valladolid,3.65,2.14,3.05,LaLiga 2,Spain,2024-04-07 22:00:00,76869,7239850,41984557
+Villarreal B,Burgos,2.85,2.55,3.10,LaLiga 2,Spain,2024-04-07 17:15:00,66971,7239501,41984573
+Mirandes,Gijon,2.60,2.95,2.90,LaLiga 2,Spain,2024-04-07 17:15:00,54345,7239504,41984565
+ESPANYOL,Albacete,1.76,4.80,3.45,LaLiga 2,Spain,2024-04-07 19:30:00,51731,7239499,41984567
+R. Santander,Alcorcon,1.75,4.70,3.45,LaLiga 2,Spain,2024-04-08 21:30:00,98719,7245899,41984569
+Danubio,Sportivo Ameliano,1.81,4.20,3.40,Copa Sudamericana,International Clubs,2024-04-10 03:00:00,22425,7264436,48722425
+Atletico PR,Rayo Zuliano,1.08,27.00,8.40,Copa Sudamericana,International Clubs,2024-04-10 03:30:00,22429,7264448,48722429
+Union La Calera,Universidad Catolica,2.16,3.15,3.30,Copa Sudamericana,International Clubs,2024-04-11 03:00:00,91427,7264485,48722385
+Boca Juniors,Trinidense,1.25,11.00,5.40,Copa Sudamericana,International Clubs,2024-04-10 03:00:00,43647,7265782,48722473
+Espanola,U. de Chile,2.80,2.40,3.25,Primera Division,Chile,2024-04-08 03:00:00,45467,7212333,47445467
+Internacional,CD Real Tomayapo,1.06,30.00,9.40,Copa Sudamericana,International Clubs,2024-04-11 03:00:00,83287,7264493,48722435
+Cruzeiro MG,Alianza FC Valledupar,1.25,11.00,5.40,Copa Sudamericana,International Clubs,2024-04-12 03:00:00,96523,7264491,48722389
+Delfin,Belgrano,2.60,2.60,3.25,Copa Sudamericana,International Clubs,2024-04-12 05:00:00,22433,7264501,48722433
+Fortaleza,Nacional Potosi,1.15,16.00,7.00,Copa Sudamericana,International Clubs,2024-04-11 01:00:00,22471,7264520,48722471
+Coquimbo Unido,Cobreloa,2.09,3.25,3.40,Primera Division,Chile,2024-04-08 00:30:00,781,6875638,47100781
+U. Catolica,Cobresal,1.67,4.70,3.90,Primera Division,Chile,2024-04-06 23:30:00,787,6875642,47100787
+Everton VM,Audax,1.92,3.90,3.40,Primera Division,Chile,2024-04-07 02:00:00,779,6875636,47100779
+Racing Club,Bragantino,1.97,3.60,3.40,Copa Sudamericana,International Clubs,2024-04-11 03:30:00,16807,7264375,48721887
+Defensa Jus.,Always Ready,1.21,13.00,5.60,Copa Sudamericana,International Clubs,2024-04-11 01:00:00,39101,7264382,48721819
+Coquimbo Unido,Sportivo Luqueno,2.16,3.20,3.30,Copa Sudamericana,International Clubs,2024-04-12 03:00:00,31033,7264378,48721885
+Ind. Medellin,Cesar Vallejo,1.49,5.80,4.20,Copa Sudamericana,International Clubs,2024-04-11 05:00:00,20977,7264400,48721817
+Union La Calera,O Higgins,2.50,2.70,3.20,Primera Division,Chile,2024-04-07 22:00:00,775,6875635,47100775
+Lanus,Deportivo Garcilaso,1.31,8.60,5.00,Copa Sudamericana,International Clubs,2024-04-12 01:00:00,19995,7264406,48721923
+Metropolitanos FC,Cuiaba,3.45,2.04,3.35,Copa Sudamericana,International Clubs,2024-04-12 01:00:00,95601,7264415,48721921
+Argentinos Jrs,Racing Club Mdeo.,1.41,7.80,4.10,Copa Sudamericana,International Clubs,2024-04-10 01:00:00,21653,7264426,48721955
+Corinthians,Nacional FC,1.40,7.80,4.20,Copa Sudamericana,International Clubs,2024-04-10 01:00:00,19681,7264430,48721961
+Shijiazhuang,Changchun Yatai,2.30,2.75,3.50,Chinese Super League,China,2024-04-10 14:35:00,59997,6987535,47659997
+Shanghai Shenhua,Wuhan Three Towns FC,1.49,5.80,4.20,Chinese Super League,China,2024-04-09 15:00:00,59993,6987520,47659993
+Fortaleza,Caldas,2.05,3.80,2.95,Primera A Apertura,Colombia,2024-04-13 22:00:00,69785,6813389,46669785
+La Equidad,Boyaca Chico,1.84,4.30,3.25,Primera A Apertura,Colombia,2024-04-08 04:20:00,69761,6813378,46669761
+Rionegro Aguilas,Pasto,2.03,4.00,3.05,Primera A Apertura,Colombia,2024-04-07 00:00:00,69771,6813380,46669771
+Bucaramanga,Dep. Cali,2.02,3.75,3.25,Primera A Apertura,Colombia,2024-04-07 02:10:00,69765,6813375,46669765
+Patriotas,Alianza FC Valledupar,2.01,3.85,3.10,Primera A Apertura,Colombia,2024-04-08 00:00:00,19451,7225305,47193669
+Jaguares,Ind. Medellin,2.65,2.70,3.05,Primera A Apertura,Colombia,2024-04-08 02:10:00,69763,6813377,46669763
+Dep Maldonado,Penarol,4.40,1.72,3.65,Primera Division,Uruguay,2024-04-08 00:00:00,91901,7211393,48991901
+Fenix,Liverpool M,2.55,2.90,2.90,Primera Division,Uruguay,2024-04-07 21:00:00,91887,7211390,48991887
+Vissel Kobe,Yokohama F Marinos,1.95,3.55,3.65,J.League,Japan,2024-04-07 08:00:00,73103,6905213,47273103
+Albirex Niigata,Cerezo O,2.80,2.55,3.10,J.League,Japan,2024-04-07 08:00:00,73099,6905215,47273099
+Cerro,Rampla Jrs. FC,2.26,3.10,3.20,Primera Division,Uruguay,2024-04-07 16:00:00,74093,7250620,48991885
+Tokyo Verdy,Kashiwa,2.80,2.55,3.15,J.League,Japan,2024-04-07 07:00:00,26246,7255543,47273097
+Kyoto Sanga,Jubilo Iwata,2.19,3.20,3.35,J.League,Japan,2024-04-07 08:00:00,73101,7255570,47273101
+Tokyo,Kashima,3.05,2.35,3.15,J.League,Japan,2024-04-07 11:00:00,73113,6905216,47273113
+Kawasaki,Machida Z,2.20,3.20,3.30,J.League,Japan,2024-04-07 09:00:00,73109,6905218,47273109
+Nagoya,Avispa Fukuoka,2.26,3.30,3.05,J.League,Japan,2024-04-07 09:00:00,73111,6905219,47273111
+Karmiotissa,Ethnikos Achnas,2.28,2.90,3.25,1st Division,Cyprus,2024-04-07 19:30:00,23395,7162573,48623395
+Delfin,Universidad Catolica,2.80,2.36,3.25,LigaPro Primera A,Ecuador,2024-04-07 23:30:00,43641,6930558,47343641
+Imbabura,Macara,2.75,2.39,3.15,LigaPro Primera A,Ecuador,2024-04-09 03:00:00,43645,6930624,47343645
+Othellos,Nea Salamina,2.55,2.55,3.30,1st Division,Cyprus,2024-04-07 19:00:00,23393,7162575,48623393
+Zakakiou,AEL Limassol,5.00,1.54,4.10,1st Division,Cyprus,2024-04-08 19:00:00,23397,7162578,48623397
+Tecnico,Emelec,2.55,2.65,3.05,LigaPro Primera A,Ecuador,2024-04-08 02:00:00,43637,6930560,47343637
+El Nacional,LDU Quito,3.10,2.08,3.65,LigaPro Primera A,Ecuador,2024-04-06 23:30:00,43639,6930562,47343639
+Tochigi,Renofa Y,3.20,2.35,3.00,J.League 2,Japan,2024-04-07 08:00:00,96761,6911305,47296761
+Fujieda,Vegalta,3.10,2.24,3.30,J.League 2,Japan,2024-04-07 08:00:00,96769,6911307,47296769
+Tokushima V,Ichihara Chiba,4.40,1.78,3.55,J.League 2,Japan,2024-04-07 08:00:00,96771,6911308,47296771
+Ventforet,Shimizu,3.10,2.21,3.40,J.League 2,Japan,2024-04-07 08:00:00,96767,6911309,47296767
+Oita T,Blaublitz A,2.50,2.95,3.00,J.League 2,Japan,2024-04-07 08:00:00,96773,6911324,47296773
+Roasso K,V-Varen Nagasaki,3.00,2.31,3.25,J.League 2,Japan,2024-04-07 07:00:00,96757,6911311,47296757
+Montedio Yamagata,Kagoshima Utd,2.18,3.25,3.30,J.League 2,Japan,2024-04-07 08:00:00,96759,6911312,47296759
+Kusatsu G,Mito H,3.25,2.25,3.15,J.League 2,Japan,2024-04-07 08:00:00,96763,6911310,47296763
+Yokohama FC,Iwaki FC,1.90,3.95,3.40,J.League 2,Japan,2024-04-07 08:00:00,96765,6911306,47296765
+Ehime,Fagiano Okayama,3.55,2.08,3.25,J.League 2,Japan,2024-04-07 09:00:00,96775,6911317,47296775
+La Guaira,Portuguesa,2.10,3.45,3.10,Primera Division,Venezuela,2024-04-07 03:30:00,95419,7173180,48695419
+Metropolitanos FC,Caracas,2.50,2.90,2.80,Primera Division,Venezuela,2024-04-07 23:00:00,95511,7173185,48695511
+Aktobe,Atyrau,1.61,4.80,3.90,Premier League,Kazakhstan,2024-04-07 12:00:00,6885,7047677,48006885
+FK Turan,Ordabasy,4.90,1.67,3.50,Premier League,Kazakhstan,2024-04-07 17:00:00,6891,7047678,48006891
+Cosenza,Palermo,2.75,2.47,3.20,Serie B,Italy,2024-04-13 17:15:00,73895,7269723,42262235
+Lecco,Reggiana,2.65,2.70,3.00,Serie B,Italy,2024-04-13 17:15:00,62239,6951232,42262239
+Parma Calcio,Spezia,1.69,4.50,3.75,Serie B,Italy,2024-04-13 17:15:00,62243,6951235,42262243
+Cremonese,Ternana,1.52,5.40,4.20,Serie B,Italy,2024-04-13 15:00:00,62237,6951230,42262237
+Pisa,Feralpi Salo,1.71,4.70,3.55,Serie B,Italy,2024-04-13 15:00:00,55089,7268558,42262245
+Modena,Catanzaro,1.98,3.55,3.40,Serie B,Italy,2024-04-12 21:30:00,62241,6951231,42262241
+Como,Bari 1908,1.74,4.60,3.45,Serie B,Italy,2024-04-13 15:00:00,62233,6951217,42262233
+SAMPDORIA,Sudtirol,1.93,4.10,3.15,Serie B,Italy,2024-04-13 15:00:00,71613,7269700,42262247
+Ascoli,Venezia,3.50,2.12,3.20,Serie B,Italy,2024-04-07 17:15:00,62209,6951216,42262209
+Zira FK,Gabala,1.40,6.80,4.30,Premier League,Azerbaijan,2024-04-07 15:30:00,77365,6965425,42709203
+Neftchi Baku,Sumgayit,1.74,4.00,3.75,Premier League,Azerbaijan,2024-04-07 19:00:00,20375,6965423,42709205
+Neman,Zhodino,2.17,3.25,3.20,Vysshaya Liga,Belarus,2024-04-07 16:00:00,79113,7264033,48171681
+Kalev,Parnu JK Vaprus,2.08,3.35,3.25,Premium Liiga,Estonia,2024-04-07 14:30:00,75899,7096225,47099919
+Chonburi,Ratchaburi,2.25,2.90,3.25,Thai League 1,Thailand,2024-04-07 14:30:00,56993,7223419,42256993
+Bangkok Utd,Port FC,1.73,4.10,3.65,Thai League 1,Thailand,2024-04-07 14:00:00,56997,7095825,42256997
+Sukhothai,Nakhon Pathom FC,1.88,3.60,3.50,Thai League 1,Thailand,2024-04-07 15:00:00,57007,7095826,42257007
+De Graafschap,Telstar,1.56,4.80,4.30,Eerste Divisie,Netherlands,2024-04-12 21:00:00,7525,7269468,41981709
+Jong Ajax,Den Bosch,1.74,4.30,3.80,Eerste Divisie,Netherlands,2024-04-08 21:00:00,37397,7243219,41981699
+JONG AZ ALKMAAR,Emmen,2.45,2.60,3.60,Eerste Divisie,Netherlands,2024-04-08 21:00:00,93393,7243221,41981703
+JONG FC UTRECHT,Willem II,8.20,1.32,5.20,Eerste Divisie,Netherlands,2024-04-08 21:00:00,57791,7243223,41981705
+Eindhoven,Jong PSV,2.08,3.05,3.65,Eerste Divisie,Netherlands,2024-04-12 21:00:00,30361,7264744,41981711
+ADO Den Haag,Helmond,1.49,5.40,4.40,Eerste Divisie,Netherlands,2024-04-12 21:00:00,81707,7264746,41981707
+Olomouc B,Opava,2.34,2.75,3.35,FNL,Czech Republic,2024-04-07 11:15:00,32373,7249524,41878097
+Sparta Prague B,Vyskov,2.55,2.50,3.35,FNL,Czech Republic,2024-04-07 11:30:00,78103,7094829,41878103
+SV Ried,Bregenz,1.27,8.60,5.20,2. Liga,Austria,2024-04-13 21:00:00,72219,6854724,41968269
+Liefering,Grazer AK,2.55,2.35,3.55,2. Liga,Austria,2024-04-12 19:10:00,18813,6849879,41968261
+Dornbirn,First Vienna,3.35,1.97,3.45,2. Liga,Austria,2024-04-12 19:10:00,27337,6849880,41968259
+Admira,Floridsdorfer AC,2.36,2.70,3.35,2. Liga,Austria,2024-04-07 11:30:00,27719,6826429,41968241
+Kapfenberger,SV Stripfing,2.03,3.20,3.40,2. Liga,Austria,2024-04-12 19:10:00,22875,6849881,41968267
+Godoy Cruz,Sarmiento,1.60,5.40,3.55,Copa de la Liga,Argentina,2024-04-09 02:00:00,56725,7244093,46656725
+Platense,Tigre,1.94,4.10,3.00,Copa de la Liga,Argentina,2024-04-09 02:00:00,56729,7244098,46656729
+El Gouna,Pyramids,5.80,1.55,3.95,Premier League,Egypt,2024-04-08 22:30:00,61573,7057971,48061573
+Zamalek,Al Ittihad,1.68,4.90,3.55,Premier League,Egypt,2024-04-11 20:00:00,61579,7057979,48061579
+Santa Fe,Belgrano,1.78,4.80,3.30,Copa de la Liga,Argentina,2024-04-07 03:30:00,56709,7236816,46656709
+Atletico Tucuman,Gimnasia LP,1.95,4.10,3.10,Copa de la Liga,Argentina,2024-04-07 22:00:00,13425,7239789,46656737
+Barracas,Instituto Atletico,2.80,2.60,2.90,Copa de la Liga,Argentina,2024-04-07 22:00:00,90557,7239791,46656749
+San Lorenzo,Defensa Jus.,2.24,3.40,3.05,Copa de la Liga,Argentina,2024-04-07 01:15:00,94735,7236451,46656705
+Racing Club,Lanus,1.96,3.85,3.20,Copa de la Liga,Argentina,2024-04-08 00:30:00,69485,7240144,46656713
+Dep. Riestra,Huracan,3.30,2.31,2.90,Copa de la Liga,Argentina,2024-04-08 21:30:00,98653,7243302,46656741
+Al Masry,Future FC,2.19,3.55,2.90,Premier League,Egypt,2024-04-11 17:00:00,46671,7057972,48061577
+Al Ahly,Enppi,1.40,7.60,4.50,Premier League,Egypt,2024-04-08 23:00:00,25327,7241223,49125327
+Gimnasia Jujuy,Atletico Alvarado,1.91,4.10,3.00,Primera Nacional,Argentina,2024-04-07 22:00:00,27753,6849088,46927753
+Ferro Carri,Patronato Parana,1.67,5.00,3.45,Primera Nacional,Argentina,2024-04-07 01:00:00,27757,6849090,46927757
+San Martin de T.,Arsenal Sarandi,1.87,4.40,3.00,Primera Nacional,Argentina,2024-04-07 03:10:00,27769,6849080,46927769
+San Miguel,Tristan Suarez,2.07,3.65,2.90,Primera Nacional,Argentina,2024-04-07 20:00:00,27759,6849089,46927759
+Estudiantes BA,Guillermo Brown,1.90,4.20,3.00,Primera Nacional,Argentina,2024-04-07 21:30:00,27765,6849092,46927765
+Remedios de Escalada,Agropecuario,2.65,2.70,2.85,Primera Nacional,Argentina,2024-04-07 21:30:00,27763,6849097,46927763
+Deportivo Madryn,Almagro,1.99,4.00,2.90,Primera Nacional,Argentina,2024-04-07 22:00:00,27783,6849101,46927783
+Quilmes,All Boys,1.77,4.70,3.10,Primera Nacional,Argentina,2024-04-07 22:05:00,27761,6849085,46927761
+Aldosivi,Gimnasia Tiro,2.39,3.10,2.75,Primera Nacional,Argentina,2024-04-07 23:00:00,27771,6849084,46927771
+Santiago Estero,Atletico Guemes,2.11,3.65,2.85,Primera Nacional,Argentina,2024-04-07 23:00:00,27789,6849103,46927789
+Deportivo Maipu,Racing de Cordoba,2.40,2.75,3.15,Primera Nacional,Argentina,2024-04-07 23:00:00,27755,6849091,46927755
+Rio Cuarto,Gimnasia Mendoza,2.17,3.50,2.85,Primera Nacional,Argentina,2024-04-08 00:00:00,27773,6849087,46927773
+Atletico Rafaela,Defensores,1.94,3.85,3.05,Primera Nacional,Argentina,2024-04-08 00:10:00,27785,6849106,46927785
+Atletico Atlanta,Temperley,2.39,3.10,2.75,Primera Nacional,Argentina,2024-04-09 03:10:00,29187,7241634,49129187
+Unirea Slobozia,AFK Csikszereda Miercurea Ciuc,1.96,3.40,3.00,Liga 2,Romania,2024-04-07 12:00:00,50245,7243856,48750245
+Lobi Stars,Enyimba,1.60,4.90,3.00,Premier League,Nigeria,2024-04-07 18:00:00,99231,7267781,48799231
+Katsina United FC,Enugu Rangers,1.60,4.80,3.05,Premier League,Nigeria,2024-04-07 18:00:00,20333,7268539,48799269
+Heartland,Sporting Lagos FC,1.60,4.90,3.00,Premier League,Nigeria,2024-04-07 18:00:00,45935,7269315,48799267
+Cagliari SRL,Atalanta BC SRL,4.50,1.64,3.70,Serie A SRL,Simulated Reality League,2024-04-07 11:00:00,46727,7270324,49099091
+Frosinone Calcio Srl,Bologna FC SRL,4.00,1.78,3.45,Serie A SRL,Simulated Reality League,2024-04-07 11:00:00,98325,7270325,49099081
+Juventus Turin SRL,Fiorentina SRL,1.77,4.30,3.30,Serie A SRL,Simulated Reality League,2024-04-07 11:00:00,36773,7270330,49099095
+Hellas Verona SRL,Genoa CFC SRL,2.55,2.75,2.85,Serie A SRL,Simulated Reality League,2024-04-07 11:00:00,56278,7270320,49099093
+AC Monza Srl,SSC Napoli SRL,3.85,1.78,3.60,Serie A SRL,Simulated Reality League,2024-04-07 11:00:00,27779,7270322,49099087
+Torrent CF,Formentera,1.81,4.40,3.10,Segunda Federacion,Spain,2024-04-07 13:00:00,80795,7255218,42480795
+Cape Town City FC,Amazulu,2.00,3.80,3.05,Premiership,South Africa,2024-04-07 16:00:00,3113,6978105,47628483
+Tiburones de Sonsonate,CD San Pablo Municipal,2.22,2.85,3.15,Segunda Division,El Salvador,2024-04-07 00:00:00,72033,7269336,47676103
+Siheung Citizen FC,Mokpo City,2.55,2.55,3.25,K3 League,Republic of Korea,2024-04-07 08:00:00,11867,7267807,47933889
+Corinto FC,CD Pipil,2.01,3.25,3.20,Segunda Division,El Salvador,2024-04-07 00:00:00,30395,7269322,47676319
+Arka,Polonia,2.31,2.31,3.65,CLJ,Poland,2024-04-07 12:00:00,78815,7267805,47093445
+Fastav Zlin B,FC Banik Ostrava B,2.85,2.17,3.60,MSFL,Czech Republic,2024-04-07 11:30:00,82710,7253474,45182710
+Renate,Mantova,3.75,1.88,3.35,Serie C Group A,Italy,2024-04-08 21:45:00,20171,7006032,42820171
+Chorrillo,Amador,2.95,2.25,3.15,Liga Panamena de Futbol Apertura,Panama,2024-04-07 02:15:00,8065,7258087,46908065
+Morecambe,Crewe,2.75,2.37,3.40,League Two,England,2024-04-09 21:45:00,45155,6939398,47399961
+FC Hradec Kralove B,Banik,2.50,2.38,3.55,CFL,Czech Republic,2024-04-07 11:15:00,78613,7253954,46678613
+Newport,Accrington,2.32,2.80,3.45,League Two,England,2024-04-09 21:45:00,50841,7022744,47850841
+Sokol Saratov,Rodina Moscow,4.90,1.68,3.40,1. Liga,Russia,2024-04-07 14:00:00,37847,7096460,42692615
+Mexicali FC,Mineros de Fresnillo FC,4.20,1.77,3.45,Liga Premier Serie A,Mexico,2024-04-07 02:00:00,44343,7266580,42644343
+Crawley,Colchester,2.12,3.15,3.45,League Two,England,2024-04-13 17:00:00,38235,7268967,41891023
+Union Molinense CF 2020,Muleno CF,1.55,6.20,3.40,Tercera Federacion Group 13,Spain Amateur,2024-04-07 12:30:00,42601,7269338,42950987
+Rimini,Vis Pesaro,1.87,3.65,3.40,Serie C Group B,Italy,2024-04-07 21:45:00,20985,7006561,42820985
+Beltinci,Jadran Dekani,1.52,4.50,3.80,2. Liga,Slovenia,2024-04-07 17:00:00,58581,7268605,41908341
+Newport,Tranmere,2.28,2.80,3.55,League Two,England,2024-04-13 17:00:00,38239,7268969,41891035
+CD Utrera,Conil CF,1.84,4.10,3.20,Tercera Federacion Group 10,Spain Amateur,2024-04-07 13:00:00,42605,7269332,42948561
+Langreo,Villalbes,1.92,4.10,2.95,Segunda Federacion,Spain,2024-04-07 19:00:00,79605,7256586,42479605
+Gorica,Ilirija,1.40,5.80,3.90,2. Liga,Slovenia,2024-04-07 21:00:00,78361,7268607,41908349
+Salford,Bradford City,2.22,2.95,3.45,League Two,England,2024-04-13 17:00:00,63543,7268971,41891037
+Ucam Murcia II,Racing Murcia,1.86,3.90,3.30,Tercera Federacion Group 13,Spain Amateur,2024-04-07 13:00:00,67463,7269352,42950975
+Gillingham,Barrow AFC,2.12,3.15,3.45,League Two,England,2024-04-13 17:00:00,97201,7268973,41891029
+CF Trujillo,Moralo CP,2.60,2.60,3.05,Tercera Federacion Group 14,Spain Amateur,2024-04-07 13:30:00,90927,7269354,42951357
+Maidenhead,Gateshead,3.10,2.00,3.60,National League,England,2024-04-13 17:00:00,70437,7269725,42137193
+C. Glogow,Miedz Legnica,3.55,1.95,3.25,I liga,Poland,2024-04-13 21:00:00,77633,7126354,41877633
+Busan,Jeonnam,2.00,3.60,3.30,K-League 2,Republic of Korea,2024-04-07 08:00:00,19557,6895523,47219557
+Acdr Lamelas,Beira Mar,3.65,2.04,2.95,Campeonato de Portugal,Portugal,2024-04-07 18:00:00,33357,7266973,42799875
+Wrexham,Forest Green,1.41,6.60,4.60,League Two,England,2024-04-13 17:00:00,22359,7268963,41891045
+Mufulira Wanderers,Trident FC,1.64,4.80,3.10,Super League,Zambia,2024-04-07 16:00:00,99845,7269330,49037093
+Douro,Amarante,4.80,1.67,3.40,Campeonato de Portugal,Portugal,2024-04-07 18:00:00,1687,7266977,42799865
+Crewe,Grimsby Town,1.93,3.55,3.55,League Two,England,2024-04-13 17:00:00,57495,7268977,41891025
+Calvo Sotelo Puertollano,Marchamalo,1.80,4.20,3.25,Tercera Federacion Group 18,Spain Amateur,2024-04-07 18:00:00,14141,7269350,42953255
+Walsall,Notts County,2.02,3.30,3.55,League Two,England,2024-04-13 17:00:00,19741,7268965,41891043
+Xerez FC Deportivo,Xerez,2.27,3.05,3.00,Tercera Federacion Group 10,Spain Amateur,2024-04-07 18:00:00,44875,7269358,42948549
+Cuc Villalba,Villanueva Pardillo,2.29,2.95,3.10,Tercera Federacion Group 7,Spain Amateur,2024-04-07 12:30:00,66479,7270015,42946379
+Genclerbirligi,Adanaspor,1.61,5.20,3.75,1. Lig,Turkiye,2024-04-07 16:00:00,38661,7096436,42438889
+Harrogate,Grimsby Town,2.80,2.32,3.45,League Two,England,2024-04-09 21:45:00,50845,7022745,47850845
+UNIVERSITATEA CRAIOVA,Constanta,1.92,3.75,3.40,Superliga,Romania,2024-04-12 20:30:00,36849,7143037,48536849
+Acero,Atzeneta UE,2.95,2.28,3.10,Tercera Federacion Group 6,Spain Amateur,2024-04-07 18:00:00,85655,7269340,42945499
+Dender,ZULTE WAREGEM,1.94,3.30,3.65,Challenger Pro League,Belgium,2024-04-13 21:00:00,91577,7270018,41894629
+Covilha,Academica,2.55,2.60,3.20,Liga Portugal 3,Portugal,2024-04-07 21:30:00,86231,7240868,47486231
+Lucchese,Arezzo,2.02,3.75,2.95,Serie C Group B,Italy,2024-04-08 21:45:00,89114,7006543,42820953
+Union Schafhausen,FV Bonn-Endenich 1908,2.25,2.50,3.35,Oberliga Mittelrhein,Germany Amateur,2024-04-07 16:15:00,80179,7266156,42380179
+Urraca CF,CD Praviano,2.65,2.65,2.90,Tercera Federacion Group 2,Spain Amateur,2024-04-07 18:00:00,64039,7269362,42943015
+Deinze,Lommel,2.13,2.95,3.50,Challenger Pro League,Belgium,2024-04-13 21:00:00,57955,7270020,41894637
+Rankweil,Rofix Rothis,2.80,1.98,3.65,Regionalliga West,Austria Amateur,2024-04-07 17:00:00,75901,7096226,42020361
+Guanacasteca,Puntarenas,2.08,3.40,3.15,Primera Division Clausura,Costa Rica,2024-04-08 00:00:00,55108,6784272,46428537
+Pescara,Entella,2.24,3.00,3.10,Serie C Group B,Italy,2024-04-08 21:45:00,20981,7006549,42820981
+VfL Vichttal,Hennef,1.46,4.60,4.30,Oberliga Mittelrhein,Germany Amateur,2024-04-07 16:30:00,80183,7266159,42380183
+Olot,UE Rapitenca,1.38,8.00,4.00,Tercera Federacion Group 5,Spain Amateur,2024-04-07 18:00:00,90235,7269342,42944897
+Sitra Club,Manama,2.11,3.05,3.45,Premier League,Bahrain,2024-04-07 21:45:00,81677,7270353,49194481
+GKS Katowice,LECHIA GDANSK,2.27,2.90,3.30,I liga,Poland,2024-04-07 16:00:00,77613,7089748,41877613
+CD Don Alvaro,Don Benito,5.60,1.56,3.55,Tercera Federacion Group 14,Spain Amateur,2024-04-07 18:00:00,40823,7269364,42951363
+Essen,Duisburg,1.93,3.45,3.70,3. Liga,Germany,2024-04-07 17:30:00,87841,7117514,42187841
+Talavera,AD Llerenense,1.53,6.00,3.55,Segunda Federacion,Spain,2024-04-07 13:00:00,98761,7253504,42482093
+Osmanlispor,Yeni Mersin Idmanyurdu,2.37,3.00,2.60,2. Lig,Turkiye Amateur,2024-04-07 15:00:00,50595,7095809,42550595
+Tropezon,Siete Villas,1.76,4.20,3.40,Tercera Federacion Group 3,Spain Amateur,2024-04-07 18:00:00,76477,7269344,42943955
+Royal Francs Borains,Liege,2.75,2.34,3.50,Challenger Pro League,Belgium,2024-04-07 20:15:00,82123,7239561,41894617
+UCAM Murcia,RB Linense,1.86,4.40,3.00,Segunda Federacion,Spain,2024-04-07 18:00:00,52507,7266594,42481413
+SDA Tordesillas,Real Avila,2.65,2.65,2.90,Tercera Federacion Group 8,Spain Amateur,2024-04-07 18:00:00,82708,7269348,42947165
+ASK Klagenfurt,Gleisdorf,2.13,2.65,3.45,Regionalliga Centre,Austria Amateur,2024-04-07 12:00:00,67977,7096038,42022605
+Lobos UPNFM,Olancho FC,3.00,2.30,3.10,Liga Nacional. Clausura,Honduras,2024-04-07 02:00:00,22825,7223308,49022825
+Wrexham,Crawley,1.49,5.40,4.50,League Two,England,2024-04-09 21:45:00,50969,7022759,47850969
+Barrow AFC,Bradford City,2.18,3.10,3.35,League Two,England,2024-04-09 21:45:00,18987,7088141,48218987
+Ordino,Pas de La Casa,1.60,4.60,3.90,Primera Divisio,Andorra,2024-04-07 12:00:00,11259,7270355,43256885
+Halle,Ulm,3.15,2.11,3.45,3. Liga,Germany,2024-04-07 20:30:00,87851,7117515,42187851
+Babelsberg,Erfurt,2.09,2.85,3.20,Regionalliga Northeast,Germany Amateur,2024-04-07 14:00:00,66335,7250871,42166335
+V.Francavilla,Catania,3.10,2.26,3.00,Serie C Group C,Italy,2024-04-07 19:30:00,1786,7007385,42821401
+Marathon,Motagua,1.84,3.90,3.35,Liga Nacional. Clausura,Honduras,2024-04-08 00:00:00,22829,7223309,49022829
+Kamatamare S,YSCC Yokohama,2.07,3.55,3.20,J3 League,Japan,2024-04-07 08:00:00,97721,6911720,47297721
+Sutjeska,FK Mornar,1.71,4.60,3.10,1. CFL,Montenegro,2024-04-13 18:00:00,67615,7269324,41907129
+Deportes Recoleta,Arica,2.28,2.90,3.30,Primera B,Chile,2024-04-07 19:30:00,91793,6955813,47491793
+Dep. Armenio,Liniers,1.84,4.10,3.20,Primera B,Argentina,2024-04-07 19:00:00,33047,7256440,46927143
+Gremio Atletico Sampaio RR,River EC RR,1.73,4.00,3.70,Roraimense,Brazil,2024-04-06 23:30:00,54169,7267833,47663587
+B. Villa Ramallo,9 Julio Rafaela,1.84,4.10,3.20,Torneo Federal A,Argentina,2024-04-07 22:00:00,66319,7270359,48410467
+Polonia Bytom,Stal Stalowa Wola,2.10,3.05,2.95,II Liga,Poland,2024-04-07 18:30:00,91979,7250874,41891979
+Polonia Sroda Wlkp,Unia,2.22,2.36,3.50,III Liga Group 2,Poland,2024-04-07 13:00:00,89621,7267831,42171989
+Meuselwitz,Berliner AK,1.54,4.40,3.80,Regionalliga Northeast,Germany Amateur,2024-04-07 14:30:00,66327,7118994,42166327
+St Josephs,Lincoln Red Imps,2.70,2.14,3.30,Rock Cup,Gibraltar,2024-04-07 20:30:00,76241,7269012,49021095
+Artesanos Metepec FC,Caja Oblatos Cfd,1.40,7.20,4.20,Liga Premier Serie B,Mexico,2024-04-07 01:00:00,52379,7265445,47923543
+Oxford,Oldham,4.90,1.51,4.30,National League,England,2024-04-13 17:00:00,37197,7269742,42137197
+Olimpia,Real Espana,1.41,6.60,4.20,Liga Nacional. Clausura,Honduras,2024-04-08 04:30:00,22891,7223307,49022891
+Trinidense,Cerro Porteno,4.20,1.70,3.90,Division de Honor Apertura,Paraguay,2024-04-07 01:00:00,88063,6755720,46188063
+Turris Calcio,Avellino,3.65,1.97,3.15,Serie C Group C,Italy,2024-04-07 21:45:00,15565,7007380,42821397
+Columbus Crew,DC United,1.73,4.20,3.90,MLS,USA,2024-04-07 02:30:00,64583,6776496,46364583
+Picerno,Audace Cerignola,2.17,3.20,3.05,Serie C Group C,Italy,2024-04-07 21:45:00,80117,7007386,42821395
+Corum,Kocaelispor,2.12,3.20,3.40,1. Lig,Turkiye,2024-04-07 13:30:00,31103,7096441,42438897
+Cheonan City,Gyeongnam,3.50,2.01,3.35,K-League 2,Republic of Korea,2024-04-07 08:00:00,2940,6895520,47219559
+BENEVENTO,Juve Stabia,2.28,3.10,2.95,Serie C Group C,Italy,2024-04-08 21:30:00,69383,7007371,42821403
+IF Lodde,Karlskrona,3.60,1.79,3.80,Division 2 Sodra Gotaland,Sweden,2024-04-07 14:00:00,45701,6944948,47445701
+Dresden,Saarbrucken,1.72,4.40,3.65,3. Liga,Germany,2024-04-07 14:30:00,87847,7117517,42187847
+Al Arabi,Qadsia SC,2.32,2.65,3.40,Premier League,Kuwait,2024-04-07 21:30:00,84359,7268352,49156971
+Anadolu Universitesi,1954 Kelkit Belediyespor,2.09,3.00,3.05,3. Lig Group 2,Turkiye Amateur,2024-04-07 15:00:00,4783,7268639,42557777
+Slask Wroclaw II,Odra Bytom Odrzanski,1.44,4.60,4.00,III Liga Group 3,Poland,2024-04-07 13:00:00,77447,7270047,42172051
+Dusseldorf,Braunschweig,1.64,4.90,3.90,2. Bundesliga,Germany,2024-04-07 14:30:00,24329,7081498,42024329
+Chungbuk Cheongju FC,Suwon Bluewings,3.65,1.99,3.30,K-League 2,Republic of Korea,2024-04-07 10:30:00,19561,6895524,47219561
+Spartans H,Birkirkara,1.78,3.80,3.60,Premier League,Malta,2024-04-07 15:00:00,94415,7112650,48394415
+Deusto,Anorga Kke,1.46,6.80,3.75,Tercera Federacion Group 4,Spain Amateur,2024-04-07 21:30:00,26199,7270044,42944431
+HANNOVER,SCHALKE 04,1.96,3.45,3.75,2. Bundesliga,Germany,2024-04-07 14:30:00,24335,7081499,42024335
+CD Fuerte San Francisco Morazan,Jocoro FC,1.62,4.30,3.40,Primera Division Clausura,El Salvador,2024-04-08 00:00:00,49257,7258654,46849257
+Union Mutilvera,Zaragoza B,3.35,2.21,2.90,Segunda Federacion,Spain,2024-04-07 19:30:00,80145,7266642,42480145
+Hodd 2,Gjelleraasen,2.19,2.35,3.90,3rd Division Group 5,Norway,2024-04-07 16:00:00,99395,6912978,47299395
+Swindon Town,Wimbledon,2.80,2.28,3.55,League Two,England,2024-04-13 17:00:00,28509,7269036,41891041
+Osnabruck,Greuther Furth,2.85,2.31,3.45,2. Bundesliga,Germany,2024-04-07 14:30:00,24343,7081517,42024343
+Sochaux,Nancy,2.00,3.45,3.35,National,France,2024-04-08 22:00:00,24227,7176131,48724227
+Abha,Al Fateh,3.70,1.88,3.65,Saudi Pro League,Saudi Arabia,2024-04-07 22:00:00,17157,7067277,42417157
+Siofok,Gyirmot,2.70,2.15,3.30,NB II,Hungary,2024-04-07 17:00:00,32901,7245291,42069563
+Lidkopings,Herrestads,2.85,2.11,3.60,Division 2 Norra Gotaland,Sweden,2024-04-07 16:00:00,71645,6968827,47571645
+Stockport,Morecambe,1.34,7.20,5.20,League Two,England,2024-04-13 17:00:00,88559,7269038,41891039
+Santa Clara,PACOS FERREIRA,1.74,4.60,3.50,Liga Portugal 2,Portugal,2024-04-07 16:00:00,33163,7097268,42147471
+Radunia Stezyca,Chojnice,2.29,2.65,3.05,II Liga,Poland,2024-04-07 13:15:00,44639,7251646,41891967
+HERTHA,Hansa Rostock,1.66,4.40,4.00,2. Bundesliga,Germany,2024-04-12 19:30:00,24347,7081500,42024347
+Kungsangens IF,Enkoping,2.55,2.34,3.55,Division 2 Norra Svealand,Sweden,2024-04-07 17:00:00,94733,6939932,47409407
+MEAP Nisou,Digenis,1.80,4.30,3.35,2nd Division,Cyprus,2024-04-07 16:30:00,240406163216.38987,6885091,47138987
+FK Mlada Boleslav B,FK Jablonec B,1.81,3.60,3.70,CFL,Czech Republic,2024-04-07 11:15:00,64419,7254022,46678615
+Costa Del Este FC,San Francisco (Pan),2.43,2.95,2.90,Liga Panamena de Futbol Apertura,Panama,2024-04-07 00:00:00,94185,7259023,46908063
+Chernomorets,PFC Kuban Krasnodar,1.95,3.85,3.15,1. Liga,Russia,2024-04-07 16:00:00,73005,7096456,42692609
+Quintanar Del Rey,Villarrobledo,1.87,3.95,3.20,Tercera Federacion Group 18,Spain Amateur,2024-04-07 18:00:00,14105,7269376,42953267
+HJK,Lahti,1.41,6.60,4.50,Veikkausliiga,Finland,2024-04-11 18:00:00,14225,7269761,47114225
+Eolikos,Anagennisi Karditsas,3.25,2.15,3.05,Super League 2,Greece,2024-04-07 16:00:00,56699,7259299,48756699
+Khimki,Arsenal Tula,2.20,3.20,3.10,1. Liga,Russia,2024-04-08 19:30:00,37875,7096461,42692599
+Ursl Vise,Gent Youth,3.30,1.88,3.30,Nationale 1,Belgium,2024-04-07 16:00:00,58953,7266213,42003787
+Haro,Casalarreina CF,2.45,2.65,3.15,Tercera Federacion Group 16,Spain Amateur,2024-04-07 18:00:00,77105,7269346,42953875
+Vaasa,Seinajoen,2.60,2.60,3.30,Veikkausliiga,Finland,2024-04-12 19:00:00,14229,7269753,47114229
+Spal,Gubbio,2.29,3.20,2.85,Serie C Group B,Italy,2024-04-07 19:30:00,20969,7006563,42820969
+Colchester,Stockport,3.85,1.86,3.55,League Two,England,2024-04-09 21:45:00,317,7118355,48416711
+Ciudad de Murcia,Murcia B,4.10,1.82,3.25,Tercera Federacion Group 13,Spain Amateur,2024-04-07 18:00:00,98709,7269366,42950991
+Inter Turku,Oulu,1.74,4.00,3.85,Veikkausliiga,Finland,2024-04-12 20:00:00,14231,7269771,47114231
+UD Ourense,Betanzos CF,1.75,4.60,3.20,Tercera Federacion Group 1,Spain Amateur,2024-04-07 18:00:00,12983,7269370,42942335
+York,Woking,2.43,2.60,3.25,National League,England,2024-04-13 17:00:00,37211,7269759,42137211
+Stade D`abidjan,Gagnoa,1.92,3.70,3.15,Ligue 1,Ivory Coast,2024-04-07 18:30:00,38127,7270052,49196473
+Nazilli Bld,Belediye Vanspor,4.40,1.58,3.60,2. Lig,Turkiye Amateur,2024-04-07 15:00:00,50585,7095805,42550585
+JK Narva Trans,Kalju U21,1.61,3.60,4.20,Esiliiga B,Estonia,2024-04-07 12:30:00,34861,7269057,47098615
+Castro FC,Laredo,2.55,2.60,3.10,Tercera Federacion Group 3,Spain Amateur,2024-04-07 18:00:00,34679,7269372,42943979
+Mariehamn,Kuopio,4.50,1.72,3.60,Veikkausliiga,Finland,2024-04-13 17:00:00,14235,7269769,47114235
+Varzim,Lusitania,2.80,2.50,3.00,Liga Portugal 3,Portugal,2024-04-07 19:00:00,86195,7239594,47486233
+Inegol Kafkas Genclikspor,Artvin Hopaspor,1.98,3.25,3.05,3. Lig Group 1,Turkiye Amateur,2024-04-07 15:00:00,56625,7268667,42556625
+FCI Levadia Tallinn,Harju JK Laagri,3.75,1.74,3.85,Esiliiga,Estonia,2024-04-07 12:30:00,34855,7269060,47099095
+Rijeka,Hajduk Split,1.81,4.20,3.50,HNL,Croatia,2024-04-07 20:30:00,36969,7111831,41736969
+Antofagasta,San Felipe,1.79,4.00,3.50,Primera B,Chile,2024-04-07 19:30:00,91797,6955812,47491797
+Giouchtas,Olympiacos Piraeus B,3.45,2.03,3.15,Super League 2,Greece,2024-04-07 16:00:00,22823,7258669,48756827
+Casa Pia,ESTORIL,2.45,3.05,3.00,Liga Portugal,Portugal,2024-04-08 22:15:00,98663,7243445,42146679
+KF Llapi,KF Drita,2.75,2.28,3.35,Superliga,Kosovo,2024-04-07 16:00:00,54019,7268370,49103727
+Doncaster,Accrington,2.03,3.35,3.45,League Two,England,2024-04-13 17:00:00,89821,7269043,41891027
+Shamrock Rovers,Sligo Rovers,1.47,6.20,4.20,Premier Division,Ireland,2024-04-12 22:00:00,47845,6801076,46547845
+Rec. de Huelva,Atletico Baleares,1.51,6.00,3.70,Primera Federacion,Spain,2024-04-07 13:00:00,31217,7250750,42431217
+Cruzeiro MG,Atletico MG,2.95,2.22,2.85,Mineiro,Brazil,2024-04-07 21:30:00,97631,7191395,48897631
+Harrogate,Sutton,2.42,2.65,3.45,League Two,England,2024-04-13 17:00:00,37627,7269045,41891031
+Wealdstone,Chesterfield,3.25,1.93,3.65,National League,England,2024-04-13 17:00:00,37207,7269777,42137207
+CHAVES,PORTIMONENSE,2.16,3.30,3.30,Liga Portugal,Portugal,2024-04-07 17:30:00,69547,7242485,42146675
+Sint-Eloois-W.,Heist,2.37,2.60,3.00,Nationale 1,Belgium,2024-04-07 16:00:00,3791,7266219,42003791
+MK Dons,Mansfield,2.55,2.55,3.45,League Two,England,2024-04-13 17:00:00,67887,7269047,41891033
+Aldershot,Boreham,1.82,3.55,3.65,National League,England,2024-04-13 19:30:00,33873,7239806,42137169
+Alianza,Firpo,1.97,3.45,3.30,Primera Division Clausura,El Salvador,2024-04-07 04:00:00,49255,7258144,46849255
+Azuero FC,San Miguelito,1.82,3.55,3.25,Liga Panamena de Futbol Apertura,Panama,2024-04-08 02:15:00,66997,7263861,46908071
+Ennepetal,09 Dortmund,5.20,1.39,4.30,Oberliga Westfalen,Germany Amateur,2024-04-07 16:30:00,10397,7266215,42297143
+Municipal Lim,Aguila,2.60,2.48,3.15,Primera Division Clausura,El Salvador,2024-04-07 04:00:00,89507,7258141,46849251
+Schermbeck,FC Brunninghausen,1.44,4.60,4.30,Oberliga Westfalen,Germany Amateur,2024-04-07 16:30:00,86485,7266217,42297135
+Valmiera,Grobina,1.27,7.80,5.40,Virsliga,Latvia,2024-04-09 17:00:00,6449,7267506,47928635
+MOREIRENSE,Estrela Amadora,2.02,3.75,3.25,Liga Portugal,Portugal,2024-04-07 20:00:00,69255,7242488,42146673
+Sef Torres,US Fermana,1.44,6.40,4.00,Serie C Group B,Italy,2024-04-07 15:00:00,20965,7006564,42820965
+Sol de America,Olimpia Asuncion,3.40,1.99,3.40,Division de Honor Apertura,Paraguay,2024-04-08 00:30:00,3624,7246013,46188069
+Greenville Triumph SC,Northern Colorado Hailstorm FC,2.42,2.75,3.20,USL League One,USA,2024-04-07 02:00:00,275,7262017,48000275
+Nelson Suburbs FC,Coastal Spirit FC,2.14,2.55,4.10,National League,New Zealand,2024-04-07 03:30:00,46939,7267074,48387599
+Fylkir R,KR Reykjavik,2.80,2.19,3.75,Besta deild,Iceland,2024-04-07 22:15:00,73221,6787856,46473221
+Sevilla Atletico,San Roque,1.87,4.00,3.15,Segunda Federacion,Spain,2024-04-07 12:30:00,81409,7255204,42481409
+2 de Mayo,Sportivo Luqueno,2.55,2.60,3.20,Division de Honor Apertura,Paraguay,2024-04-08 03:00:00,88065,7246023,46188065
+Coatepeque,Deportivo Achuapa,2.70,2.55,2.95,Liga Nacional. Clausura,Guatemala,2024-04-08 00:00:00,28019,7258680,47628019
+Vilaverdense,Mafra,2.70,2.50,3.25,Liga Portugal 2,Portugal,2024-04-07 13:00:00,90201,7179992,42147461
+Ayr,Greenock Morton,2.65,2.36,3.45,Championship,Scotland,2024-04-09 21:45:00,44717,7130675,48458085
+Torreense,MARITIMO,3.35,2.11,3.30,Liga Portugal 2,Portugal,2024-04-07 17:30:00,57829,7179995,42147457
+Flekkeroy,Lysekloster,2.40,2.40,3.75,2nd Division Group 1,Norway,2024-04-07 17:00:00,14521,6877950,47114521
+Oliveirense,Benfica B,2.90,2.31,3.35,Liga Portugal 2,Portugal,2024-04-07 20:00:00,90197,7180003,42147465
+Academico de Viseu,Porto B,2.38,2.80,3.30,Liga Portugal 2,Portugal,2024-04-08 20:00:00,57845,7179993,42147459
+Charlestown City Blues,Weston,1.82,3.40,4.10,Northern NSW NPL,Australia,2024-04-07 07:30:00,89611,7251415,47097689
+Imperial,Antigua,2.14,3.20,3.20,Liga Nacional. Clausura,Guatemala,2024-04-07 00:00:00,28013,7258172,47628013
+Baracaldo,Izarra,1.32,9.60,4.20,Segunda Federacion,Spain,2024-04-07 19:00:00,52163,7266668,42480151
+Derince,Kastamonuspor,3.70,1.87,3.00,2. Lig,Turkiye Amateur,2024-04-07 15:00:00,89659,7270070,42551783
+Comunicaciones,Deportivo Mixco,1.67,4.80,3.55,Liga Nacional. Clausura,Guatemala,2024-04-07 03:00:00,28015,7258171,47628015
+Mirandela,Portosantense,2.19,3.10,3.10,Campeonato de Portugal,Portugal,2024-04-07 17:00:00,78355,7267541,42798653
+Daegu FC SRL,FC Seoul SRL,2.41,2.65,3.15,K-League 1 SRL,Simulated Reality League,2024-04-07 05:30:00,57751,7269066,49100837
+Raith Rovers,Airdrieonians,1.92,3.55,3.50,Championship,Scotland,2024-04-09 21:45:00,22125,7017042,47822125
+At. Votuporanguense,Marilia SP,2.45,2.85,3.20,Paulista Serie A3,Brazil,2024-04-07 00:00:00,92387,7211501,48992387
+Catanduva U23,Desportivo Brasil,1.87,4.30,3.30,Paulista Serie A3,Brazil,2024-04-07 01:00:00,92389,7211499,48992389
+Kozani,Kampaniakos,1.81,4.50,3.05,Super League 2,Greece,2024-04-07 16:00:00,55527,7267572,48755527
+Dacia-2,FC Balti,3.20,1.94,3.70,Super Liga,Moldova,2024-04-07 16:00:00,99307,7268705,47116079
+Daejeon Citizen FC (Srl),Pohang Steelers SRL,2.75,2.31,3.15,K-League 1 SRL,Simulated Reality League,2024-04-07 05:30:00,80959,7269062,49100843
+Karela United FC,Heart of Lions,1.75,4.60,2.70,Premier League,Ghana,2024-04-07 18:00:00,22845,7269416,42722845
+Jong KRC Genk,Sl16 Football Campus,1.58,4.70,4.30,Challenger Pro League,Belgium,2024-04-07 14:30:00,20353,7239385,41894623
+Jeonbuk Hyundai Motors SRL,Gangwon FC SRL,1.77,4.10,3.35,K-League 1 SRL,Simulated Reality League,2024-04-07 05:30:00,56977,7269064,49100839
+Elva,Paide Linnameeskond,1.53,4.60,4.40,Esiliiga,Estonia,2024-04-07 12:30:00,10029,7268642,47099099
+Bravo Ljubljana,Domzale,1.75,4.20,3.55,PrvaLiga,Slovenia,2024-04-07 16:00:00,83876,7078013,41907865
+Lokomotive Leipzig,Berlin,2.16,2.70,3.25,Regionalliga Northeast,Germany Amateur,2024-04-07 14:00:00,21223,7250487,42166321
+Barcelona B,CD Arenteiro,1.66,4.80,3.45,Primera Federacion,Spain,2024-04-07 20:00:00,82583,7252036,42430653
+Alianza FC,CDP Junior FC,1.26,11.00,4.70,Liga Femenina,Colombia,2024-04-07 00:00:00,94485,7266671,47738971
+Paderborn,Karlsruhe,2.22,2.75,3.75,2. Bundesliga,Germany,2024-04-13 14:00:00,24351,7081503,42024351
+OOSTENDE,Beerschot Wilrijk,3.75,1.86,3.65,Challenger Pro League,Belgium,2024-04-07 17:00:00,30645,7239383,41894619
+SW Queensland,Broadbeach,2.02,3.00,3.70,Queensland Premier League 1,Australia,2024-04-07 07:30:00,47491,7260110,47771835
+Pioneros de Cancun,Tampico Madero,5.40,1.52,4.10,Liga Premier Serie A,Mexico,2024-04-07 01:00:00,44383,7264973,42644383
+Stade Rennais FC,BORDEAUX U19,1.56,4.70,4.10,Championnat National U19,France,2024-04-07 12:00:00,32203,7265862,42532203
+Managua FC,Sebaco,1.63,4.90,3.85,Primera Division,Nicaragua,2024-04-07 02:00:00,12115,7267107,49140259
+Umecit,Tauro,3.45,2.15,2.90,Liga Panamena de Futbol Apertura,Panama,2024-04-07 04:30:00,8067,7258776,46908067
+AJ Auxerre,RC Strasbourg Alsace,1.81,3.70,3.60,Championnat National U19,France,2024-04-07 12:00:00,32247,7265864,42532247
+NYC FC,Atlanta United FC,2.00,3.50,3.55,MLS,USA,2024-04-07 02:30:00,64589,6776507,46364589
+Toulouse FC,Rodez Aveyron,3.15,1.94,3.70,Championnat National U19,France,2024-04-07 12:00:00,32225,7265874,42532225
+Western United FC,NEWCASTLE JETS (W),1.66,3.80,3.90,A-League Women,Australia,2024-04-13 11:30:00,54767,7267574,49098359
+La Palma CF,Cordoba B,2.29,2.95,3.10,Tercera Federacion Group 10,Spain Amateur,2024-04-07 20:00:00,5817,7269823,42948551
+FC 93 Bobigny BG,Clermont Foot,2.08,3.00,3.50,Championnat National U19,France,2024-04-07 14:00:00,32229,7265868,42532229
+Melhus,Lillestrom 2,2.42,2.14,3.85,3rd Division Group 4,Norway,2024-04-07 14:00:00,99317,6912945,47299317
+Buchholz,Union Tornesch,1.37,4.90,4.80,Oberliga Hamburg,Germany Amateur,2024-04-07 15:00:00,73999,7265866,42073999
+F. Viljor,FBK Karlstad,2.80,2.18,3.65,Ettan Norra,Sweden,2024-04-07 14:00:00,17479,6878850,47117479
+Peterhead,Forfar,1.93,3.65,3.25,League 2,Scotland,2024-04-13 17:00:00,25887,7269441,42025887
+Rugenbergen,Wandsbeker TSV Concordia 1881,2.75,1.90,4.00,Oberliga Hamburg,Germany Amateur,2024-04-07 15:00:00,73997,7265880,42073997
+BAYER 04 LEVERKUSEN U19,SCHALKE 04 U19,2.14,2.65,3.35,A-Junioren-Bundesliga West,Germany Amateur,2024-04-07 12:00:00,58741,7266250,42258741
+Pevidem SC,Camacha,1.68,4.60,3.50,Campeonato de Portugal,Portugal,2024-04-07 17:00:00,69855,7267119,42798661
+Primorje,Krka,1.52,4.80,3.65,2. Liga,Slovenia,2024-04-07 17:00:00,66885,7268393,41908345
+East Fife,B. Rose,1.93,3.55,3.35,League 2,Scotland,2024-04-13 17:00:00,25885,7269426,42025885
+Santana,Sao Paulo FC AP,1.96,2.95,4.10,Amapaense,Brazil,2024-04-07 02:00:00,65075,7264982,48865075
+US Orleans,Bourg-en-Bresse Péronnas 01,2.02,3.35,3.25,Championnat National U19,France,2024-04-07 16:00:00,32221,7265876,42532221
+FC Viktoria Cologne,COLOGNE U19,2.14,2.65,3.40,A-Junioren-Bundesliga West,Germany Amateur,2024-04-07 12:00:00,58725,7266252,42258725
+St George Willawong,Caboolture,1.56,4.40,4.40,Queensland Premier League 1,Australia,2024-04-07 10:30:00,32321,7260111,47771837
+Stenhousemuir,Elgin City,1.45,5.60,4.30,League 2,Scotland,2024-04-13 17:00:00,25889,7269429,42025889
+FC Nantes,ANGERS U19,1.88,3.30,3.75,Championnat National U19,France,2024-04-07 16:00:00,21083,7265848,42532219
+KARLSRUHER SC U19,SV Sandhausen,1.72,3.60,3.60,A-Junioren-Bundesliga S/S-W,Germany Amateur,2024-04-07 13:00:00,58917,7266247,42258917
+Spartans,Stranraer,1.85,3.80,3.35,League 2,Scotland,2024-04-13 17:00:00,25891,7269434,42025891
+AFC Humpolec,Zdirec,2.29,2.30,3.70,Divize D,Czech Republic,2024-04-07 16:00:00,45439,7263901,46475799
+Estac Troyes,AS Pagny Sur Moselle,1.74,3.80,3.80,Championnat National U19,France,2024-04-07 16:00:00,32239,7265852,42532239
+Maghrib Tetouan,Salmi,1.98,3.85,2.95,Coupe du Trone,Morocco,2024-04-08 01:00:00,29195,7241668,49129195
+Dumbarton,Clyde,1.59,5.00,3.65,League 2,Scotland,2024-04-13 17:00:00,25883,7269436,42025883
+Kauno Zalgiris,Panevezys,2.29,3.15,3.10,A Lyga,Lithuania,2024-04-07 18:25:00,15285,7014220,47815285
+Pelhimov,Havlickuv Brod,2.70,2.03,3.60,Divize D,Czech Republic,2024-04-07 16:30:00,75795,7263905,46475795
+Paris FC,FC Metz,2.08,3.00,3.50,Championnat National U19,France,2024-04-07 16:00:00,32257,7265854,42532257
+Stara Rise,S. Tasovice,3.30,1.74,3.85,Divize D,Czech Republic,2024-04-07 16:30:00,75803,7263908,46475803
+Ol. Lyon U19,Sochaux-Montbeliard,1.52,4.90,4.20,Championnat National U19,France,2024-04-07 16:00:00,32213,7265870,42532213
+Kusadasispor,Erbaaspor,2.60,2.26,3.20,3. Lig Group 3,Turkiye Amateur,2024-04-07 15:00:00,25295,7268709,42557841
+Greenock Morton,Dundee United,3.30,2.01,3.45,Championship,Scotland,2024-04-12 21:45:00,21271,7268263,49257007
+Arnavutkoy Belediyesi Genclik Ve Spor,Etimesgut Bel.,1.54,4.80,3.50,2. Lig,Turkiye Amateur,2024-04-07 15:00:00,38667,7268717,42551781
+Lok Sofia,Beroe,2.33,3.05,3.00,Parva Liga,Bulgaria,2024-04-09 18:30:00,30973,7146863,42568381
+1860 Munich,GREUTHER FURTH U19,1.79,3.35,3.50,A-Junioren-Bundesliga S/S-W,Germany Amateur,2024-04-07 14:00:00,58921,7266262,42258921
+Marinhense,CD Gouveia,1.29,8.00,4.90,Campeonato de Portugal,Portugal,2024-04-07 18:00:00,65901,7267131,42799847
+EINTRACHT FRANKFURT U19,STUTTGART U19,2.70,2.13,3.35,A-Junioren-Bundesliga S/S-W,Germany Amateur,2024-04-07 14:00:00,58913,7266259,42258913
+Tiszakecske Vse,Mosonmagyarovar,1.79,3.45,3.45,NB II,Hungary,2024-04-07 18:00:00,69573,7245340,42069573
+UA Zacatecas,CF Orgullo Reynosa,1.92,3.85,3.25,Liga Premier Serie A,Mexico,2024-04-07 02:00:00,54415,7267577,42644335
+UD Santarem,Vitoria Sernache,1.47,5.60,4.10,Campeonato de Portugal,Portugal,2024-04-07 18:00:00,99855,7267134,42799855
+Velez CF,Mar Menor Club,8.20,1.36,4.10,Segunda Federacion,Spain,2024-04-07 13:00:00,81411,7258815,42481411
+Ankaragucu,Gazisehir Gaziantep,2.03,3.65,3.20,Super Lig,Turkiye,2024-04-13 16:00:00,25589,7134265,42416147
+Guimaraes B,Paredes,2.29,2.90,3.15,Campeonato de Portugal,Portugal,2024-04-07 18:00:00,79685,7269106,42799853
+ARMINIA BIELEFELD U19,FORTUNA DUSSELDORF U19,2.70,2.13,3.35,A-Junioren-Bundesliga West,Germany Amateur,2024-04-07 12:00:00,58737,7266272,42258737
+Inter Miami CF,Colorado,1.79,3.95,3.85,MLS,USA,2024-04-07 02:30:00,64587,6776504,46364587
+Europa,CE Manresa,1.48,6.60,3.65,Segunda Federacion,Spain,2024-04-07 13:00:00,20597,7257669,42480805
+FK Pribram B,FK Komarov,1.66,3.85,4.20,Divize A,Czech Republic,2024-04-07 11:00:00,58845,7262708,46458845
+AS MONACO FC U19,AS Saint-Etienne,2.22,2.75,3.45,Championnat National U19,France,2024-04-07 11:30:00,32241,7265887,42532241
+Fortuna Koln II,Sve Hohkeppel,5.00,1.41,4.30,Oberliga Mittelrhein,Germany Amateur,2024-04-07 16:30:00,80185,7266279,42380185
+Capalaba,Lightning,3.25,1.79,3.65,Queensland Premier League 1,Australia,2024-04-07 11:15:00,16849,7261643,47771839
+Fram R,IF Vestri,1.75,3.85,4.00,Besta deild,Iceland,2024-04-07 16:00:00,73215,6787855,46473215
+FK Chlumec Nad Cidlinou,FK Pardubice B,1.74,3.70,3.95,CFL,Czech Republic,2024-04-07 11:15:00,78609,7254157,46678609
+EA Guingamp,LB Chateauroux,2.00,3.10,3.60,Championnat National U19,France,2024-04-07 12:00:00,32227,7265885,42532227
+IF Fuglafjordur,Vikingur Gota,19.00,1.04,8.20,Premier League,Faroe Islands,2024-04-07 17:00:00,19271,7266275,47319271
+FC Volendam Srl,RKC Waalwijk SRL,3.40,1.87,3.55,Eredivisie SRL,Simulated Reality League,2024-04-07 10:00:00,7842,7270144,49099313
+Wollongong,Leichhardt,3.75,1.83,3.60,NSW NPL 1,Australia,2024-04-07 08:00:00,28273,6849253,46928273
+Parkway,Swindon Supermarine,2.07,2.85,3.80,Southern League Premier South,England Amateur,2024-04-07 16:00:00,77973,7250542,42373261
+R. Aviles,Marino Luanco,1.87,4.70,2.85,Segunda Federacion,Spain,2024-04-07 19:00:00,79629,7254166,42479629
+Rmsk Cidlina,Tj Spoje Praha,2.25,2.44,3.50,Divize C,Czech Republic,2024-04-07 17:30:00,61849,7263386,46461849
+FC Zbrojovka Brno B,SK Lisen B,1.41,5.00,4.30,Divize D,Czech Republic,2024-04-07 11:15:00,75805,7263926,46475805
+Lupo-Martini,Egestorf/Langreder,1.90,3.20,3.30,Oberliga Niedersachsen,Germany Amateur,2024-04-07 15:00:00,67611,7265889,42167611
+GO Ahead Eagles Srl,Almere City FC Srl,1.60,4.70,3.70,Eredivisie SRL,Simulated Reality League,2024-04-07 10:00:00,52279,7270146,49099303
+Botev Vratsa,FC Krumovgrad,2.90,2.49,3.00,Parva Liga,Bulgaria,2024-04-08 17:00:00,68255,7146192,42568255
+Z. N. Sazavou,Polna,1.67,3.65,3.75,Divize D,Czech Republic,2024-04-07 16:30:00,75793,7263923,46475793
+Merignac SA,Vertou Ussa,2.00,3.10,3.55,Championnat National U19,France,2024-04-07 16:00:00,32243,7265882,42532243
+Feyenoord Rotterdam SRL,Ajax Amsterdam SRL,1.37,6.20,4.50,Eredivisie SRL,Simulated Reality League,2024-04-07 10:00:00,94371,7270136,49099301
+Manly,W. Sydney Wanderers,3.25,1.93,3.75,NSW NPL 1,Australia,2024-04-07 10:00:00,28275,6849252,46928275
+Univ de Vinto,Always Ready,2.01,3.40,3.30,Division Profesional,Bolivia,2024-04-07 01:00:00,28845,7257684,49128845
+Leones Negros,Tepatitlan FC,1.34,7.40,4.60,Liga de Expansion MX Clausura,Mexico,2024-04-11 06:05:00,11965,7263920,46511965
+Uniao FCI Tomar,Rabo de Peixe,3.50,1.95,3.30,Campeonato de Portugal,Portugal,2024-04-07 18:00:00,99859,7267155,42799859
+Sebat Genclik Spor,Bursa Yildirim Spor,1.75,3.70,3.35,3. Lig Group 4,Turkiye Amateur,2024-04-07 15:00:00,70663,7268726,42557809
+Vitesse Arnhem SRL,NEC Nijmegen Srl,2.80,2.19,3.40,Eredivisie SRL,Simulated Reality League,2024-04-07 10:00:00,95251,7270138,49099299
+SE Penya Independent,Llagostera,3.90,1.96,3.00,Segunda Federacion,Spain,2024-04-07 13:00:00,80801,7256711,42480801
+Homburg,Balingen,1.54,4.40,3.85,Regionalliga Southwest,Germany Amateur,2024-04-07 15:00:00,85137,6969571,42236431
+SC Heerenveen SRL,FC Utrecht SRL,2.50,2.43,3.35,Eredivisie SRL,Simulated Reality League,2024-04-07 10:00:00,8517,7270142,49099315
+AFC Hermannstadt,U. Cluj,2.37,3.25,2.95,Superliga,Romania,2024-04-07 14:30:00,37695,7143184,48537695
+Schott Mainz,Stuttgart,5.00,1.43,4.10,Regionalliga Southwest,Germany Amateur,2024-04-07 15:00:00,36441,6969576,42236441
+Leganes B,CDF Tres Cantos,2.04,3.40,3.20,Tercera Federacion Group 7,Spain Amateur,2024-04-07 12:30:00,33161,7269185,42946375
+St. Truiden,Standard Liege,2.18,3.15,3.30,Pro League,Belgium,2024-04-12 21:45:00,45691,7269865,48719551
+Isi Dangkor Senchey FC,Boeung Ket Angkor,2.80,1.87,4.10,Cambodian Premier League,Cambodia,2024-04-07 14:00:00,52293,7270150,42129851
+Vendsyssel,AALBORG,3.10,2.13,3.35,1. Division,Denmark,2024-04-07 16:00:00,44755,7245252,48860059
+Marseille U19,Bastia SC,1.53,4.80,4.20,Championnat National U19,France,2024-04-07 14:00:00,54831,7265894,42532263
+Trival Valderas,Rayo Vallecano B,2.12,3.40,3.00,Tercera Federacion Group 7,Spain Amateur,2024-04-07 12:30:00,66763,7269187,42946383
+Oosterzonen,RSC Anderlecht Futures,2.32,2.65,3.55,Challenger Pro League,Belgium,2024-04-13 17:00:00,13003,7269860,41894635
+Kukesi,Dinamo Tirana,4.10,1.78,3.40,Kategoria Superiore,Albania,2024-04-07 16:00:00,97281,7270148,42721225
+Coruxo,Compostela,2.13,3.45,2.95,Segunda Federacion,Spain,2024-04-07 13:00:00,79617,7254171,42479617
+Parla,Alcobendas,2.03,3.40,3.20,Tercera Federacion Group 7,Spain Amateur,2024-04-07 12:30:00,66689,7269152,42946373
+HELSINGOR,Hillerod,3.90,1.75,3.65,1. Division,Denmark,2024-04-13 19:30:00,3229,7269863,48860119
+Schaffhausen,VADUZ,2.33,2.70,3.35,Challenge League,Switzerland,2024-04-12 21:15:00,77459,6777976,46377459
+CD Calahorra,Barbastro,2.00,4.10,2.80,Segunda Federacion,Spain,2024-04-07 18:00:00,80153,7254184,42480153
+FC Cosmos Koblenz,Karbach,1.81,3.20,3.65,Oberliga Rheinland-Pfalz,Germany Amateur,2024-04-07 15:00:00,35325,7266687,42254661
+CD Subiza,CD Oberena,1.46,6.80,3.75,Tercera Federacion Group 15,Spain Amateur,2024-04-07 12:30:00,21649,7269161,42952215
+Baden,SION,6.80,1.35,4.80,Challenge League,Switzerland,2024-04-13 19:00:00,77461,6777981,46377461
+Kasimpasa,KONYASPOR,2.02,3.35,3.50,Super Lig,Turkiye,2024-04-13 13:30:00,17703,7134266,42416157
+AD Torrejon,CD Mostoles URJC,3.50,2.10,2.95,Tercera Federacion Group 7,Spain Amateur,2024-04-07 12:30:00,71919,7269163,42946369
+Al Faiha,Al-Akhdoud Club,2.34,2.85,3.30,Saudi Pro League,Saudi Arabia,2024-04-07 22:00:00,17145,7067276,42417145
+GV Club Deportivo San Jose de Oruro,Bolivar,2.90,2.10,3.55,Division Profesional,Bolivia,2024-04-07 23:00:00,28857,7257689,49128857
+Zenit Caslav,Letohrad,1.47,4.60,4.20,Divize C,Czech Republic,2024-04-07 17:30:00,61853,7263404,46461853
+TuS Makkabi,Eintracht Mahlsdorf,1.73,3.45,3.70,Oberliga NOFV North,Germany Amateur,2024-04-07 13:00:00,68145,7265565,42168145
+FE Grama,CF Montanyesa,2.03,3.60,3.00,Tercera Federacion Group 5,Spain Amateur,2024-04-07 12:45:00,77919,7269181,42944877
+Naxara,UD Logrones,8.40,1.36,4.10,Segunda Federacion,Spain,2024-04-07 18:00:00,80157,7254202,42480157
+Trutnov,Dobrovice,1.88,3.05,3.60,Divize C,Czech Republic,2024-04-07 17:30:00,61863,7263397,46461863
+Alcala,CF Pozuelo,1.59,5.20,3.60,Tercera Federacion Group 7,Spain Amateur,2024-04-07 13:00:00,38841,7269138,42946371
+Santos,Liberia,3.20,2.16,3.30,Primera Division Clausura,Costa Rica,2024-04-07 02:00:00,73425,6784275,46428535
+Oriente Petrolero,Jorge Wilstermann,1.77,4.10,3.45,Division Profesional,Bolivia,2024-04-07 23:00:00,28851,7257692,49128851
+Benatky Nad Jizerou,TJ Velke Hamry,1.95,2.90,3.55,Divize C,Czech Republic,2024-04-07 17:30:00,30329,7263402,46461861
+Wuppertal,PADERBORN 07 U19,4.50,1.49,4.10,A-Junioren-Bundesliga West,Germany Amateur,2024-04-07 14:00:00,86519,7266292,42258729
+CD Cuarte,CD Binefar,1.61,5.00,3.60,Tercera Federacion Group 17,Spain Amateur,2024-04-07 13:00:00,45645,7269189,42952765
+Velke Mezirici,Tj Sokol Lanzhot,5.60,1.36,4.40,Divize D,Czech Republic,2024-04-07 11:15:00,75807,7263934,46475807
+Gd Peniche,Castelo,3.20,2.09,3.20,Campeonato de Portugal,Portugal,2024-04-07 18:00:00,99863,7267160,42799863
+Varea,CA River Ebro,1.41,7.80,3.80,Tercera Federacion Group 16,Spain Amateur,2024-04-07 13:00:00,81731,7269171,42953877
+Vilnius FK Zalgiris,FA Siauliai,1.74,4.20,3.70,A Lyga,Lithuania,2024-04-07 15:00:00,15283,7014221,47815283
+Sacramento Gold FC,Napa Valley 1839 FC,3.15,1.91,4.00,National Premier Soccer League,USA,2024-04-07 05:00:00,35887,7264247,47981783
+UE Castelldefels,Girona FC B,2.60,2.60,3.05,Tercera Federacion Group 5,Spain Amateur,2024-04-07 13:00:00,38223,7269149,42944885
+Cerdanyola del Valles,Santa Eulalia,2.23,3.10,3.05,Segunda Federacion,Spain,2024-04-07 13:00:00,34445,7260845,42480803
+Hachnohe,Ryukyu,2.12,3.20,3.40,J3 League,Japan,2024-04-07 08:00:00,97719,6911710,47297719
+Las Rozas CF,Colonia Moscardo,1.96,3.60,3.25,Tercera Federacion Group 7,Spain Amateur,2024-04-07 13:00:00,73493,7269140,42946381
+Cartagena II,CD Manchego Ciudad Real,3.15,2.23,3.00,Segunda Federacion,Spain,2024-04-07 13:00:00,90831,7260825,42481419
+Socuellamos,Conquense,2.27,3.05,3.00,Tercera Federacion Group 18,Spain Amateur,2024-04-07 13:00:00,35513,7269123,42953259
+CD Utrillas,CD Caspe,2.65,2.40,3.25,Tercera Federacion Group 17,Spain Amateur,2024-04-07 18:30:00,7523,7269469,42952779
+Nagacorp,Defense Ministry,2.17,2.47,3.65,Cambodian Premier League,Cambodia,2024-04-07 14:00:00,21087,7270155,42129855
+Sertanense,Gd Fontinhas,1.91,3.75,3.25,Campeonato de Portugal,Portugal,2024-04-07 18:00:00,37979,7267164,42799867
+Atl Mancha,Jaen,3.95,1.83,3.35,Tercera Federacion Group 9,Spain Amateur,2024-04-07 13:00:00,51105,7269173,42947951
+Puente Genil FC,Cabecense,1.55,6.20,3.40,Tercera Federacion Group 10,Spain Amateur,2024-04-07 18:30:00,85653,7269465,42948569
+Teuta Durres,Laci,2.37,3.00,2.95,Kategoria Superiore,Albania,2024-04-07 19:00:00,10789,7270157,42721219
+Orihuela,CD Estepona,2.85,2.75,2.60,Segunda Federacion,Spain,2024-04-07 19:00:00,56779,7256405,42481417
+Atletico Fenix,Sportivo,2.15,3.55,2.85,Primera B,Argentina,2024-04-09 21:30:00,27147,7259940,46927147
+Al-Hala,Al Hidd,3.50,1.96,3.40,Premier League,Bahrain,2024-04-07 21:45:00,94477,7267173,49194477
+AE Prat,Vilassar de Mar,2.50,2.80,2.90,Tercera Federacion Group 5,Spain Amateur,2024-04-07 13:00:00,46819,7269154,42944901
+Trabzonspor,Sivasspor,1.59,5.20,3.85,Super Lig,Turkiye,2024-04-12 20:00:00,82259,7211258,42416155
+Altglienicke,Zwickau,1.40,5.20,4.20,Regionalliga Northeast,Germany Amateur,2024-04-07 14:00:00,66929,7250878,42166325
+CD Castellon B,AC Torrellano,2.14,2.95,3.45,Tercera Federacion Group 6,Spain Amateur,2024-04-07 13:00:00,20567,7269142,42945501
+P. Tirana,Vllaznia,2.36,2.90,3.00,Kategoria Superiore,Albania,2024-04-07 21:00:00,52509,7270152,42721221
+Fredericia,SILKEBORG,3.70,1.74,4.20,DBU Pokalen,Denmark,2024-04-11 19:00:00,83951,7105385,46083951
+Sant Andreu,Esp. Barcelona B,1.86,3.95,3.20,Segunda Federacion,Spain,2024-04-07 19:00:00,80797,7256754,42480797
+FC PBS Velka Bites,TJ Dalnice Sperice,1.42,5.00,4.20,Divize D,Czech Republic,2024-04-07 16:30:00,75801,7263940,46475801
+Condal Club,Luarca CF,2.23,2.90,3.30,Tercera Federacion Group 2,Spain Amateur,2024-04-07 13:00:00,52271,7269126,42943003
+Pena Balsamaiso CF,Cdfc La Calzada,2.65,2.65,2.90,Tercera Federacion Group 16,Spain Amateur,2024-04-07 13:00:00,83813,7269175,42953883
+Bandirmaspor,Manisa Buyuksehir,1.58,5.20,3.95,1. Lig,Turkiye,2024-04-07 13:30:00,77989,7211445,42438905
+Real Titanico FC,Caudal,2.05,3.65,2.95,Tercera Federacion Group 2,Spain Amateur,2024-04-07 13:00:00,38321,7269156,42942995
+MFC Metalurh Zaporizhya,Nyva,21.00,1.08,8.40,Persha Liga,Ukraine,2024-04-07 13:30:00,67445,7267637,46527757
+Juv. Torremolinos,Arenas Armilla CD,1.42,7.40,3.85,Tercera Federacion Group 9,Spain Amateur,2024-04-07 13:00:00,20251,7269143,42947971
+Club Polideportivo Almeria,Huetor Vega,2.95,2.40,2.90,Tercera Federacion Group 9,Spain Amateur,2024-04-07 13:00:00,85651,7269132,42947963
+Eyupspor,Altay,1.02,45.00,13.00,1. Lig,Turkiye,2024-04-07 16:00:00,38647,7096437,42438903
+AD Union Adarve,Navalcarnero,1.97,4.00,2.90,Segunda Federacion,Spain,2024-04-07 13:00:00,15569,7254258,42482085
+BORUSSIA DORTMUND U19,BOCHUM U19,1.19,8.20,5.60,A-Junioren-Bundesliga West,Germany Amateur,2024-04-07 12:00:00,30343,7266700,42258745
+Racing Rioja CF,CD Calahorra B,3.35,2.03,3.25,Tercera Federacion Group 16,Spain Amateur,2024-04-07 13:00:00,44331,7269177,42953879
+FK Transinvest,FK Suduva,1.93,3.75,3.40,A Lyga,Lithuania,2024-04-07 13:00:00,15281,7014218,47815281
+Drogheda United,Derry City,4.60,1.68,3.75,Premier Division,Ireland,2024-04-12 21:45:00,47837,6801072,46547837
+Erlbach,Turkspor Augsburg,1.50,5.00,3.60,Bayernliga South,Germany Amateur,2024-04-07 16:00:00,39219,7266699,41917775
+Calamonte,CD Diocesano,2.40,2.65,3.25,Tercera Federacion Group 14,Spain Amateur,2024-04-07 13:00:00,54837,7269165,42951361
+Olimp. Ljubljana,Radomlje,1.35,7.00,4.60,PrvaLiga,Slovenia,2024-04-10 19:45:00,85589,7078011,41907873
+FC Buderich 02,SC St Tonis 11/20,1.83,3.25,3.55,Oberliga Niederrhein,Germany Amateur,2024-04-07 16:30:00,61073,7266704,42279699
+Mortagua,Clube Uniao 1919,2.04,3.40,3.15,Campeonato de Portugal,Portugal,2024-04-07 18:00:00,99871,7267187,42799871
+Viveiro CF,UD Barbadas,2.27,3.05,3.00,Tercera Federacion Group 1,Spain Amateur,2024-04-07 13:00:00,2471,7269146,42942343
+FC Koper,Aluminij K,1.55,5.00,3.85,PrvaLiga,Slovenia,2024-04-11 17:45:00,20769,7078009,41907875
+Cruz Azul,Monterrey,2.08,3.35,3.45,Liga MX Clausura,Mexico,2024-04-07 06:05:00,45567,6774197,46345567
+HEBC Hamburg,Dassendorf,4.80,1.42,4.40,Oberliga Hamburg,Germany Amateur,2024-04-07 11:45:00,95587,7265585,42073913
+Neustrelitz,SC Staaken,1.56,3.95,4.10,Oberliga NOFV North,Germany Amateur,2024-04-07 14:30:00,68119,7265942,42168119
+Ribeirao,Limianos,6.20,1.46,3.90,Campeonato de Portugal,Portugal,2024-04-07 17:00:00,61077,7266703,42798663
+Husqvarna,Astrio,2.43,2.42,3.65,Division 2 Vastra Gotaland,Sweden,2024-04-07 15:00:00,72369,6968983,47572369
+CP San Cristobal,Vilafranca,2.03,3.50,3.10,Tercera Federacion Group 5,Spain Amateur,2024-04-07 13:00:00,38829,7269136,42944879
+Neuchatel Xamax,AARAU,2.02,3.15,3.50,Challenge League,Switzerland,2024-04-12 20:30:00,77463,6777980,46377463
+Santos Laguna,America,4.30,1.75,3.75,Liga MX Clausura,Mexico,2024-04-07 06:05:00,93957,7237346,46345569
+La Union,Yeclano,3.15,2.41,2.75,Segunda Federacion,Spain,2024-04-07 12:30:00,17895,7265586,42481423
+Lichtenberg,Sparta Lichtenberg,1.43,4.80,4.40,Oberliga NOFV North,Germany Amateur,2024-04-07 15:00:00,68123,7265939,42168123
+L'Hospitalet,UE Tona,1.59,5.20,3.60,Tercera Federacion Group 5,Spain Amateur,2024-04-07 13:00:00,86489,7269179,42944889
+TONDELA,Penafiel,1.89,3.90,3.25,Liga Portugal 2,Portugal,2024-04-13 17:30:00,61841,7180012,42147483
+Tukums 2000,Metta,2.18,2.85,3.60,Virsliga,Latvia,2024-04-08 17:00:00,28631,7033494,47928631
+FC Einheit Wernigerode,SV Grimma,1.63,3.60,4.00,Oberliga NOFV South,Germany Amateur,2024-04-07 15:00:00,68585,7265944,42168585
+O Elvas Cad,V. Setubal,4.10,1.87,3.10,Campeonato de Portugal,Portugal,2024-04-07 18:00:00,99815,7267198,42799815
+Bergdalens IK,Varbergs GIF FK,2.80,2.10,3.80,Division 2 Vastra Gotaland,Sweden,2024-04-07 17:00:00,72371,6968982,47572371
+Llosetense,CD Ibiza Islas Pitiusas,3.50,1.96,3.30,Tercera Federacion Group 11,Spain Amateur,2024-04-07 13:00:00,68873,7269167,42949279
+Volos Nps,Atromitos Athens,2.16,3.40,3.00,Super League,Greece,2024-04-13 17:30:00,2479,7269887,48368865
+Lugo,Soc. Dep. Tarazona,1.88,4.20,3.05,Primera Federacion,Spain,2024-04-07 17:00:00,30633,7250590,42430633
+Guadalajara,Numancia,2.33,2.75,3.30,Segunda Federacion,Spain,2024-04-07 18:00:00,11951,7263471,42482087
+Shelbourne D.,Bohemians D.,1.99,3.85,3.15,Premier Division,Ireland,2024-04-12 21:45:00,47841,6801075,46547841
+Budissa,Sandersdorf,2.75,2.08,3.35,Oberliga NOFV South,Germany Amateur,2024-04-07 15:00:00,68579,7265933,42168579
+Juventude Evora,Moncarapachense,2.31,2.90,3.10,Campeonato de Portugal,Portugal,2024-04-07 18:00:00,99809,7267195,42799809
+Tenerife B,CD Santa Ursula,1.69,4.90,3.30,Tercera Federacion Group 12,Spain Amateur,2024-04-07 13:00:00,38211,7269148,42950037
+Vysne Opatske,Skalica,2.26,3.05,3.05,Superliga,Slovakia,2024-04-13 19:00:00,81685,7099270,48281685
+Deportivo La Coruna,Unionistas CF,1.42,7.20,3.95,Primera Federacion,Spain,2024-04-07 18:00:00,30629,7250602,42430629
+SV Todesfelde,TSB Flensburg,1.39,5.40,4.20,Schleswig-Holstein-Liga,Germany Amateur,2024-04-07 15:00:00,42434,7265936,44242434
+SD Ponferradina B,CD Becerril,3.25,2.10,3.15,Tercera Federacion Group 8,Spain Amateur,2024-04-07 13:30:00,8347,7269127,42947175
+THUN,Bellinzona,1.52,5.20,4.00,Challenge League,Switzerland,2024-04-13 19:00:00,77455,6777978,46377455
+SD Logrones,Leonesa,4.30,1.84,3.10,Primera Federacion,Spain,2024-04-07 19:00:00,30661,7250595,42430661
+Großaspach,Oberachern,1.26,7.00,4.90,Oberliga BW,Germany Amateur,2024-04-07 15:00:00,32975,7250317,42189061
+Bollullos CF,AD Ceuta FC B,3.05,2.32,2.90,Tercera Federacion Group 10,Spain Amateur,2024-04-07 17:00:00,93533,7269193,42948573
+Trencin,Zlate Moravce,1.27,8.60,5.20,Superliga,Slovakia,2024-04-13 19:00:00,81683,7099267,48281683
+Union Comercio,Cesar Vallejo,3.10,2.23,3.40,Liga 1,Peru,2024-04-06 23:30:00,47735,7209184,48979329
+Liptovsky Mikulas,1914 Samorin,1.96,2.95,3.40,2. Liga,Slovakia,2024-04-07 12:00:00,61941,7268035,42161941
+Silla,CD Utiel,4.10,1.78,3.40,Tercera Federacion Group 6,Spain Amateur,2024-04-07 18:00:00,45483,7269130,42945493
+Banska Bystrica,Zemplin Michalovce,1.62,4.60,3.80,Superliga,Slovakia,2024-04-13 19:00:00,81687,7099268,48281687
+Carlos Mannucci,Alianza Lima,4.50,1.75,3.60,Liga 1,Peru,2024-04-07 01:30:00,65181,7209185,48979319
+Stechovice,Ad. Praha,1.81,3.50,3.85,CFL,Czech Republic,2024-04-07 17:30:00,78363,7253689,46678363
+Wismar,Fuerstenwalde,1.27,6.40,5.00,Oberliga NOFV North,Germany Amateur,2024-04-07 15:00:00,68111,7265961,42168111
+Zemplin Michalovce U19,Vion Zlate Moravce U19,2.90,1.89,3.75,U19 1. Liga,Slovakia,2024-04-07 12:00:00,65389,7268040,42165389
+Badalona,FC L Escala,1.94,3.65,3.20,Tercera Federacion Group 5,Spain Amateur,2024-04-07 18:30:00,10263,7269183,42944883
+Tatran,Petrzalka U19,2.23,2.55,3.35,U19 1. Liga,Slovakia,2024-04-07 12:00:00,40735,7268053,42165387
+El Ejido 2012,CD RINCON,2.27,3.05,3.00,Tercera Federacion Group 9,Spain Amateur,2024-04-07 19:00:00,16921,7269159,42947975
+Asociacion Deportiva Tarma,Deportivo Garcilaso,1.71,4.50,3.65,Liga 1,Peru,2024-04-07 21:00:00,85781,7209187,48979333
+Ajman,Al Wasl,7.00,1.34,5.00,Arabian Gulf League,United Arab Emirates,2024-04-08 21:00:00,66999,7246552,41966999
+AS ROMA U19,Empoli U19,1.52,4.50,3.80,Campionato Primavera 1,Italy,2024-04-07 14:00:00,92357,7268051,42492357
+Prayag Utd,Kenkre FC,1.52,4.60,3.80,I-League 2,India,2024-04-07 12:30:00,13111,7269508,47413111
+Mitchelton Women,Gold Coast Utd Women,3.45,1.77,4.20,Queensland NPL Women,Australia,2024-04-07 10:00:00,90973,7254266,47090973
+Dolny Kubin,Slavoj Trebisov,2.19,2.70,3.20,2. Liga,Slovakia,2024-04-07 16:00:00,61935,7268047,42161935
+Souths United Women,Brisbane City FC,6.20,1.36,5.20,Queensland NPL Women,Australia,2024-04-07 10:00:00,90975,7254272,47090975
+Torslanda,Angelholm,2.11,3.05,3.50,Ettan Sodra,Sweden,2024-04-07 17:00:00,18229,6879173,47118229
+FK Podkonice,Lok. Zvolen,2.80,2.07,3.35,3. Liga West,Slovakia,2024-04-07 17:00:00,20579,7268049,42420579
+Graficar Beograd,Macva,1.75,3.90,3.25,Prva Liga,Serbia,2024-04-07 17:00:00,51085,7268055,42551085
+Botev Plovdiv,CSKA 1948,1.77,4.50,3.40,Parva Liga,Bulgaria,2024-04-07 17:45:00,68383,7146200,42568383
+Richmond,Cv Fuego FC,1.97,3.30,3.60,USL League One,USA,2024-04-07 01:00:00,48737,7263957,48000273
+Cerrito,Cooper,2.19,3.00,3.25,Segunda Division,Uruguay,2024-04-07 02:00:00,78085,7265076,49178085
+Assyriska FF,Vasalunds,4.30,1.64,4.10,Ettan Norra,Sweden,2024-04-07 17:00:00,17483,6878853,47117483
+NSI Runavik,Eb/Streymur,1.74,3.35,3.75,Premier League,Faroe Islands,2024-04-07 17:00:00,19275,7265618,47319275
+Spvg Porz,TUS BW Konigsdorf,2.60,2.12,3.55,Oberliga Mittelrhein,Germany Amateur,2024-04-07 16:00:00,82595,7265683,42380175
+Austin FC,San Jose,2.07,3.35,3.50,MLS,USA,2024-04-07 03:30:00,64593,6776501,46364593
+FC Tallinn,Tallinna Charma,1.71,3.80,4.00,Esiliiga,Estonia,2024-04-07 12:30:00,12207,7268800,47099097
+Chicago Fire,Houston,2.23,3.10,3.35,MLS,USA,2024-04-07 03:30:00,64595,6776505,46364595
+Pafos,Apollon Lim.,1.91,3.50,3.25,Cyprus Cup,Cyprus,2024-04-10 20:00:00,62997,7147685,48562997
+Masachapa FC,Unan Managua,3.10,2.05,3.70,Primera Division,Nicaragua,2024-04-07 05:00:00,71607,7264287,49140257
+Egaleo Athens,Diagoras,1.56,6.00,3.40,Super League 2,Greece,2024-04-08 15:00:00,73881,7267654,48756829
+Sultanbeyli,Nevsehir Belediye Spor,2.20,2.75,3.10,3. Lig Group 4,Turkiye Amateur,2024-04-07 15:00:00,30083,7268777,42557787
+Minnesota United,Salt Lake,2.17,3.10,3.50,MLS,USA,2024-04-07 03:30:00,64597,6776508,46364597
+B36 Torshavn,Vestur Sorvagur,1.67,3.55,3.80,Premier League,Faroe Islands,2024-04-07 16:00:00,19273,7265623,47319273
+Karsiyaka,Efeler 09 Sfk,1.68,3.70,3.60,3. Lig Group 2,Turkiye Amateur,2024-04-07 15:00:00,27161,7268779,42557807
+Encarnada,AC Escaldes,3.90,1.77,3.60,Primera Divisio,Andorra,2024-04-07 19:30:00,56891,7270207,43256891
+Isparta 32 Sporu,Erzincan,1.90,3.35,3.20,2. Lig,Turkiye Amateur,2024-04-07 15:00:00,76045,7268781,42551779
+Clube de Lisboa,Real Sporte,1.92,3.45,3.45,Campeonato de Portugal,Portugal,2024-04-07 18:00:00,92007,7267203,42799821
+Adliyespor,Catalcaspor,2.18,3.10,2.80,3. Lig Group 4,Turkiye Amateur,2024-04-07 15:00:00,82585,7268782,42557791
+Honved,Szeged,2.55,2.60,2.75,NB II,Hungary,2024-04-07 17:00:00,69575,7245301,42069575
+Turgutluspor,Amasyaspor,1.69,3.85,3.50,3. Lig Group 2,Turkiye Amateur,2024-04-07 15:00:00,24601,7268786,42557789
+Bvsc-Zuglo,Ajka,2.75,2.40,2.75,NB II,Hungary,2024-04-07 17:00:00,69565,7245311,42069565
+Gimnastic,Fuenlabrada,1.75,4.60,3.20,Primera Federacion,Spain,2024-04-07 17:00:00,10555,7251466,42430657
+Terrassa,Valencia B,1.96,3.70,3.10,Segunda Federacion,Spain,2024-04-07 18:00:00,80811,7254340,42480811
+Nashville SC,Philadelphia,2.55,2.70,3.20,MLS,USA,2024-04-07 03:30:00,64599,6776500,46364599
+Dundalk,Saint Patrick´s Athletic,3.20,2.23,3.15,Premier Division,Ireland,2024-04-12 21:45:00,47839,6801071,46547839
+Puebla,Cruz Azul,4.30,1.65,4.10,Liga MX Clausura,Mexico,2024-04-13 06:00:00,52503,7266358,46345579
+Felgueiras,Atletico CP,1.53,5.60,3.90,Liga Portugal 3,Portugal,2024-04-07 13:00:00,76193,7239439,47486237
+Saint Louis City SC,Dallas,1.74,4.30,3.75,MLS,USA,2024-04-07 03:30:00,64601,6776510,46364601
+Queretaro,Monarcas Morelia,1.90,3.85,3.40,Liga MX Clausura,Mexico,2024-04-13 04:06:00,45575,6774195,46345575
+Necaxa,Santos Laguna,2.38,2.85,3.20,Liga MX Clausura,Mexico,2024-04-13 06:00:00,45577,6774196,46345577
+P. Pinheiro,Caldas,5.60,1.53,3.90,Liga Portugal 3,Portugal,2024-04-07 17:00:00,90283,7239445,47486567
+Csakvari,Vasas Budapest,3.50,1.81,3.35,NB II,Hungary,2024-04-07 18:00:00,69567,7245328,42069567
+AARHUS,NORDSJAELLAND,2.75,2.23,3.70,DBU Pokalen,Denmark,2024-04-11 21:00:00,83965,7105387,46083965
+Eddersheim,Hanauer SC,2.07,2.70,3.50,Hessenliga,Germany Amateur,2024-04-07 16:00:00,10585,7266722,41946883
+PAS Giannina,Asteras Tripolis,2.32,3.05,3.05,Super League,Greece,2024-04-13 19:30:00,68871,7269901,48368871
+Sporting L. B,Dezembro,1.52,5.40,3.95,Liga Portugal 3,Portugal,2024-04-07 18:00:00,10783,7239448,47486569
+Kansas City,Portland,1.85,3.85,3.70,MLS,USA,2024-04-07 20:45:00,64605,6776506,46364605
+Atletico Goianiense,Vila Nova,1.84,3.90,3.35,Goiano,Brazil,2024-04-07 22:00:00,54067,7229301,49054067
+Kozarmisleny,Kazincbaricika,1.65,4.30,3.30,NB II,Hungary,2024-04-07 18:00:00,69569,7245336,42069569
+FC Anyang,Bucheon,2.05,3.30,3.20,K-League 2,Republic of Korea,2024-04-10 08:00:00,19569,6895527,47219569
+Haladas,Budafoki Mte,1.86,3.30,3.35,NB II,Hungary,2024-04-07 18:00:00,27005,7245338,42069559
+Adana,Kayserispor,1.89,3.65,3.65,Super Lig,Turkiye,2024-04-13 19:00:00,81347,7211186,42416139
+Lubeck II,Bordesholm,1.52,4.10,4.20,Schleswig-Holstein-Liga,Germany Amateur,2024-04-07 17:30:00,84371,7266374,42184371
+Delemont,Bruhl,1.84,3.20,4.10,Promotion League,Switzerland,2024-04-07 15:30:00,7085,7267659,42169917
+Naestved,Koge,1.80,3.90,3.60,1. Division,Denmark,2024-04-07 14:00:00,96725,7242955,48860051
+Daegu,Seoul,2.49,2.75,3.30,K-League 1,Republic of Korea,2024-04-07 08:00:00,92013,6872819,47092013
+Panachaiki,Panathinaikos B,2.12,3.20,3.15,Super League 2,Greece,2024-04-08 16:00:00,19511,7267661,48756831
+Giresunspor,Tuzlaspor,9.20,1.33,4.50,1. Lig,Turkiye,2024-04-08 17:00:00,33509,7096438,42438899
+Tampere United,Vjs,1.68,3.85,4.20,Kakkonen Group B,Finland,2024-04-07 13:00:00,51323,7037922,47951323
+Ilioupoli,Aoc-Kissamikos,5.00,1.63,3.45,Super League 2,Greece,2024-04-08 16:00:00,40829,7267664,48753953
+Goztepespor,E. Buyuksehir,1.46,6.60,4.10,1. Lig,Turkiye,2024-04-08 20:30:00,67203,7096446,42438901
+Niort,FC Goal,1.83,3.95,3.35,National,France,2024-04-12 18:45:00,37103,7247506,42337103
+Slavia Tu Kosice,Novohrad Lucenec,1.66,3.85,3.60,3. Liga East,Slovakia,2024-04-07 12:00:00,2473,7268057,42602473
+Hvidovre,RANDERS,4.50,1.74,3.65,Superliga,Denmark,2024-04-07 15:00:00,42935,7239452,48751083
+Marignane,Red Star,4.70,1.64,3.65,National,France,2024-04-12 20:30:00,37107,7247510,42337107
+Trencin U19,Slovan Bratislava U19,2.29,2.30,3.75,U19 1. Liga,Slovakia,2024-04-07 12:00:00,65391,7268068,42165391
+Gyori ETO,Soroksar,1.43,5.60,3.85,NB II,Hungary,2024-04-07 18:00:00,69561,7245344,42069561
+DIJON,Orleans,2.41,2.75,3.10,National,France,2024-04-12 20:30:00,77451,7264316,42337111
+Umeaa,Orebro Syrianska,1.96,3.25,3.65,Ettan Norra,Sweden,2024-04-07 14:00:00,17481,6878854,47117481
+Gol Gohar,Persepolis FC,3.00,2.40,2.85,Pro League,Iran,2024-04-07 18:30:00,7529,7216076,49007529
+New England,Charlotte FC,2.35,2.90,3.35,MLS,USA,2024-04-07 02:30:00,64591,6776498,46364591
+Mensajero,Getafe B,3.00,2.39,2.85,Segunda Federacion,Spain,2024-04-07 13:30:00,82081,7253267,42482081
+Avranches,Epinal,2.21,2.95,3.20,National,France,2024-04-12 20:30:00,37109,7247507,42337109
+Fyllingsdalen,Kongsvinger 2,2.19,2.34,3.90,3rd Division Group 6,Norway,2024-04-07 15:00:00,99515,6913013,47299515
+Foolad,Havadar SC,2.55,2.95,2.70,Pro League,Iran,2024-04-07 18:45:00,7537,7216085,49007537
+Cincinnati,New York,2.23,3.25,3.20,MLS,USA,2024-04-07 02:30:00,64581,6776509,46364581
+Cacereno,UD Montijo,1.27,10.00,4.70,Segunda Federacion,Spain,2024-04-07 18:30:00,82077,7253306,42482077
+Nimes,Versailles,2.40,2.85,3.00,National,France,2024-04-12 20:30:00,37117,7247509,42337117
+Stropkov,Stara Lubovna,2.04,2.75,3.55,3. Liga East,Slovakia,2024-04-07 17:00:00,2481,7268108,42602481
+Segoviana,Badajoz,2.11,3.15,3.25,Segunda Federacion,Spain,2024-04-07 19:00:00,82079,7253291,42482079
+Ljungskile,Lunds,3.30,1.97,3.55,Ettan Sodra,Sweden,2024-04-07 17:00:00,18227,6879169,47118227
+Ajax Cape Town,Mamelodi Sundowns,9.80,1.24,5.40,Premiership,South Africa,2024-04-09 20:30:00,95681,7221270,49017615
+Snina,Vranov Nad Toplou,1.93,2.90,3.65,3. Liga East,Slovakia,2024-04-07 17:00:00,2477,7268059,42602477
+Auxerre,TROYES,1.43,6.80,4.50,Ligue 2,France,2024-04-08 21:45:00,42887,7243197,49142887
+Novi Sad,Sloboda,2.35,2.70,2.90,Prva Liga,Serbia,2024-04-07 17:00:00,51087,7268065,42551087
+1.fk Svidník,Kalinovo,4.30,1.51,4.10,3. Liga East,Slovakia,2024-04-07 17:00:00,2475,7268088,42602475
+Jeonbuk,Gangwon,1.82,4.30,3.50,K-League 1,Republic of Korea,2024-04-07 08:00:00,92011,6872812,47092011
+Bohemians Prague 1905 B,SK Dynamo Ceske Budejovice B,2.41,2.42,3.70,CFL,Czech Republic,2024-04-07 11:15:00,78353,7253729,46678353
+Xelaju MC,Municipal,2.55,2.85,2.90,Liga Nacional. Clausura,Guatemala,2024-04-07 05:00:00,28017,7258177,47628017
+Bergantinos CF,Arosa SC,2.05,3.65,2.95,Tercera Federacion Group 1,Spain Amateur,2024-04-07 19:00:00,57793,7269562,42942331
+TPV,Tampereen Ilves 2,2.48,2.39,3.70,Kakkonen Group B,Finland,2024-04-07 19:00:00,51327,7037917,47951327
+Vasco Da Gama,Lusitano Evora,2.95,2.17,3.30,Campeonato de Portugal,Portugal,2024-04-07 18:00:00,99827,7267232,42799827
+Rayo Ibense,Levante UD,2.27,3.05,3.00,Tercera Federacion Group 6,Spain Amateur,2024-04-07 19:00:00,77367,7269560,42945495
+St. Pauli II,Norderstedt,1.90,3.05,3.50,Regionalliga North,Germany Amateur,2024-04-07 15:00:00,44215,7247108,42305153
+Barreirense,FC Serpa,2.12,3.05,3.35,Campeonato de Portugal,Portugal,2024-04-07 18:00:00,97067,7267241,42799839
+Kingston City,Langwarrin,2.13,2.70,3.35,Victoria Premier League 1,Australia,2024-04-08 13:30:00,37843,7269568,47072347
+EUPEN,KORTRIJK,2.31,2.95,3.35,Pro League,Belgium,2024-04-07 17:00:00,48833,7239461,48719743
+Blau-Weiss Lohne,Hamburg II,2.90,2.00,3.40,Regionalliga North,Germany Amateur,2024-04-07 16:00:00,84569,7247111,42305157
+Hoffenheim II,Eintracht II,1.56,4.40,3.70,Regionalliga Southwest,Germany Amateur,2024-04-07 13:00:00,73451,7247367,42236439
+Tammeka II,FC Kuressaare,1.97,2.80,3.70,Esiliiga B,Estonia,2024-04-07 15:00:00,6877,7269197,47098617
+Zilina,Ruzomberok,1.74,4.10,3.60,Superliga,Slovakia,2024-04-13 19:00:00,81627,7099238,48281627
+Marumo Gallants FC,Jdr Stars,2.24,3.20,2.65,Championship,South Africa,2024-04-07 16:00:00,93255,7233932,43231891
+Breidablik,Hafnarfjordur,1.78,3.75,3.95,Besta deild,Iceland,2024-04-08 22:15:00,73223,6787860,46473223
+Besiktas,Samsunspor,1.75,4.40,3.60,Super Lig,Turkiye,2024-04-13 19:00:00,81023,7134267,42416145
+Pretoria Callies,Maritzburg United,2.37,2.95,2.65,Championship,South Africa,2024-04-07 16:00:00,31901,7266011,43231901
+Longford Town,Bray Wanderers,2.60,2.46,3.25,First Division,Ireland,2024-04-13 22:30:00,21663,6783137,46421663
+Dukla Prague B,Mas Taborsko II,2.33,2.43,3.85,CFL,Czech Republic,2024-04-07 11:15:00,78357,7253741,46678357
+Welco,Viimsi,2.80,2.12,3.70,Esiliiga,Estonia,2024-04-07 12:30:00,38055,7268813,47099093
+Solihull Moors,Ebbsfleet,2.38,2.55,3.50,National League,England,2024-04-09 21:45:00,19095,7066600,48119095
+North Texas SC,San Jose Earthquakes II,2.60,2.43,3.45,MLS Next Pro,USA,2024-04-07 00:00:00,7547,7263991,47770589
+Wealdstone,Southend,3.40,1.90,3.55,National League,England,2024-04-09 21:45:00,66875,7000943,47739475
+Kuopion Elo,Jakobstads BK,2.02,2.95,3.90,Kakkonen Group C,Finland,2024-04-07 15:00:00,31579,7037995,47951755
+1. FC UNION BERLIN U19,WERDER BREMEN U19,1.39,4.90,4.60,A-Junioren-Bundesliga N/N-E,Germany Amateur,2024-04-07 12:00:00,58321,7266019,42258321
+Maidenhead,Hartlepool,2.25,2.70,3.50,National League,England,2024-04-09 21:45:00,92559,7173773,48704891
+A. de Quilmes,Argentino de Merlo,1.92,3.85,3.15,Primera B,Argentina,2024-04-08 21:30:00,27145,7244684,46927145
+EINTRACHT BRAUNSCHWEIG U19,WOLFSBURG U19,4.20,1.51,4.20,A-Junioren-Bundesliga N/N-E,Germany Amateur,2024-04-07 12:00:00,58327,7266033,42258327
+Crystal Palace,EVERTON RESERVE,2.55,3.70,2.30,Premier League 2,England Amateur,2024-04-08 21:00:00,96079,7268523,42794121
+Zaglebie Sosnowiec,Gornik Leczna,2.70,2.50,3.00,I liga,Poland,2024-04-12 19:00:00,77619,7126351,41877619
+Gateshead,Aldershot,1.71,3.80,4.00,National League,England,2024-04-09 21:45:00,86536,7066582,48118777
+Radnicki 1923,Spartak Subotica,1.77,4.30,3.45,Superliga,Serbia,2024-04-07 15:30:00,33245,7096442,42548747
+Rostock,OSNABRUCK U19,2.18,2.55,3.50,A-Junioren-Bundesliga N/N-E,Germany Amateur,2024-04-07 12:00:00,58333,7266045,42258333
+Barnet,Bromley,1.72,4.00,3.75,National League,England,2024-04-09 21:45:00,15893,7014539,47815893
+Radnik,Crvena Zvezda,27.00,1.06,8.80,Superliga,Serbia,2024-04-07 17:00:00,30429,7096439,42548741
+HANNOVER 96 U19,LEIPZIG U19,2.18,2.55,3.50,A-Junioren-Bundesliga N/N-E,Germany Amateur,2024-04-07 14:00:00,58339,7266043,42258339
+Rochdale,Boreham,2.00,3.20,3.50,National League,England,2024-04-09 21:45:00,18867,7066586,48118867
+Oliveira Hospital,Amora FC,2.50,2.60,3.25,Liga Portugal 3,Portugal,2024-04-07 17:00:00,52757,7239471,47486565
+Radnicki Nis,Vozdovac,1.79,4.10,3.45,Superliga,Serbia,2024-04-07 17:30:00,34753,7096450,42548749
+HERTHA BSC BERLIN U19,Carl Zeiss Jena,1.42,4.80,4.40,A-Junioren-Bundesliga N/N-E,Germany Amateur,2024-04-07 15:00:00,58345,7266025,42258345
+Halifax,Oldham,2.20,2.90,3.35,National League,England,2024-04-10 21:45:00,10303,7182734,48810303
+Shabab AlAhli,AL Jazira,1.66,4.10,4.10,Arabian Gulf League,United Arab Emirates,2024-04-07 21:00:00,66975,7098848,41966975
+U. 60 Bremen,Blumenthal,1.97,2.75,3.70,Bremen-Liga,Germany Amateur,2024-04-07 16:00:00,54735,7266027,42554735
+Wealdstone,Dorking Wanderers,2.10,2.95,3.50,National League,England,2024-04-11 21:45:00,22817,7269577,48438213
+SV Steinbach 1920,Vik. Griesheim,1.99,2.90,3.40,Hessenliga,Germany Amateur,2024-04-07 16:00:00,46881,7266037,41946881
+Rochdale,Dorking Wanderers,1.69,4.10,3.80,National League,England,2024-04-13 17:00:00,5821,7269938,42137201
+CA Antoniano,CDA Aguilas,3.00,2.50,2.70,Segunda Federacion,Spain,2024-04-07 18:00:00,81421,7254460,42481421
+Cobh Ramblers,Wexford,3.05,2.22,3.15,First Division,Ireland,2024-04-12 22:45:00,58617,7265660,46421657
+Alianza FC,CD Luis Angel Firpo,1.67,4.10,3.85,Primera Division Reserves Clausura,El Salvador,2024-04-07 00:00:00,93949,7268529,48519971
+Cartagines,LD Alajuelense,3.75,1.85,3.65,Primera Division Clausura,Costa Rica,2024-04-07 02:00:00,5973,6784274,46428539
+Alta,Kjelsaas,2.40,2.40,3.75,2nd Division Group 2,Norway,2024-04-07 15:30:00,39417,6877998,47114889
+Tigres,Pachuca,2.21,2.95,3.55,Liga MX Clausura,Mexico,2024-04-07 04:00:00,45565,6774183,46345565
+Comerciantes U.,Cusco FC,2.19,3.15,3.25,Liga 1,Peru,2024-04-08 23:00:00,34353,7209189,48979337
+Queen of The South,Edinburgh,1.11,13.00,8.40,League 1,Scotland,2024-04-13 17:00:00,81773,7269582,42025531
+Kelty Hearts,Stirling,1.99,3.25,3.50,League 1,Scotland,2024-04-13 17:00:00,78101,7269584,42025529
+Union Luxembour,Rosport,2.32,2.47,3.75,Division Nationale,Luxembourg,2024-04-07 17:00:00,22605,7268540,41986465
+Alloa,Montrose,2.09,2.85,3.70,League 1,Scotland,2024-04-13 17:00:00,59051,7269587,42025523
+El Palo,Cadiz B,2.01,3.60,3.05,Segunda Federacion,Spain,2024-04-07 13:00:00,63631,7254502,42963631
+Annan,Cove Rangers,2.95,2.04,3.70,League 1,Scotland,2024-04-13 17:00:00,30637,7269590,42025525
+San Luis,Juarez,1.81,4.00,3.75,Liga MX Clausura,Mexico,2024-04-08 03:00:00,45573,6774189,46345573
+Leuven Youth,ROYAL CHARLEROI YOUTH,3.30,1.76,3.75,Nationale 1,Belgium,2024-04-07 16:00:00,91969,7269947,42003789
+Villa Dalmine,Comunicaciones,3.00,2.47,2.75,Primera B,Argentina,2024-04-07 21:30:00,27141,7244755,46927141
+Capellen,Yound Reds Antwerpen U23,2.30,2.43,3.40,Nationale 1,Belgium,2024-04-07 16:00:00,3793,7269949,42003793
+Sprockhövel,Siegen,4.30,1.53,3.90,Oberliga Westfalen,Germany Amateur,2024-04-07 16:00:00,97141,7266053,42297141
+CD Real Santander,Independiente Santa F. Women,14.00,1.13,7.00,Liga Femenina,Colombia,2024-04-06 23:30:00,89833,7266791,47738977
+Tesanj,Radnik Hadzici,1.75,3.90,3.70,Prva Liga Fed BiH,Bosnia & Herzegovina,2024-04-07 17:00:00,43865,7269945,42281069
+CD Genesis,Real Sociedad (HND),1.94,3.80,3.10,Liga Nacional. Clausura,Honduras,2024-04-09 03:00:00,22893,7223316,49022893
+FK Velez Mostar,FK Borac Banja Luka,2.48,2.65,3.25,Premijer Liga,Bosnia & Herzegovina,2024-04-07 21:45:00,46363,7144059,48546363
+Lumezzane,Padova,4.50,1.75,3.25,Serie C Group A,Italy,2024-04-07 19:30:00,20183,7006028,42820183
+Atalanta U23,Pro Patria,1.83,4.20,3.15,Serie C Group A,Italy,2024-04-07 21:45:00,78791,7006019,42820189
+Vicenza,Novara,1.62,5.00,3.55,Serie C Group A,Italy,2024-04-07 19:30:00,20177,7006023,42820177
+UD San Fernando,CD Illescas,1.99,3.90,2.95,Segunda Federacion,Spain,2024-04-07 14:00:00,65881,7255059,42482089
+Ajaccio,ST. ETIENNE,3.50,2.22,2.90,Ligue 2,France,2024-04-13 16:00:00,5825,7126882,42005825
+D. Velke Ludince,Dubnica,1.49,4.60,4.00,3. Liga West,Slovakia,2024-04-07 17:00:00,33103,7268209,42420581
+Boluspor,Umraniyespor,2.20,3.10,3.20,1. Lig,Turkiye,2024-04-13 16:00:00,58038,7132831,42438911
+Valenciennes,Pau,2.95,2.39,3.10,Ligue 2,France,2024-04-13 20:00:00,5831,7126883,42005831
+Laval,Annecy,2.02,3.80,3.10,Ligue 2,France,2024-04-13 20:00:00,39477,7126884,42739477
+Walldorf,Koblenz,1.46,5.00,3.95,Regionalliga Southwest,Germany Amateur,2024-04-07 15:00:00,36445,6969577,42236445
+Gjovik-Lyn,Junkeren,2.08,2.85,3.75,2nd Division Group 2,Norway,2024-04-07 18:00:00,15139,6878000,47114897
+BORDEAUX,Bastia,1.86,3.90,3.45,Ligue 2,France,2024-04-13 20:00:00,5827,7126887,42005827
+Otelul,Dinamo B.,2.15,3.55,3.10,Superliga,Romania,2024-04-08 20:30:00,37701,7143183,48537701
+Al Nasr,Al Fehaheel,2.39,2.55,3.50,Premier League,Kuwait,2024-04-08 21:30:00,56973,7264724,49156973
+Strassen,Wiltz 71,2.15,2.95,3.40,Division Nationale,Luxembourg,2024-04-07 17:00:00,99287,7268546,41986461
+Ouakam,Linguere,2.02,3.65,2.70,Premier League,Senegal,2024-04-07 19:30:00,94377,7250889,49194377
+Concarneau,AMIENS,2.85,2.55,2.95,Ligue 2,France,2024-04-13 20:00:00,60570,7126888,45460570
+Tuntum MA,Maranhao,3.60,1.81,3.25,Maranhense,Brazil,2024-04-07 22:00:00,10253,7270266,49210253
+Treaty United,Kerry FC,1.73,4.10,3.65,First Division,Ireland,2024-04-12 22:45:00,21659,6783138,46421659
+Fola Esch,Niedercorn,3.35,1.89,3.70,Division Nationale,Luxembourg,2024-04-07 17:00:00,76325,7268554,41986463
+Generation Foot,Jaraaf,2.60,2.75,2.55,Premier League,Senegal,2024-04-07 19:30:00,94383,7250891,49194383
+Dunkerque,GUINGAMP,3.65,2.04,3.15,Ligue 2,France,2024-04-13 20:00:00,5837,7126889,42005837
+Real San Andres,Bogota,2.25,2.85,3.35,Primera B,Colombia,2024-04-06 23:30:00,69897,6813437,46669897
+Pergolettese,U. Arzignanochiampo,2.65,2.65,2.85,Serie C Group A,Italy,2024-04-07 19:30:00,20159,7006029,42820159
+Athlone Town,Finn Harps,2.60,2.65,2.95,First Division,Ireland,2024-04-12 22:45:00,21655,6783135,46421655
+CAEN,Rodez,2.12,3.20,3.35,Ligue 2,France,2024-04-13 20:00:00,5829,7126881,42005829
+Barranquilla,Quindio,2.70,2.50,3.10,Primera B,Colombia,2024-04-06 23:30:00,69903,6813438,46669903
+FC Viktoria Plzen B,SK Slavia Prague B,3.50,1.79,3.90,CFL,Czech Republic,2024-04-07 11:30:00,78365,7253797,46678365
+CD Galapagar,CD Canillas,1.51,6.80,3.40,Tercera Federacion Group 7,Spain Amateur,2024-04-07 17:30:00,65821,7269643,42946377
+Halcones De Zapopan FC,CA San Juan de Aragon,2.07,3.30,3.30,Liga Premier Serie A,Mexico,2024-04-07 01:00:00,52285,7266483,42644379
+CD Ursaria,CD Atletico Paso,2.23,3.30,2.85,Segunda Federacion,Spain,2024-04-07 12:30:00,15571,7254543,42482091
+Hercules,Atletico Saguntino,1.51,6.00,3.65,Segunda Federacion,Spain,2024-04-07 20:00:00,80807,7255609,42480807
+Sharjah,Emirates,1.21,9.60,6.20,Arabian Gulf League,United Arab Emirates,2024-04-08 21:00:00,26953,7243283,41966979
+Messina,Monterosi,1.83,3.95,3.35,Serie C Group C,Italy,2024-04-07 15:00:00,3046,7007378,42821409
+Canuelas FC,Dock Sud,2.24,3.20,2.95,Primera B,Argentina,2024-04-08 21:30:00,27153,7249321,46927153
+Constantine,Paradou,1.62,5.20,3.70,Ligue 1,Algeria,2024-04-07 00:00:00,42947,7205280,48945765
+Irapuato,Racing FC Porto Palmeiras,2.80,2.43,3.10,Liga Premier Serie A,Mexico,2024-04-07 04:00:00,44373,7265268,42644373
+Independiente Medellin,America de Cali Sa,4.20,1.70,3.65,Liga Femenina,Colombia,2024-04-07 02:10:00,64447,7266816,47738979
+Melbourne City,Western United FC Youth,3.05,2.00,3.65,Victoria Premier League 1,Australia,2024-04-07 08:00:00,47699,7245872,47072343
+Linares,Antequera,2.43,2.80,3.00,Primera Federacion,Spain,2024-04-07 13:00:00,31215,7250743,42431215
+Garching,FC 1920 Gundelfingen,2.85,2.07,3.25,Bayernliga South,Germany Amateur,2024-04-07 14:00:00,21277,7265686,41917779
+MALAGA,Ceuta,1.68,4.90,3.35,Primera Federacion,Spain,2024-04-07 13:00:00,31219,7250745,42431219
+Aris Limassol,Omonia,1.77,4.00,3.30,Cyprus Cup,Cyprus,2024-04-10 17:00:00,62993,7147684,48562993
+ATALANTA  U19,GENOA CFC U19,1.73,3.50,3.60,Campionato Primavera 1,Italy,2024-04-07 14:00:00,87787,7265689,42492359
+Duzcespor,Denizlispor,1.90,3.30,3.20,2. Lig,Turkiye Amateur,2024-04-07 15:00:00,86283,7266075,42551771
+Sandvikens AIK,Dalkurd,1.46,5.20,4.40,Division 2 Norra Svealand,Sweden,2024-04-07 13:00:00,26057,6896610,47226057
+Politehnica Iasi,FC U Craiova 1948,2.28,3.05,3.30,Superliga,Romania,2024-04-08 17:30:00,37703,7143180,48537703
+Ibiza Eivissa,Melilla,1.31,9.20,4.40,Primera Federacion,Spain,2024-04-07 13:00:00,31207,7250747,42431207
+Geestemunde,Tura Bremen,1.46,4.20,4.50,Bremen-Liga,Germany Amateur,2024-04-07 12:00:00,54733,7265279,42554733
+Yeni,Menemen,3.45,1.92,3.05,2. Lig,Turkiye Amateur,2024-04-07 15:00:00,89093,7095821,42551777
+Lucksta IF,Bodens,4.40,1.59,4.10,Division 2 Norrland,Sweden,2024-04-07 13:00:00,25987,6896617,47225987
+Lokomotiv Plovdiv,Cherno More,2.90,2.46,3.05,Parva Liga,Bulgaria,2024-04-08 19:30:00,96199,7146862,42568379
+Cagliari  U19,LAZIO ROMA U19,2.16,2.65,3.30,Campionato Primavera 1,Italy,2024-04-07 12:00:00,92363,7265280,42492363
+Demirspor,Kasimpasa Erokspor,6.40,1.41,3.65,2. Lig,Turkiye Amateur,2024-04-07 15:00:00,16887,7266077,42550583
+Froso,Kiruna FF,2.85,2.13,3.55,Division 2 Norrland,Sweden,2024-04-07 14:00:00,25993,6896615,47225993
+Mosta,St Lucia,2.48,2.47,3.45,Premier League,Malta,2024-04-07 15:00:00,94413,7112649,48394413
+Valladolid B,Gimnastica Torrelavega,2.42,2.85,3.00,Segunda Federacion,Spain,2024-04-07 13:00:00,79601,7254552,42479601
+Mondorf-Les-Bains,Schifflingen 95,2.15,2.85,3.50,Division Nationale,Luxembourg,2024-04-07 17:00:00,30349,7268562,41986471
+Adiyaman 1954,Kirklarelispor,5.20,1.57,3.20,2. Lig,Turkiye Amateur,2024-04-07 15:00:00,50581,7095811,42550581
+Sliema,Hibernians,1.82,3.45,3.85,Premier League,Malta,2024-04-07 17:15:00,94419,7112651,48394419
+Iraklis,PAOK Thessaloniki B,1.91,3.90,3.10,Super League 2,Greece,2024-04-07 16:00:00,83551,7262389,48755341
+TSV Victoria Clarholz,SG Finnentrop/Bamenohl,2.41,2.21,3.65,Oberliga Westfalen,Germany Amateur,2024-04-07 16:00:00,40627,7266079,42297147
+Deportivo Toluca U23,Atlas FC U23,1.34,6.20,4.30,U23 Liga MX,Mexico,2024-04-07 18:00:00,93315,7268568,46530401
+FK Grbalj,FK Bokelj,2.50,2.15,3.65,2. CFL,Montenegro,2024-04-07 17:00:00,28319,7268880,41907487
+Vastra Frolunda,Laholm,1.49,5.00,4.30,Division 2 Vastra Gotaland,Sweden,2024-04-07 14:00:00,72367,6968984,47572367
+Stal Rzeszow,Znicz Pruszkow,2.24,3.00,3.20,I liga,Poland,2024-04-07 19:00:00,77605,7089749,41877605
+Real San Joaquin,D. Concepcion,2.26,2.85,3.35,Segunda Division,Chile,2024-04-06 23:30:00,69417,7264738,47869417
+Lotte,Wattenscheid,1.24,7.40,5.00,Oberliga Westfalen,Germany Amateur,2024-04-07 16:00:00,77257,7266081,42297145
+FK Internacional Podgorica,Berane,1.90,3.25,3.25,2. CFL,Montenegro,2024-04-07 17:00:00,67081,7268884,41907489
+Dobrudzha,Belasitsa,1.54,6.00,3.55,Second Prof. League,Bulgaria,2024-04-07 17:00:00,30359,7264736,47868871
+Westfalia,SPVGG Vreden 1921,2.26,2.48,3.40,Oberliga Westfalen,Germany Amateur,2024-04-07 16:00:00,97151,7266093,42297151
+Verl,Aue,2.10,3.05,3.45,3. Liga,Germany,2024-04-13 15:00:00,33113,7250456,42187865
+Igalo 1929,FK Iskra,2.22,2.37,3.75,2. CFL,Montenegro,2024-04-07 17:00:00,53373,7268886,41907483
+Uhlenhorst,Sasel,2.36,2.30,3.55,Oberliga Hamburg,Germany Amateur,2024-04-07 11:45:00,51151,7269287,42073915
+BRONDBY,SILKEBORG,1.47,6.20,4.40,Superliga,Denmark,2024-04-08 20:00:00,67077,7252571,48751097
+Cayon,RC Deportivo,2.70,2.60,2.90,Segunda Federacion,Spain,2024-04-07 13:00:00,94101,7254554,42479609
+Riga FC,Jelgava,1.09,22.00,8.00,Virsliga,Latvia,2024-04-08 19:00:00,28633,7033497,47928633
+Dortmund II,Ingolstadt,3.65,1.79,3.85,3. Liga,Germany,2024-04-13 15:00:00,47641,7250457,42187867
+Lovcen,FK Kom,2.22,2.37,3.75,2. CFL,Montenegro,2024-04-07 17:00:00,30355,7268888,41907485
+Dunajska Streda,Podbrezova,1.97,3.45,3.40,Superliga,Slovakia,2024-04-07 18:30:00,54479,7242381,48564537
+Daejeon Citizen,Pohang Steelers,2.90,2.39,3.30,K-League 1,Republic of Korea,2024-04-07 10:30:00,92015,6872818,47092015
+Liepaja,Auda,3.00,2.16,3.25,Virsliga,Latvia,2024-04-09 18:00:00,28637,7033502,47928637
+FK Podgorica,Otrant Ulcinj,2.41,2.45,3.15,2. CFL,Montenegro,2024-04-07 18:00:00,30719,7268882,41907491
+TPS,Jaro,2.19,2.80,3.50,Ykkosliiga,Finland,2024-04-13 16:00:00,15313,6941369,47415313
+UD Samano,CD Revilla,2.23,2.95,3.25,Tercera Federacion Group 3,Spain Amateur,2024-04-07 20:00:00,8339,7269131,42943967
+Aasane Fotball 2,Floro,1.96,2.65,4.00,3rd Division Group 1,Norway,2024-04-07 16:00:00,99087,6912821,47299087
+Slavia Sofia,Hebar,1.42,8.20,3.75,Parva Liga,Bulgaria,2024-04-13 17:45:00,68437,7146209,42568437
+S. Georgia Tormenta,Lexington SC,2.33,2.60,3.60,USL League One,USA,2024-04-07 02:30:00,86971,7265715,48000279
+Torredonjimeno,CD Huetor Tajar,2.13,3.45,2.95,Tercera Federacion Group 9,Spain Amateur,2024-04-07 19:30:00,25517,7269680,42947967
+Pittsburgh,Tampa Bay,2.50,2.75,3.15,USL Championship,USA,2024-04-07 02:00:00,69478,6771866,46327393
+Perugia,Olbia,1.35,8.00,4.30,Serie C Group B,Italy,2024-04-07 15:00:00,46605,7006544,42820973
+Imperatriz,Sampaio Correa,2.85,2.34,3.15,Maranhense,Brazil,2024-04-07 01:30:00,10331,7265334,49210331
+Sfida Setagaya FC,Nittaidai FC,2.09,3.05,3.55,Nadeshiko League Div. 1 Women,Japan,2024-04-07 08:00:00,44489,7267777,47644489
+Ebbsfleet,Altrincham,2.39,2.49,3.60,National League,England,2024-04-13 17:00:00,73911,7269664,42137177
+Rhode Island FC,Charleston,3.45,1.92,3.75,USL Championship,USA,2024-04-07 02:30:00,25730,6771869,46327391
+Eidsvold,Valerenga 2,2.28,2.55,3.75,2nd Division Group 2,Norway,2024-04-07 15:00:00,97345,6877999,47114893
+Fylde,Southend,2.49,2.44,3.50,National League,England,2024-04-13 17:00:00,97531,7269665,42137165
+Libertad,Guarani,1.70,4.60,3.65,Division de Honor Apertura,Paraguay,2024-04-07 03:30:00,88067,6755717,46188067
+FC Montrouge 92 U19,USM Saran,2.00,3.10,3.60,Championnat National U19,France,2024-04-07 16:00:00,67467,7265718,42532191
+Nowy Dwor,L. II Warszawa,2.65,2.01,3.50,III Liga Group 1,Poland,2024-04-07 16:00:00,70605,7267779,42170605
+Bromley,Solihull Moors,1.94,3.35,3.45,National League,England,2024-04-13 17:00:00,34653,7269668,42137173
+Betis B,Marbella,2.03,3.55,3.05,Segunda Federacion,Spain,2024-04-07 12:30:00,71159,7255638,42481425
+RC Lens,Valenciennes FC,1.81,3.55,3.75,Championnat National U19,France,2024-04-07 16:00:00,7800,7265720,42532167
+Vila Real,Tirsense,2.36,2.90,3.00,Campeonato de Portugal,Portugal,2024-04-07 17:00:00,40649,7266847,42798657
+Dep. Laferrere,Colegiales,3.50,2.08,3.00,Primera B,Argentina,2024-04-08 21:00:00,83191,7267381,46927155
+Stjordals/Blink,Ullensaker/Kisa,2.34,2.47,3.75,2nd Division Group 2,Norway,2024-04-07 16:00:00,69019,6878001,47114895
+Hamilton,Falkirk,2.65,2.17,3.80,League 1,Scotland,2024-04-13 19:30:00,18465,7119531,42025527
+Mutual L. N. Alem,Argentino Rosario,1.77,4.00,3.05,Primera C,Argentina,2024-04-07 21:20:00,31023,7270296,46931023
+Bloemfontein Celtic,Polokwane,2.65,2.65,2.95,Premiership,South Africa,2024-04-07 16:00:00,3037,6978104,47628479
+US Quevilly-Rouen Metropole,Montfermeil FC,4.80,1.50,4.50,Championnat National U19,France,2024-04-07 16:00:00,32199,7265722,42532199
+Dumiense Cjpii Futebol Sad,Brito SC,2.05,3.70,2.95,Campeonato de Portugal,Portugal,2024-04-07 17:00:00,98665,7266844,42798665
+Victoria Sulejowek,GKS Wikielec,1.86,3.05,3.40,III Liga Group 1,Poland,2024-04-07 17:00:00,70595,7267787,42170595
+Gil Vicente,Sporting,9.00,1.27,5.40,Liga Portugal,Portugal,2024-04-12 22:15:00,85013,7270293,42146695
+Los Angeles,LA Galaxy,1.73,3.95,4.20,MLS,USA,2024-04-07 02:45:00,64585,6776502,46364585
+Amiens SC,USL Dunkerque,1.84,3.50,3.65,Championnat National U19,France,2024-04-07 16:00:00,30117,7265724,42532175
+Kozlovice,Slavicin,1.57,4.00,3.90,Divize E,Czech Republic,2024-04-07 16:30:00,94099,7264072,46476287
+Sloga,Zeljeznicar,1.94,3.45,3.50,Premijer Liga,Bosnia & Herzegovina,2024-04-07 15:00:00,46365,7144060,48546365
+Kostelec Na Hane,Elko Holesov,2.37,2.27,3.60,Divize E,Czech Republic,2024-04-07 16:30:00,76289,7264093,46476277
+Bulleen Lions Women,South Melbourne Women,1.99,3.00,3.80,Victoria Npl Women,Australia,2024-04-08 13:15:00,16989,7267386,46965911
+Mansfield,Forest Green,1.34,7.60,5.00,League Two,England,2024-04-09 21:45:00,75959,6915799,47305977
+Karaman,Fethiyespor,1.77,3.70,3.25,2. Lig,Turkiye Amateur,2024-04-07 15:00:00,95301,7266125,42551769
+Kimberley de Mar Del Plata,CDC Nicanor Otamendi,1.73,4.30,3.45,Torneo Federal A,Argentina,2024-04-07 17:00:00,9407,7270304,48409407
+Polonia Warszawa,Resovia,1.96,3.40,3.50,I liga,Poland,2024-04-08 19:00:00,17395,7124647,41877607
+Granada B,Merida,2.65,2.60,3.00,Primera Federacion,Spain,2024-04-07 13:00:00,31205,7250767,42431205
+Pontedera,Ancona,2.19,2.95,3.25,Serie C Group B,Italy,2024-04-07 15:00:00,20949,7006556,42820949
+Altinordu,Diyarbekirspor AS,1.58,4.80,3.35,2. Lig,Turkiye Amateur,2024-04-07 15:00:00,50591,7095792,42550591
+Kolubara,Smederevo,2.37,2.70,2.90,Prva Liga,Serbia,2024-04-07 20:00:00,75667,7268925,42732399
+Sansinena,Cipolletti,1.94,3.75,3.15,Torneo Federal A,Argentina,2024-04-07 22:00:00,29847,7270301,48409351
+Mitrovica,Indjija,1.96,3.50,2.95,Prva Liga,Serbia,2024-04-08 17:00:00,18223,7268933,42551079
+Atletico Balboa,CD. Cacahuatique,2.10,3.05,3.15,Segunda Division,El Salvador,2024-04-06 23:30:00,34815,7269309,47676317
+Recanatese,Carrarese,5.20,1.58,3.65,Serie C Group B,Italy,2024-04-07 17:15:00,20957,7006560,42820957
+Rheine,Gievenbeck,2.85,2.00,3.45,Oberliga Westfalen,Germany Amateur,2024-04-07 16:00:00,97149,7266095,42297149
+Airdrieonians,Dunfermline,2.26,2.80,3.40,Championship,Scotland,2024-04-13 17:00:00,26035,7268935,42025117
+Uniao Cacoalense RO,Porto Velho Ec/Ro,4.30,1.73,3.55,Campeonato Rondoniense,Brazil,2024-04-07 02:00:00,94355,7269289,47853481
+New Mexico United,El Paso Locomotive FC,1.81,4.00,3.55,USL Championship,USA,2024-04-07 04:00:00,31398,6771867,46327397
+Gdrc Os Sandinenses,CDC Montalegre,2.10,3.25,3.15,Campeonato de Portugal,Portugal,2024-04-07 17:00:00,40651,7266863,42798659
+Ludog. Razgrad B,FK CSKA 1948 II,2.15,3.25,3.05,Second Prof. League,Bulgaria,2024-04-08 17:00:00,50495,7267392,47868879
+Karlbergs,Piteaa,2.38,2.55,3.55,Ettan Norra,Sweden,2024-04-07 17:00:00,17485,6878858,47117485
+Queens Park,Inverness CT,2.32,2.75,3.40,Championship,Scotland,2024-04-13 17:00:00,92335,7268939,42025123
+Oakland Roots SC,Monterey Bay FC,2.43,2.70,3.30,USL Championship,USA,2024-04-07 05:00:00,97444,6771872,46327395
+Raith Rovers,Partick Thistle,2.10,3.10,3.40,Championship,Scotland,2024-04-13 17:00:00,51089,7268929,42025125
+Nardo,Stabaek 2,1.44,4.60,4.40,3rd Division Group 4,Norway,2024-04-07 16:00:00,99325,6912924,47299325
+Las Vegas Lights,San Antonio,3.40,1.97,3.60,USL Championship,USA,2024-04-07 05:30:00,99727,6771868,46327403
+IFK Osteraakers,Hudiksvalls,2.10,2.85,3.70,Division 2 Norra Svealand,Sweden,2024-04-07 15:00:00,26059,6896608,47226059
+Ayr,Arbroath,1.58,4.80,4.00,Championship,Scotland,2024-04-13 17:00:00,17477,7268931,42025119
+SW Essen,Hilden,2.08,2.80,3.35,Oberliga Niederrhein,Germany Amateur,2024-04-07 16:00:00,79687,7266137,42279687
+Ilves-Kissat,Ebk,1.70,3.80,4.20,Kakkonen Group B,Finland,2024-04-07 16:00:00,51325,7037918,47951325
+Voska Sport,Rabotnicki S,2.23,2.90,3.25,1. MFL,North Macedonia,2024-04-07 16:00:00,87611,7268587,48412199
+CD Roda,CD Burriana,1.83,4.50,3.05,Tercera Federacion Group 6,Spain Amateur,2024-04-07 13:00:00,14153,7269311,42945497
+Villefranche,Rouen,2.80,2.42,3.05,National,France,2024-04-12 20:30:00,37115,7247508,42337115
+Uniao Atletica Carmolandense TO,Tocantinopolis,2.26,3.10,3.00,Campeonato Tocantinense,Brazil,2024-04-07 00:30:00,91899,7265734,48991899
+Meerbusch,Sonsbeck,2.31,2.43,3.40,Oberliga Niederrhein,Germany Amateur,2024-04-07 16:00:00,79691,7266141,42279691
+B Stip,Shkupi Skopje,4.20,1.73,3.50,1. MFL,North Macedonia,2024-04-07 16:00:00,38051,7268591,48412203
+UD SANTA MARTA,CD Mirandes B,1.81,4.30,3.20,Tercera Federacion Group 8,Spain Amateur,2024-04-07 17:30:00,97115,7269307,42947179
+Chateauroux,Le Mans,2.55,2.70,2.95,National,France,2024-04-12 20:30:00,1301,7269689,42337105
+RM Castilla,Cordoba,2.60,2.60,3.05,Primera Federacion,Spain,2024-04-07 17:00:00,31213,7250783,42431213
+Siegburger SV 04,Bonn,6.20,1.36,4.10,Oberliga Mittelrhein,Germany Amateur,2024-04-07 16:00:00,95325,7266126,42380173
+Tikves,Akademija Pandev,2.23,2.90,3.25,1. MFL,North Macedonia,2024-04-07 16:00:00,55047,7268585,48412197
+A. Sanluqueno,Atletico Madrid B,2.35,2.90,3.05,Primera Federacion,Spain,2024-04-07 21:00:00,31211,7250778,42431211
+Club Mercedes,Lujan,2.33,2.95,3.05,Primera C,Argentina,2024-04-07 01:00:00,3065,7264420,46931037
+Eckernforde,Mtsv Hohenwestedt,1.33,5.80,4.70,Schleswig-Holstein-Liga,Germany Amateur,2024-04-07 16:00:00,84373,7266131,42184373
+Algeciras,Real Murcia,2.39,2.95,2.90,Primera Federacion,Spain,2024-04-07 21:00:00,31203,7250781,42431203
+Ratingen,Kleve,1.45,4.20,4.70,Oberliga Niederrhein,Germany Amateur,2024-04-07 16:00:00,79697,7266134,42279697
+CD Vilar Perdizes,Maritimo B,2.29,2.95,3.10,Campeonato de Portugal,Portugal,2024-04-07 17:00:00,98655,7266902,42798655
+Changwon City,Busan Trans. Corp.,2.55,2.60,3.20,K3 League,Republic of Korea,2024-04-07 08:00:00,33891,7267800,47933891
+Tj Jiskra Domazlice II,Klatovy,1.51,4.10,4.30,Divize A,Czech Republic,2024-04-07 11:30:00,58851,7261040,46458851
+Bergisch Gladb.,Freialdenhoven,1.57,4.30,3.70,Oberliga Mittelrhein,Germany Amateur,2024-04-07 16:15:00,80171,7266139,42380171
+FK Spartak Sobeslav,SK Otava Katovice,1.80,3.35,3.50,Divize A,Czech Republic,2024-04-07 17:30:00,58841,7261050,46458841
+Vila Mea,Gondomar,2.95,2.32,3.05,Campeonato de Portugal,Portugal,2024-04-07 18:00:00,99869,7266907,42799869
+Doncaster,Walsall,2.26,2.90,3.45,League Two,England,2024-04-09 21:45:00,38453,6951886,47471699
+St Anns Rangers,Defence Force FC,3.75,1.73,3.90,TT Premier League,Trinidad and Tobago,2024-04-07 01:00:00,5448,7262429,45405448
+FK Rudar,FK Jedinstvo,2.23,3.00,3.00,1. CFL,Montenegro,2024-04-13 18:00:00,20325,7269320,41907133
+Levski Sofia,CSKA Sofia,2.70,2.75,2.90,Parva Liga,Bulgaria,2024-04-07 14:45:00,68373,7146197,42568373
+FCSB,UNIVERSITATEA CRAIOVA,1.70,4.70,3.70,Superliga,Romania,2024-04-07 20:30:00,36799,7143034,48536799
+Colorado Springs Sw.,Sacramento Republic,2.95,2.27,3.35,USL Championship,USA,2024-04-07 03:00:00,16655,6771865,46327389
+FK IMT Novi Beograd,Napredak,2.31,2.90,3.15,Superliga,Serbia,2024-04-08 17:00:00,32271,7096445,42548743
+Aalesund 2,Spjelkavik,1.51,3.45,5.20,3rd Division Group 5,Norway,2024-04-07 17:00:00,66991,7269991,47299409
+Birmingham Legion FC,Loudoun United FC,2.00,3.15,3.70,USL Championship,USA,2024-04-08 00:00:00,54077,6771873,46327409
+Real Oviedo B,Arandina,1.82,4.20,3.20,Segunda Federacion,Spain,2024-04-07 13:00:00,79625,7254643,42479625
+Javor,Mladost L,2.20,3.10,3.15,Superliga,Serbia,2024-04-08 19:30:00,34759,7096448,42548745
+Khabarovsk,Neftekhimik,2.40,3.00,2.95,1. Liga,Russia,2024-04-07 14:00:00,72995,7096455,42692605
+Reboceros de La Piedad,Aguacateros de Periban FC,2.75,2.38,3.25,Liga Premier Serie A,Mexico,2024-04-07 01:00:00,30341,7266572,42644395
+Halifax,Barnet,2.75,2.24,3.50,National League,England,2024-04-13 17:00:00,88997,7269704,42137181
+Hartlepool,Dag & Red,2.36,2.60,3.45,National League,England,2024-04-13 17:00:00,16931,7269706,42137185
+Stade Brestois 29 SRL,FC Metz SRL,1.45,6.60,3.85,Ligue 1 SRL,Simulated Reality League,2024-04-07 11:00:00,5121,7270328,49099105
+Once Municipal,Isidro,2.14,3.10,2.85,Primera Division Clausura,El Salvador,2024-04-08 00:00:00,49253,7258648,46849253
+FC Dynamo-Makhachkala,Yenisey,2.07,3.65,3.00,1. Liga,Russia,2024-04-07 19:30:00,37855,7096464,42692601
+Kidderminster,Eastleigh,1.83,3.65,3.60,National League,England,2024-04-13 17:00:00,17899,7269710,42137189
+Leon,Queretaro,1.87,3.70,3.80,Liga MX Clausura,Mexico,2024-04-07 02:00:00,45561,6774187,46345561
+Sporting Canamy,Escorpiones Zacatepec FC,4.30,1.74,3.50,Liga Premier Serie A,Mexico,2024-04-07 02:00:00,44387,7265410,42644387
+Malzenice,Petrzalka,3.00,1.98,3.35,2. Liga,Slovakia,2024-04-07 11:30:00,17041,7268599,42161947
+G. Petrov,Shkendija,4.40,1.76,3.30,1. MFL,North Macedonia,2024-04-07 16:00:00,59985,7268596,48412205
+Union Gilloise,Cercle Brugge,1.73,4.50,3.75,Pro League,Belgium,2024-04-07 14:30:00,90977,7243070,48719637
+Sydney Utd,Rockdale,3.70,1.86,3.50,NSW NPL 1,Australia,2024-04-07 08:00:00,28271,6849247,46928271
+Pontevedra,CD Covadonga,1.13,16.00,6.80,Segunda Federacion,Spain,2024-04-07 18:00:00,79621,7254651,42479621
+Ionikos Nikea,Kalamata,1.75,4.30,3.40,Super League 2,Greece,2024-04-07 16:00:00,53955,7258660,48753955
+Triglav,Bilje,1.67,3.90,3.50,2. Liga,Slovenia,2024-04-07 17:00:00,3794,7268593,41908335
+Sprint/Jeloy,Innstranden,1.58,3.35,4.80,3rd Division Group 6,Norway,2024-04-07 17:00:00,99545,6913053,47299545
+Nyiregyhaza,Pecs,1.28,8.00,4.20,NB II,Hungary,2024-04-08 21:00:00,32923,7245511,42069571
+Slovacko B,1. Bfk Frydlant Nad Ostravici,1.45,5.60,4.50,MSFL,Czech Republic,2024-04-07 11:15:00,82714,7253468,45182714
+AD Marco 09,Rebordosa,1.82,4.40,3.10,Campeonato de Portugal,Portugal,2024-04-07 18:00:00,1695,7266971,42799861
+Vejle,Viborg,2.90,2.40,3.25,Superliga,Denmark,2024-04-07 15:00:00,90987,7247588,48751085
+Dragon,CD Platense Municipal Zacatecoluca,2.09,2.90,3.15,Primera Division Clausura,El Salvador,2024-04-08 00:15:00,49261,7258657,46849261
